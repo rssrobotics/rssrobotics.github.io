@@ -3,9 +3,16 @@
 
   {% include head.html %}
 
+
+
   <body class="theme-base-08">
+    <div class="header container">
+      <h1>{{ site.title }}</h1>
+      <p class="lead">{{ site.description }}</p>   
+    </div>
 
     {% include sidebar.html %}
+
 
     <div class="content container">
       {{ content }}
