@@ -1,26 +1,34 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+kramdown:
+  input: GFM
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            "Robotics: Science and Systems"
+tagline:          'A Robotics Conference'
+description:      'July 12-17 2017 <br> Boston, USA.'
 url:              http://hyde.getpoole.com
 baseurl:          /
+include:          ['_pages']
 
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
+gems:             [jekyll-paginate]
 paginate:         5
+paginate_path:    "page:num"
 
 # Custom vars
 version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+collections:
+    Committees:
+        output: true
+        permalink: /committees/:path/
