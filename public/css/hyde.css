@@ -47,6 +47,47 @@ html {
 
 
 /*
+ * Header
+ * Something for the top of the page
+ */
+
+.header {
+  text-align: center;
+  min-width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  text-align: center;
+  color: #fff;
+}
+
+
+
+@media (min-width: 48em) {
+  .header {
+    text-align: center;
+    min-width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    text-align: left;
+    margin-left: 18rem;
+    color: #fff;
+  }
+}
+
+
+.header h1 {
+  margin: 0 auto;
+  color: #fff;
+  margin-top: 1rem;
+  font-family: Palatino;
+  font-size: 2rem;
+  background-color: 
+}
+
+
+/*
  * Sidebar
  *
  * Flexible banner for housing site name, intro, and "footer" content. Starts
@@ -55,18 +96,24 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
+  padding-top: 9rem;
+  padding-bottom: 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
+  top: 10rem;
+  left: 0;
+  bottom: 0;
 }
+
 @media (min-width: 48em) {
   .sidebar {
+    padding: 1rem 1rem;
     position: fixed;
     top: 0;
     left: 0;
     bottom: 0;
     width: 18rem;
-    text-align: left;
+    text-align: right;
   }
 }
 
@@ -75,12 +122,20 @@ html {
   color: #fff;
 }
 
+@media (max-width: 48em) {
+.sidebar img {
+display:none;
+}
+}
+
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
   font-family: Palatino;
   font-size: 2rem;
+  background-color: 
 }
 
 /* Sidebar nav */
@@ -89,7 +144,7 @@ html {
 }
 .sidebar-nav-item {
   display: block;
-  line-height: 1.75;
+  line-height: 1.2;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
@@ -122,7 +177,7 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
+  padding-top:    8rem;
   padding-bottom: 4rem;
 }
 
@@ -179,6 +234,9 @@ a.sidebar-nav-item:focus {
 
 /* Red */
 .theme-base-08 .sidebar {
+  background-color: #ac4142;
+}
+.theme-base-08 .header {
   background-color: #ac4142;
 }
 .theme-base-08 .content a,
