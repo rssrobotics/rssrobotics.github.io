@@ -1,6 +1,7 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
+    <img src="/images/rsslogo.png">
       <h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
@@ -26,9 +27,19 @@
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+      {% assign collections_list = site.collections %}
+      {% for coll in collections_list %}
+        {% if coll.label != "posts" %}
+        {{coll.label}}
+          {% for node in coll.docs %}
+            {% if node.title != null %}
+              {% if node.layout == "page" %}
+                <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
