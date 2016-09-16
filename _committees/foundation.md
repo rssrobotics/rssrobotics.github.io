@@ -3,4 +3,7 @@ layout: page
 title: RSS Foundation Board
 description: RSS Foundation.
 ---
-Here are the wise old men in the Foundation.
+{% for member in site.data.foundation %}
+  <b>{{member.role}}</b>, <a href="{{member.url}}">{{ member.name }}</a>, {{ member.affiliation }}
+  
+{% endfor %}

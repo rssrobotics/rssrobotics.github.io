@@ -3,4 +3,7 @@ layout: page
 title: RSS Advisory Board
 description: RSS Board of advisors.
 ---
-Here are the wise old men.
+{% for member in site.data.advisory %}
+  <a href="{{member.url}}">{{ member.name }}</a>, {{ member.affiliation }}
+  
+{% endfor %}
