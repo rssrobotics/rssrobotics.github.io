@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            "Robotics: Science and Systems"
 tagline:          'A Robotics Conference'
-description:      'July 12-17 2017 <br> Boston, USA.'
+description:      'July 12-17 2017. Boston, USA.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 include:          ['_pages']
@@ -32,3 +32,12 @@ collections:
     Committees:
         output: true
         permalink: /committees/:path/
+    Attending:
+        output: true
+        permalink: /attending/:path/
+    Program:
+        output: true
+        permalink: /program/:path/
+    Information:
+        output: true
+        permalink: /information/:path/
