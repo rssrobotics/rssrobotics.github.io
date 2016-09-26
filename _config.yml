@@ -9,24 +9,24 @@ permalink:        pretty
 # Setup
 title:            "Robotics: Science and Systems"
 tagline:          'A Robotics Conference'
-description:      'July 12-17 2017. Boston, USA.'
-url:              http://hyde.getpoole.com
+description:      'July 12-16 2017. Cambridge, USA.'
+url:              http://www.roboticsconference.org/
 baseurl:          /
 include:          ['_pages']
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Siddhartha Srinivasa'
+  url:            www.cs.cmu.edu/~siddh
 
 gems:             [jekyll-paginate]
 paginate:         5
-paginate_path:    "page:num"
+paginate_path:    "blog/page:num"
 
 # Custom vars
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           
 
 collections:
     Committees:
