@@ -29,15 +29,15 @@ github:
   repo:           
 
 collections:
-    Committees:
+    committees:
         output: true
         permalink: /committees/:path/
-    Attending:
+    attending:
         output: true
         permalink: /attending/:path/
-    Program:
+    program:
         output: true
         permalink: /program/:path/
-    Information:
+    information:
         output: true
         permalink: /information/:path/
