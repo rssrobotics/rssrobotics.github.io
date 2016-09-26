@@ -10,8 +10,8 @@ permalink:        pretty
 title:            "Robotics: Science and Systems"
 tagline:          'A Robotics Conference'
 description:      'July 12-16 2017. Cambridge, USA.'
-url:              https://siddhss5.github.io/website-hyde/
-baseurl:          /
+url:              
+baseurl:          /website-hyde/
 include:          ['_pages']
 
 author:
