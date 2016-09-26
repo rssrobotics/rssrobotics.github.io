@@ -29,7 +29,7 @@ github:
   repo:           
 
 collections:
-    aommittees:
+    committees:
         output: true
         permalink: /committees/:path/
     attending:
