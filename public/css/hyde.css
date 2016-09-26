@@ -52,6 +52,7 @@ html {
  */
 
 .header {
+  z-index: 1;
   text-align: center;
   min-width: 100%;
   position: fixed;
