@@ -11,7 +11,7 @@ title:            "Robotics: Science and Systems"
 tagline:          'A Robotics Conference'
 description:      'July 12-16 2017. Cambridge, USA.'
 url:              
-baseurl:          /website-hyde/
+baseurl:          /website-hyde
 include:          ['_pages']
 
 author:
