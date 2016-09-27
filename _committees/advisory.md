@@ -3,11 +3,6 @@ layout: page
 title: RSS Advisory Board
 description: RSS Board of advisors.
 ---
-<!-- {% for member in site.data.advisory %}
-  <a href="{{member.url}}">{{ member.name }}</a>, {{ member.affiliation }}
-  
-{% endfor %}
- -->
 <div>
 {% for member in site.data.advisory %}
   {% assign loopindex = forloop.index | modulo: 3 %}
