@@ -5,7 +5,7 @@ description: RSS Board of advisors.
 ---
 <div>
 {% for member in site.data.advisory %}
-  {% assign loopindex = forloop.index | modulo: 3 %}
+  {% capture modulo %}{% cycle '0', '1', '2' %}{% endcapture %}
   {% if modulo == '0' or forloop.first %}
     <div class="row">
   {% endif %}
@@ -13,7 +13,7 @@ description: RSS Board of advisors.
         <a href="{{member.url}}">{{ member.name }}</a> <br>
         <i>{{ member.affiliation }}</i>
       </div>
-  {% if modulo == '1' or forloop.last %}
+  {% if modulo == '2' or forloop.last %}
     </div>
   {% endif %}
 {% endfor %}

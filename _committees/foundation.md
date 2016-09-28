@@ -5,7 +5,7 @@ description: RSS Foundation.
 ---
 <div>
 {% for member in site.data.foundation %}
-{% capture modulo %}{{ forloop.index0 | mod:3 }}{% endcapture %}
+  {% capture modulo %}{% cycle '0', '1', '2' %}{% endcapture %}
   {% if modulo == '0' or forloop.first %}
     <div class="row">
   {% endif %}
