@@ -32,22 +32,34 @@ description: Organizing team.
     </div>
     <div class="row">
             <div class="col-6">
-            <a href="https://people.eecs.berkeley.edu/~anca/">Anca Dragan</a><br>
-            <i>Berkeley</i>
-        </div>
-        <div class="col-6">
-            <a href="http://robotics.cs.tamu.edu/dshell/">Dylan Shell</a><br>
-            <i>Texas A&M University</i>
-        </div>
+                <a href="https://people.eecs.berkeley.edu/~anca/">Anca Dragan</a><br>
+                <i>Berkeley</i>
+            </div>
+            <div class="col-6">
+                <a href="http://robotics.cs.tamu.edu/dshell/">Dylan Shell</a><br>
+                <i>Texas A&M University</i>
+            </div>
     </div>
-</div>
-<div class="row">
+    <div class="row">
         <div class="col-12">
-            <b>Area Chairs</b><br>
+            <b>Publication Chairs</b><br>
         </div>
     </div>
-<div>
-
+    <div class="row">
+            <div class="col-6">
+                <a href="http://www-bcf.usc.edu/~ayanian/">Nora Ayanian</a><br>
+                <i>USC</i>
+            </div>
+            <div class="col-6">
+                <a href="http://scottk.seas.harvard.edu/">Scott Kuindersma</a><br>
+                <i>Harvard</i>
+            </div>
+    </div>
+    <div class="row">
+            <div class="col-12">
+                <b>Area Chairs</b><br>
+            </div>
+    </div>    
 {% for member in site.data.areachairs %}
   {% capture modulo %}{% cycle '0', '1', '2' %}{% endcapture %}
   {% if modulo == '0' or forloop.first %}
