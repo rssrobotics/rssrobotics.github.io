@@ -3,4 +3,6 @@ layout: page
 title: Accommodations
 description: Where people will stay and what they'll eat.
 ---
-You'll stay in an awesome place!
+We are working towards procuring discounted rates for 
+both student housing and hotels near the conference venue.
+Stay posted for updates!
