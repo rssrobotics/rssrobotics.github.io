@@ -42,6 +42,21 @@ description: Organizing team.
     </div>
     <div class="row">
         <div class="col-12">
+            <b>Presentation Chairs</b><br>
+        </div>
+    </div>
+    <div class="row">
+            <div class="col-6">
+                <a href="http://www.cs.utah.edu/~thermans/">Tucker Hermans</a><br>
+                <i>University of Utah</i>
+            </div>
+            <div class="col-6">
+                <a href="http://web.stanford.edu/~anirudha/">Anirudha Majumdar</a><br>
+                <i>Princeton</i>
+            </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
             <b>Publication Chairs</b><br>
         </div>
     </div>

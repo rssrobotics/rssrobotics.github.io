@@ -2,5 +2,6 @@
 layout: page
 title: Registration
 description: Register for the conference.
+invisible: true
 ---
-Lots of details here.
+We will open registration in April 2017.
