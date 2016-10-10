@@ -23,6 +23,15 @@ sessions, tutorials, and fun! This year, once again, we solicit your best work.
     </thead>
     <tbody>
       <tr>
+        <td>January 30, 2017</td>
+        <td><a href="http://time.is/Anywhere_on_Earth">Anywhere on Earth</a></td>
+        <td>Paper Submission Deadline</td>
+      </tr>
+      <tr>
+        <td colspan="2">April 30, 2017</td>
+        <td>Acceptance Notification</td>
+      </tr>
+      <tr>
         <td colspan="2">July 12-14, 2017</td>
         <td>Main Conference</td>
       </tr>
