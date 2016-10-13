@@ -33,6 +33,7 @@ RSS is actively seeking papers in areas that have not been traditionally represe
 * **Manipulation:** Contact Modeling, Grasp Synthesis, Assembly, Force Control, Manipulation Planning
 * **Human-Robot Interaction and Human Centered Systems:** Brain-Machine Interfaces, Haptics, Tactile Interfaces, Telerobotics, Human Augmentation, Assistive Robots, Social Robots, Safe Interaction, Robots and Art
 * **Field Robotics:** Underwater Robotics, Aerial/Space Robotics, Agricultural and Mining Robotics
+* **Formal methods:** Safety, Verification, Validation, Correct-by-construction Systems, Controller Synthesis, Certification
 * **Distributed Systems:** Multi-Robot Systems, Networked Robots, Robot Soccer
 * **Medical Robotics:** Robot-Assisted Procedures, Smart Surgical Tools, Rehabilitation Robotics, Interventional Therapy, Image-Guided Procedures, Surgical Simulation, Soft-Tissue Modeling, Telesurgery
 * **Biological Robotics:** Biomimetic Robotics, Robotic Investigation of Biological Science and Systems, Neurobotics, Prosthetics, Robotics and Molecular Biology
