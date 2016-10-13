@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Organzing Committee
+title: Organizing Committee
 description: Organizing team.
 ---
 <div>
