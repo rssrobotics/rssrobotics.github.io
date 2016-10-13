@@ -27,6 +27,13 @@ description: Organizing team.
     </div>
     <div class="row">
         <div class="col-12">
+            <b>Publicity Chair</b><br>
+            <a href="http://www.cs.cornell.edu/~rak/">Ross Knepper</a><br>
+            <i>Cornell</i>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
             <b>Workshop Chairs</b><br>
         </div>
     </div>
