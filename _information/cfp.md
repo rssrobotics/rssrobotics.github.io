@@ -28,18 +28,19 @@ This year, we are especially excited to showcase the following two themes via sp
 RSS is actively seeking papers in areas that have not been traditionally represented at the conference and will stay true to its name covering both the “Science” and the “Systems” of robotics. Papers containing original and unpublished work are solicited in all areas of robotics, including (but not limited to) the following themes:
 
 * **Kinematics, Dynamics, and Control:** Dexterous Manipulation, Locomotion, Nonlinear Control, Visual Servoing
-* **Mechanisms:** Design, Humanoids, Hands, Legged Systems, Snakes, Novel Actuators, Reconfigurable Robots, MEMS/NEMS, Micro/Nanobots
-* **Planning and Algorithms:** Motion Planning, Task Planning, Coordination, Complexity and Completeness, Computational Geometry, Simulation,
+* **Mechanisms:** Design, Humanoids, Hands, Legged Systems, Snakes, Novel Actuators, Reconfigurable Robots, MEMS/NEMS, Micro/Nanobots, Novel Sensors, Haptics, Tactile Interfaces
+* **Planning and Algorithms:** Motion Planning, Task Planning, Coordination, Complexity and Completeness, Computational Geometry, Simulation, Planning under uncertainty
 * **Manipulation:** Contact Modeling, Grasp Synthesis, Assembly, Force Control, Manipulation Planning
-* **Human-Robot Interaction and Human Centered Systems:** Brain-Machine Interfaces, Haptics, Tactile Interfaces, Telerobotics, Human Augmentation, Assistive Robots, Social Robots, Safe Interaction, Robots and Art
+* **Human-Robot Interaction and Human Centered Systems:** Brain-Machine Interfaces, Telerobotics, Human Augmentation, Assistive Robots, Social Robots, Safe Interaction, Robots and Art, 
+Grounded language acquisition, Natural language generation, Human-robot dialogue
 * **Field Robotics:** Underwater Robotics, Aerial/Space Robotics, Agricultural and Mining Robotics
 * **Formal methods:** Safety, Verification, Validation, Correct-by-construction Systems, Controller Synthesis, Certification
 * **Distributed Systems:** Multi-Robot Systems, Networked Robots, Robot Soccer
 * **Medical Robotics:** Robot-Assisted Procedures, Smart Surgical Tools, Rehabilitation Robotics, Interventional Therapy, Image-Guided Procedures, Surgical Simulation, Soft-Tissue Modeling, Telesurgery
 * **Biological Robotics:** Biomimetic Robotics, Robotic Investigation of Biological Science and Systems, Neurobotics, Prosthetics, Robotics and Molecular Biology
-* **Robot Perception:** Vision, Tactile and Force Perception, Range Sensing, Inertial and propreoceptive sensing, Sensor Fusion
+* **Robot Perception:** Vision, Tactile and Force Perception, Range Sensing, Inertial and propreoceptive sensing, Sensor Fusion, Calibration & Identification
 * **Mobile Systems and Mobility:** Mapping, Localization, Navigation, SLAM, Collision Avoidance, Exploration
-* **Estimation and Learning for Robotic Systems:** Reinforcement Learning, Bayesian Techniques, Graphical Models, Imitation Learning, Programming by Demonstration, Diagnostics
+* **Estimation and Learning for Robotic Systems:** Reinforcement Learning, Bayesian Techniques, Deep Learning, Graphical Models, Imitation Learning, Programming by Demonstration, Diagnostics
 
 ## Author Information
 

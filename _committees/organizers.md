@@ -78,6 +78,21 @@ description: Organizing team.
             </div>
     </div>
     <div class="row">
+        <div class="col-12">
+            <b>Web Chairs</b><br>
+        </div>
+    </div>
+    <div class="row">
+            <div class="col-6">
+                <a href="http://www.clintonliddick.com/">Clint Liddick</a><br>
+                <i>CMU</i>
+            </div>
+            <div class="col-6">
+                <a href="http://brianhou.com/">Brian Hou</a><br>
+                <i>CMU</i>
+            </div>
+    </div>
+    <div class="row">
             <div class="col-12">
                 <b>Area Chairs</b><br>
             </div>
