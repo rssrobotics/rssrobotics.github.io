@@ -28,8 +28,17 @@ sessions, tutorials, and fun! This year, once again, we solicit your best work.
         <td>Paper Submission Deadline</td>
       </tr>
       <tr>
+        <td>February 13, 2017</td>
+        <td><a href="http://time.is/Anywhere_on_Earth">Anywhere on Earth</a></td>
+        <td>Workshop Submission Deadline</td>
+      </tr>
+      <tr>
+        <td colspan="2">March 13, 2017</td>
+        <td>Workshop Acceptance Notification</td>
+      </tr>
+      <tr>
         <td colspan="2">April 30, 2017</td>
-        <td>Acceptance Notification</td>
+        <td>Paper Acceptance Notification</td>
       </tr>
       <tr>
         <td colspan="2">July 12-14, 2017</td>
