@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Review Form
+title: Paper Review Form
 ---
+
+Here is the paper review form for RSS 2017.
 
 1. Reviewer's expertise: How well do you know the paper's subject topics?
 
