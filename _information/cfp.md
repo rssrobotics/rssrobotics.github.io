@@ -44,7 +44,7 @@ Grounded language acquisition, Natural language generation, Human-robot dialogue
 
 ## Author Information
 
-Please visit the [author information]({{site.baseurl}}/information/authorinfo) page for extensive instructions.
+Please visit the [author information]({{site.baseurl}}/information/authorinfo/) page for extensive instructions.
 
 ## Special Journal Issues
 

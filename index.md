@@ -8,7 +8,7 @@ sessions, tutorials, and fun! This year, once again, we solicit your best work.
 </p>
 
 <p class="message">
-  Follow the latest {{ site.title }} news <a href="{{site.baseurl}}/blog">here</a>.
+  Follow the latest {{ site.title }} news <a href="{{site.baseurl}}/blog/">here</a>.
 </p>
 
 
