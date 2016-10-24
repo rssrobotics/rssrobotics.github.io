@@ -2,10 +2,8 @@
 layout: page
 title: Local Information
 description: Fun things to do at the conference.
+invisible: false
 ---
-The conference is located in [Cambridge](https://www.cambridgema.gov/), Massachusetts.
+The conference is located in [Cambridge](http://www.cambridgeusa.org), Massachusetts, in the greater [Boston area](http://www.visitboston.org). 
 
-Cambridge is a short drive, shuttle ride, or bus trip away
-from the [Boston Logan International Airport](https://www.massport.com/logan-airport/), 
-and is also easily accessible by car or 
-[train](https://www.amtrak.com/servlet/ContentServer?pagename=am/am2Station/Station_Page&code=BOS).
+Cambridge is easily accessible from the Boston Logan Airport via the Boston Area subway system, [MBTA](http://www.visitboston.org). Take the Silver Line from the Logan Airport to the South Station, and then take the Red Line from South Station to Kendall/MIT subway station. This trip takes 30 - 40 minutes. Taxis are also available at the airport. 
