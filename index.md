@@ -62,3 +62,5 @@ sessions, tutorials, and fun! This year, once again, we solicit your best work.
       </tr>
     </tbody>
   </table>
+
+  The website of the 2016 RSS conference can be found here: <a href="">RSS 2016</a>.
