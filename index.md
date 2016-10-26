@@ -2,7 +2,9 @@
 layout: default
 title: Home
 ---
-<h1>{{ site.title }}</h1>
+<h1 class="page-title">{{ site.title }}<br>
+June 12-14, 2017</h1>
+
 
 <p>The {{site.title}} has a long history of bringing together researchers in all areas of robotics 
 from around the world for an engaging and focussed week of single-track presentations, workshops, poster 
