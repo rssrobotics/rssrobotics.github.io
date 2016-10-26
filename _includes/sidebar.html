@@ -21,7 +21,7 @@
     {% assign collections_list = site.collections %}
     {% for coll in collections_list %}
       {% if coll.label != "posts" %}
-      {{coll.label}}<br>
+      <b>{{coll.label}}</b><br>
         {% for node in coll.docs %}
           {% if node.invisible != true %}
             {% if node.layout == "page" %}
