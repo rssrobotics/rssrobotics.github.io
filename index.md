@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 <h1 class="page-title">{{ site.title }}<br>
-June 12-14, 2017</h1>
+June 12-16, 2017</h1>
 
 
 <p>The {{site.title}} has a long history of bringing together researchers in all areas of robotics 
