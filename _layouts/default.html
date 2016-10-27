@@ -2,21 +2,15 @@
 <html lang="en-us">
 
   {% include head.html %}
-
-
-
-  <body class="theme-base-08">
-    <div class="header container">
-      <h1>{{ site.title }}</h1>
-      <p class="lead">{{ site.description }}</p>   
+  <body>
+    {% include topnav.html %}
+    <div class="container">
+      <div class="row">
+        {% include sidebar.html %}
+        <div class="col-md-8 col-lg-6 col-md-offset-0 col-xs-10 col-xs-offset-1 text-justify content">
+          {{ content }}
+        </div>
+      </div>
     </div>
-
-    {% include sidebar.html %}
-
-
-    <div class="content">
-      {{ content }}
-    </div>
-
   </body>
 </html>
