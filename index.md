@@ -65,4 +65,4 @@ sessions, tutorials, and fun! This year, once again, we solicit your best work.
     </tbody>
   </table>
 
-  The website of the 2016 RSS conference can be found here: <a href="">RSS 2016</a>.
+  The website of the 2016 RSS conference can be found here: <a href="http://rss2016.engin.umich.edu/">RSS 2016</a>.
