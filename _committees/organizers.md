@@ -49,7 +49,7 @@ description: Organizing team.
             </div>
     </div>
 
-    <div class="row text-center">
+    <div id="area-chairs" class="row text-center">
         <div class="col-md-6">
             <b>Area Chairs</b><br>
         </div>
