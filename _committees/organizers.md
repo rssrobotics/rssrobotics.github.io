@@ -56,35 +56,35 @@ description: Organizing team.
     </div>
 
     <div class="row text-center">
-        <div class="col-md-2">    
+        <div class="col-md-2">
         {% for member in site.data.areachairs %}
           {% capture modulo %}{% cycle '0', '1', '2' %}{% endcapture %}
           {% if modulo == '0' %}
-                    <a href="{{member.url}}">{{ member.name }}</a><br>
-                    <i>{{ member.affiliation }}</i><br>
-                    <br>
+              <a href="{{member.url}}">{{ member.name }}</a><br>
+              <i>{{ member.affiliation }}</i><br>
+              <br>
           {% endif %}
         {% endfor %}
         </div>
 
-        <div class="col-md-2">    
+        <div class="col-md-2">
         {% for member in site.data.areachairs %}
-          {% capture modulo %}{% cycle '0', '1', '2' %}{% endcapture %}
-          {% if modulo == '1' %}
-                    <a href="{{member.url}}">{{ member.name }}</a><br>
-                    <i>{{ member.affiliation }}</i><br>
-                    <br>
+          {% capture modulo %}{% cycle '3', '4', '5' %}{% endcapture %}
+          {% if modulo == '4' %}
+              <a href="{{member.url}}">{{ member.name }}</a><br>
+              <i>{{ member.affiliation }}</i><br>
+              <br>
           {% endif %}
         {% endfor %}
         </div>
 
-        <div class="col-md-2">    
+        <div class="col-md-2">
         {% for member in site.data.areachairs %}
-          {% capture modulo %}{% cycle '0', '1', '2' %}{% endcapture %}
-          {% if modulo == '2' %}
-                    <a href="{{member.url}}">{{ member.name }}</a><br>
-                    <i>{{ member.affiliation }}</i><br>
-                    <br>
+          {% capture modulo %}{% cycle '6', '7', '8' %}{% endcapture %}
+          {% if modulo == '8' %}
+              <a href="{{member.url}}">{{ member.name }}</a><br>
+              <i>{{ member.affiliation }}</i><br>
+              <br>
           {% endif %}
         {% endfor %}
         </div>
