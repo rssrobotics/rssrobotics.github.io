@@ -55,40 +55,17 @@ description: Organizing team.
         </div>
     </div>
 
-    <div class="row text-center">
-        <div class="col-md-2">
-        {% for member in site.data.areachairs %}
-          {% capture modulo %}{% cycle '0', '1', '2' %}{% endcapture %}
-          {% if modulo == '0' %}
-              <a href="{{member.url}}">{{ member.name }}</a><br>
-              <i>{{ member.affiliation }}</i><br>
-              <br>
-          {% endif %}
-        {% endfor %}
-        </div>
+    {% for member in site.data.areachairs %}
+    {% capture modulo %}{{ forloop.index0 | modulo:3 }}{% endcapture %}
 
+    {% if modulo == '0' %}<div class="row text-center">{% endif %}
         <div class="col-md-2">
-        {% for member in site.data.areachairs %}
-          {% capture modulo %}{% cycle '3', '4', '5' %}{% endcapture %}
-          {% if modulo == '4' %}
-              <a href="{{member.url}}">{{ member.name }}</a><br>
-              <i>{{ member.affiliation }}</i><br>
-              <br>
-          {% endif %}
-        {% endfor %}
+            <a href="{{ member.url }}">{{ member.name }}</a><br>
+            <i>{{ member.affiliation }}</i><br>
+            <br>
         </div>
+    {% if modulo == '2' or forloop.last %}</div>{% endif %}
 
-        <div class="col-md-2">
-        {% for member in site.data.areachairs %}
-          {% capture modulo %}{% cycle '6', '7', '8' %}{% endcapture %}
-          {% if modulo == '8' %}
-              <a href="{{member.url}}">{{ member.name }}</a><br>
-              <i>{{ member.affiliation }}</i><br>
-              <br>
-          {% endif %}
-        {% endfor %}
-        </div>
-
-    </div>
+    {% endfor %}
 
 </div>
