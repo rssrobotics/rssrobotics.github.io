@@ -37,7 +37,7 @@ sessions, tutorials, and fun! This year, once again, we solicit your best work.
         <td>Workshop Submission Deadline</td>
       </tr>
       <tr>
-        <td colspan="2">March 13, 2017</td>
+      <td colspan="2"><s>March 13, 2017</s><br>March 15, 2017</td>
         <td>Workshop Acceptance Notification</td>
       </tr>
       <tr>
