@@ -57,7 +57,7 @@ Pittsburgh, Pennsylvania, USA on April 6, 2017.
       <tr>
         <td>3:00 - 3:30 PM</td>
         <td>
-          <b>Coffee</b>
+          <b>Coffee Break</b>
         </td>
       </tr>
       <tr>
