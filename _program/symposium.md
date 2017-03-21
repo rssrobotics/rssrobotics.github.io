@@ -13,45 +13,52 @@ Pittsburgh, Pennsylvania, USA on April 6, 2017.
 <table class="table">
     <tbody>
       <tr>
-        <td>9:00 - 10:30 AM</td>
+        <td style="width: 130px">9:00 - 9:20 AM</td>
         <td>
-          <b>Area 1</b> <br/>
-          Speaker 1, "Title 1" <br/>
-          Speaker 2, "Title 2" <br/>
-          Speaker 3, "Title 3" <br/>
-          Speaker 4, "Title 4"
+          <b>Welcome and Overview</b> <br/>
+          Sidd Srinivasa
         </td>
       </tr>
       <tr>
-        <td>10:30 - 11:00 AM</td>
+        <td>9:20 - 10:40 AM</td>
+        <td>
+          <b>New Sensors and Actuators</b> <br/>
+          Matei Ciocarlie, "Senses and sensing ability for dexterous hands" <br/>
+          Chris Atkeson, "Whole-Body Vision" <br/>
+          Robert Howe, "Achieving selective kinematics and stiffness in flexible robotics" <br/>
+          Ralph Hollis, "An Omnidirectional Mobile Robot with Just Two Moving Parts"
+        </td>
+      </tr>
+      <tr>
+        <td>10:40 - 11:00 AM</td>
         <td>
           <b>Coffee Break</b>
         </td>
       </tr>
       <tr>
-        <td>11:00 - 12:30 PM</td>
+        <td>11:00 - 12:20 PM</td>
         <td>
-          <b>Area 2</b> <br/>
-          Speaker 5, "Title 5" <br/>
-          Speaker 6, "Title 6" <br/>
-          Speaker 7, "Title 7" <br/>
-          Speaker 8, "Title 8"
+          <b>Assisting Humans</b> <br/>
+          Guy Hoffman, "A Wearable Robotic Forearm" <br/>
+          Steve Collins, "Human-in-the-loop optimization of exoskeleton control" <br/>
+          Henny Admoni, "Assistive Robotics Using Natural Human Behavior" <br/>
+          Brenna Argall, "The Adoption of Autonomy in Assistive Machines"
         </td>
       </tr>
       <tr>
-        <td>12:30 - 1:30 PM</td>
+        <td>12:20 - 1:40 PM</td>
         <td>
           <b>Lunch</b>
         </td>
       </tr>
       <tr>
-        <td>1:30 - 3:00 PM</td>
+        <td>1:40 - 3:00 PM</td>
         <td>
-          <b>Area 3</b> <br/>
-          Speaker 9, "Title 9" <br/>
-          Speaker 10, "Title 10" <br/>
-          Speaker 11, "Title 11" <br/>
-          Speaker 12, "Title 12"
+          <b>Tasks and Autonomy</b> <br/>
+          Todd Murphey, "From Coverage to Robot Art: Specifying Statistically-Defined Tasks" <br/>
+          Nathan Michael, "Efficient and Robust Autonomous Inspection in Cluttered and Confined Industrial Environments" <br/>
+          Justus Piater, "Visual Task Outcome Verification Using Deep Learning" <br/>
+          Matt Walter, "Learning to Follow (and Give) Natural Language Instructions in Unknown Environments"
         </td>
       </tr>
       <tr>
@@ -63,7 +70,7 @@ Pittsburgh, Pennsylvania, USA on April 6, 2017.
       <tr>
         <td>3:30 - 5:00 PM</td>
         <td>
-          <b>TBD</b>
+          <b>Discussion / Meetings / Free time</b>
         </td>
       </tr>
     </tbody>
