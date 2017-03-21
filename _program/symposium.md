@@ -11,7 +11,7 @@ Pittsburgh, Pennsylvania, USA on April 6, 2017.
 ## Program
 
 <table class="table">
-    <tbody>
+    <tbody class="text-left">
       <tr>
         <td style="width: 130px">9:00 - 9:20 AM</td>
         <td>
