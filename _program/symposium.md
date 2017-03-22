@@ -25,10 +25,10 @@ Pittsburgh, Pennsylvania, USA on April 6, 2017.
         <td>9:20 - 10:40 AM</td>
         <td>
           <b>New Sensors and Actuators</b> <br/>
-          Matei Ciocarlie, "Senses and sensing ability for dexterous hands" <br/>
-          Chris Atkeson, "Whole-Body Vision" <br/>
-          Robert Howe, "Achieving selective kinematics and stiffness in flexible robotics" <br/>
-          Ralph Hollis, "An Omnidirectional Mobile Robot with Just Two Moving Parts"
+          Matei Ciocarlie, <i>Senses and sensing ability for dexterous hands</i> <br/>
+          Chris Atkeson, <i>Whole-Body Vision</i> <br/>
+          Robert Howe, <i>Achieving selective kinematics and stiffness in flexible robotics</i> <br/>
+          Ralph Hollis, <i>An Omnidirectional Mobile Robot with Just Two Moving Parts</i>
         </td>
       </tr>
       <tr>
@@ -41,10 +41,10 @@ Pittsburgh, Pennsylvania, USA on April 6, 2017.
         <td>11:00 - 12:20 PM</td>
         <td>
           <b>Assisting Humans</b> <br/>
-          Guy Hoffman, "A Wearable Robotic Forearm" <br/>
-          Steve Collins, "Human-in-the-loop optimization of exoskeleton control" <br/>
-          Henny Admoni, "Assistive Robotics Using Natural Human Behavior" <br/>
-          Brenna Argall, "The Adoption of Autonomy in Assistive Machines"
+          Guy Hoffman, <i>A Wearable Robotic Forearm</i> <br/>
+          Steve Collins, <i>Human-in-the-loop optimization of exoskeleton control</i> <br/>
+          Henny Admoni, <i>Assistive Robotics Using Natural Human Behavior</i> <br/>
+          Brenna Argall, <i>The Adoption of Autonomy in Assistive Machines</i>
         </td>
       </tr>
       <tr>
@@ -57,10 +57,10 @@ Pittsburgh, Pennsylvania, USA on April 6, 2017.
         <td>1:40 - 3:00 PM</td>
         <td>
           <b>Tasks and Autonomy</b> <br/>
-          Todd Murphey, "From Coverage to Robot Art: Specifying Statistically-Defined Tasks" <br/>
-          Nathan Michael, "Efficient and Robust Autonomous Inspection in Cluttered and Confined Industrial Environments" <br/>
-          Justus Piater, "Visual Task Outcome Verification Using Deep Learning" <br/>
-          Matt Walter, "Learning to Follow (and Give) Natural Language Instructions in Unknown Environments"
+          Todd Murphey, <i>From Coverage to Robot Art: Specifying Statistically-Defined Tasks</i> <br/>
+          Nathan Michael, <i>Efficient and Robust Autonomous Inspection in Cluttered and Confined Industrial Environments</i> <br/>
+          Justus Piater, <i>Visual Task Outcome Verification Using Deep Learning</i> <br/>
+          Matt Walter, <i>Learning to Follow (and Give) Natural Language Instructions in Unknown Environments</i>
         </td>
       </tr>
       <tr>
