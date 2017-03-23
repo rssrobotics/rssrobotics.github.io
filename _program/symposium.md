@@ -25,10 +25,10 @@ Pittsburgh, Pennsylvania, USA on April 6, 2017.
         <td>9:20 - 10:40 AM</td>
         <td>
           <b>New Sensors and Actuators</b> <br/>
-          Matei Ciocarlie, <i>Senses and sensing ability for dexterous hands</i> <br/>
           Chris Atkeson, <i>Whole-Body Vision</i> <br/>
           Robert Howe, <i>Achieving selective kinematics and stiffness in flexible robotics</i> <br/>
-          Ralph Hollis, <i>An Omnidirectional Mobile Robot with Just Two Moving Parts</i>
+          Ralph Hollis, <i>An Omnidirectional Mobile Robot with Just Two Moving Parts</i> <br/>
+          Matei Ciocarlie, <i>Senses and sensing ability for dexterous hands</i>
         </td>
       </tr>
       <tr>
@@ -39,12 +39,12 @@ Pittsburgh, Pennsylvania, USA on April 6, 2017.
       </tr>
       <tr>
         <td>11:00 - 12:20 PM</td>
+          <b>Tasks and Autonomy</b> <br/>
+          Todd Murphey, <i>From Coverage to Robot Art: Specifying Statistically-Defined Tasks</i> <br/>
+          Nathan Michael, <i>Efficient and Robust Autonomous Inspection in Cluttered and Confined Industrial Environments</i> <br/>
+          Justus Piater, <i>Visual Task Outcome Verification Using Deep Learning</i> <br/>
+          Matt Walter, <i>Learning to Follow (and Give) Natural Language Instructions in Unknown Environments</i>
         <td>
-          <b>Assisting Humans</b> <br/>
-          Guy Hoffman, <i>A Wearable Robotic Forearm</i> <br/>
-          Steve Collins, <i>Human-in-the-loop optimization of exoskeleton control</i> <br/>
-          Henny Admoni, <i>Assistive Robotics Using Natural Human Behavior</i> <br/>
-          Brenna Argall, <i>The Adoption of Autonomy in Assistive Machines</i>
         </td>
       </tr>
       <tr>
@@ -54,25 +54,24 @@ Pittsburgh, Pennsylvania, USA on April 6, 2017.
         </td>
       </tr>
       <tr>
-        <td>1:40 - 3:00 PM</td>
+        <td>1:40 - 2:40 PM</td>
         <td>
-          <b>Tasks and Autonomy</b> <br/>
-          Todd Murphey, <i>From Coverage to Robot Art: Specifying Statistically-Defined Tasks</i> <br/>
-          Nathan Michael, <i>Efficient and Robust Autonomous Inspection in Cluttered and Confined Industrial Environments</i> <br/>
-          Justus Piater, <i>Visual Task Outcome Verification Using Deep Learning</i> <br/>
-          Matt Walter, <i>Learning to Follow (and Give) Natural Language Instructions in Unknown Environments</i>
+          <b>Assisting Humans</b> <br/>
+          Steve Collins, <i>Human-in-the-loop optimization of exoskeleton control</i> <br/>
+          Guy Hoffman, <i>A Wearable Robotic Forearm</i> <br/>
+          Henny Admoni, <i>Assistive Robotics Using Natural Human Behavior</i>
         </td>
       </tr>
       <tr>
-        <td>3:00 - 3:30 PM</td>
+        <td>2:40 - 3:00 PM</td>
         <td>
           <b>Coffee Break</b>
         </td>
       </tr>
       <tr>
-        <td>3:30 - 5:00 PM</td>
+        <td>3:00 - 5:00 PM</td>
         <td>
-          <b>Discussion / Meetings / Free time</b>
+          <b>Discussion / Meetings / Free time / Run with Sidd</b>
         </td>
       </tr>
     </tbody>
