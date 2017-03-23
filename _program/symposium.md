@@ -39,12 +39,12 @@ Pittsburgh, Pennsylvania, USA on April 6, 2017.
       </tr>
       <tr>
         <td>11:00 - 12:20 PM</td>
+        <td>
           <b>Tasks and Autonomy</b> <br/>
           Todd Murphey, <i>From Coverage to Robot Art: Specifying Statistically-Defined Tasks</i> <br/>
           Nathan Michael, <i>Efficient and Robust Autonomous Inspection in Cluttered and Confined Industrial Environments</i> <br/>
           Justus Piater, <i>Visual Task Outcome Verification Using Deep Learning</i> <br/>
           Matt Walter, <i>Learning to Follow (and Give) Natural Language Instructions in Unknown Environments</i>
-        <td>
         </td>
       </tr>
       <tr>
