@@ -25,7 +25,7 @@ Pittsburgh, Pennsylvania, USA on April 6, 2017.
         <td>9:20 - 10:40 AM</td>
         <td>
           <b>New Sensors and Actuators</b> <br/>
-          Chris Atkeson, <i>Whole-Body Vision</i> <br/>
+          Akihiko Yamaguchi, <i>Whole-Body Vision</i> <br/>
           Robert Howe, <i>Achieving selective kinematics and stiffness in flexible robotics</i> <br/>
           Ralph Hollis, <i>An Omnidirectional Mobile Robot with Just Two Moving Parts</i> <br/>
           Matei Ciocarlie, <i>Senses and sensing ability for dexterous hands</i>
