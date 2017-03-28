@@ -4,7 +4,7 @@ title: Workshops
 description: Workshop times, venues, and details.
 ---
 
-Workshops will take place July 14 and 15, 2017.
+Workshops will take place July 15 and 16, 2017.
 
 <table class="table table-striped table-workshop">
   <thead>
