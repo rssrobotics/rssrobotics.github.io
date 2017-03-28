@@ -23,6 +23,9 @@ def main():
 
     for fname in os.listdir(args.indir):
         internal_id = os.path.splitext(fname)[0]
+        if internal_id not in workshop_data:
+            continue
+
         workshop = workshop_data[internal_id]
 
         inpath = os.path.join(args.indir, fname)
