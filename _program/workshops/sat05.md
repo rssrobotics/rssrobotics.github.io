@@ -1,48 +1,25 @@
 ---
 layout: page
-title: "Minimality and Trade-offs in Automated Robot Design"
+title: "Mathematical Models, Algorithms, and Human-Robot Interaction"
 invisible: true
 ---
-<p><i>Organizers: Alexandra Nilles, Hadas Kress-Gazit, Jason O'Kane, Andrea Censi</i></p>
-
+<p><i>Organizers: Oren Salzman, Henny Admoni, Rebecca Khurshid, Stefanos Nikolaidis</i></p>
 <p>
-Most fields of engineering are characterized by fundamental trade-offs between
-<i>maximizing</i> performance and <i>minimizing</i> resource usage; robotics is no exception.
-In robot design, trade-offs are distributed among subsystems such as sensing,
-actuation, computation, and power. A mathematical framework to describe these
-trade-offs does not yet exist.
-</p>
-
-<p>
-The speakers and discussions in this workshop will focus on working toward
-formal representations that make automated reasoning and synthesis possible,
-and enable design choices beyond once-off, <i>ad hoc</i> solutions.  
-</p>
-
-<p>
-The workshop brings together roboticists, designers and makers with a variety
-of backgrounds to start to answer the question: "How can computers and software
-help us navigate the space of design decisions?"</p>
-
-<p>
-The workshop welcomes contributions about:
-</p>
-
-<ol>
-<li> practical examples of resource-constrained robots and their performance envelopes;
-
-<li> abstractions and models which have promise as foundations for algorithmic design;
-
-<li> novel and unconventional ideas for how to tame the computational complexities involved. 
-</ol>
-
-<p>
-The intended outcome of the workshop is a better understanding of how informal
-and intuitive design decisions, including those exemplified in a custom design
-card game — played and discussed after lunch — can be refined and systematized
-so as to become fit for automation. The organizers will coordinate with the
-speakers a position paper that synthesizes the points of view described in the
-workshop. Target journals could be: Robotics &amp; Automation Letters; Nature
-Robotics; and Robotics &amp; Automation Magazine. 
+Robots are leaving the cages of the industrial manufacturing production lines
+and the safety of research labs, and moving into the unstructured environments
+of everyday life. From human-in-the-way to human-in-the-loop, modern robotics
+problems typically involve robot interactions with and around humans. Solving
+such problems requires research in complementary areas: <i>algorithmic
+robotics,</i></i></i></i> such as motion planning and machine learning, and
+<i>human-robot interaction</i> (HRI), such as cognitive modeling, intention
+recognition, and activity prediction. Both areas have much to contribute to
+each other in terms of methods, approaches, and insights, and yet the
+algorithmic robotics and human-robot interaction communities remain largely
+disjoint groups. There are four goals for this workshop: to (1) <i>expose
+approaches</i> from HRI that inform algorithmic models of humans, (2)
+<i>identify</i> mathematical and algorithmic tools to address HRI problems, (3)
+<i>encourage conversation</i> between researchers in the areas of HRI and
+fundamental algorithms for robotics, and (4) <i>raise a series of open
+questions</i> that fall in the intersection of algorithmic robotics and HRI.
 </p>
 

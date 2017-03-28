@@ -1,31 +1,43 @@
 ---
 layout: page
-title: "Spatial-Semantic Representations in Robotics"
+title: "Robot Learning and Planning"
 invisible: true
 ---
-<p><i>Organizers: Matthew Walter, Thomas Howard</i></p>
-
+<p><i>Organizers: Reza Iraji, Hamidreza Chitsaz, Chris Amato, Lawson Brown, Miles Johnson</i></p>
 <p>
-Much attention in the robotics community over the last several decades has focused on low-level geometric environment
-representations in the form of primitive feature-based maps, occupancy grids, and point clouds. As
-robots perform a wider variety of tasks in increasingly large and complex environments, the fidelity and richness
-of the environment representation becomes critical. Choosing the correct representation is important—those that
-are overly rich may be too complex to evaluate, while those that are simplified may not be expressive enough for
-difficult tasks. Effective perception algorithms should be capable of learning the appropriate fidelity and complexity
-of an environment representation from multimodal observations. Recognizing this need, researchers have
-devoted greater attention to developing spatial-semantic models that jointly express the geometric, topologic, and
-semantic properties of the robot's environment.
-</p>
+With the advent of co-robots acting in direct support of individuals and
+groups, fostered by the industry and the National Robotics Initiative, we are
+now at the dawn of a new era in which semi-autonomous robots intimately enter
+our lives. In such a symbiotic human-robot and bionic world, co-robotic systems
+with critical missions will emerge as human mates for medical, educational,
+entertainment, and military applications. The paradigm shift induced by this
+change in the range of deployment of robots necessitates opening a front to
+discuss new problems that do not fit into the conventional frameworks as well
+as novel directions expected to help solve existing unresolved problems. The
+main objective of this workshop is to discuss new fundamental research
+directions and their applications for the next generation of robots. Specific
+topics include but are not limited to integration or application of machine
+learning and planning in
 
-<p>
-This workshop will build off of the success of two workshops organized by Walter and Howard on model
-learning for human-robot collaboration at RSS 2015 and RSS 2016 to bring together a multidisciplinary group of
-researchers working at the intersection of robotics, computer vision, simultaneous localization and mapping, and
-machine learning. The forum will provide an opportunity for people to showcase recent efforts to develop models
-and algorithms for jointly representing spatial and semantic characteristics of complex, unstructured environments.
-The program will combine invited and contributed talks with interactive discussions to provide an atmosphere for
-discourse on state-of-the-art work in learning of environment representations. This workshop is organized as an
-outreach activity under the NSF National Robotics Initiative award led by Walter and Howard titled “Learning
-Adaptive Representations for Robust Mobile Robot Navigation from Multi-Modal Interactions”.
-</p>
+<ul>
+<li>Adaptive and Reconfigurable Robotic Systems
+<li>Aerial Robotics
+<li>Assembly Automation and Self-Assembly Systems
+<li>Biomedical Robotics
+<li>Bionics (biomimetic robotics, neurobotics, synthetic biological systems, etc.)
+<li>Complex and High Dimensional Environments
+<li>Distributed Robotic Systems
+<li>Field Robotics (underwater robotics, agricultural robotics, mining robotics, etc.)
+<li>Geometry-based Algorithms
+<li>Human-Robot Interaction
+<li>Kinematics, Dynamics, and Control
+<li>Manipulation
+<li>Mechanisms (humanoids, hands, legged systems, etc.)
+<li>Mobile Systems and Mobility (localization, mapping, and navigation)
+<li>Search Algorithms
+<li>Scheduling
+<li>Simultaneous Learning and Planning
+<li>Task and Policy Learning and Planning
+</ul>
 
+</p>

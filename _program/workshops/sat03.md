@@ -1,29 +1,44 @@
 ---
 layout: page
-title: "Learning from Demonstration in High-Dimensional Feature Spaces"
+title: "Integrated Task and Motion Planning"
 invisible: true
 ---
-<p><i>Organizers: Jim Mainprice, Arunkumar Byravan, Mathew Monfort, Roberto Calandra, Stefan Schaal</i></p>
+<p><i>Organizers: Neil Dantam, Swarat Chaudhuri, Lydia Kavraki</i></p>
 <p>
-As technology in autonomous robotics continues to evolve, so does the
-complexity of the decision problems that we expect our systems to solve. Such
-action policies range from low-level control of forces to high-level selection
-of complex strategies. These decision problems are often straightforward for
-humans while they remain difficult for standard robotics approaches. In this
-context, Learning from Demonstrations (LfD) can reduce the difficulty of
-defining action policies by providing expert knowledge in the form of examples
-of near-optimal behaviors. Understanding and formalizing LfD has been the topic
-of many fields of science including robotics, neuroscience, cognitive science,
-psychology and anthropology. However, many LfD problems are still intractable
-due to the embedding of exceedingly high-dimensional representations that stem
-from their coupling to high-dimensional observation spaces (e.g., visual,
-haptic or auditory). In this workshop, we will present and initiate a
-discussion on the techniques that could allow to handle this
-high-dimensionality. We are inviting experts in machine learning, cognitive
-science and robotics with the aim to foster collaboration and share new ideas
-across this multidisciplinary field. A special emphasis will be put on inverse
-optimal control and inverse reinforcement learning, which allow for the
-construction of reward signals from high-dimensional feature spaces, as well as
-LfD techniques based on Deep Neural-Networks.
+Complex robot behavior requires not only
+paths to navigate or reach objects, but also decisions about
+which objects to reach, in what order, and what style
+of action to perform. Such decisions combine the need
+for continuous, collision-free motion planning with the
+discrete actions of task planning. Efficient algorithms exist
+to solve these parts in isolation; however, integrating task
+and motion planning presents algorithmic challenges in
+generality, scalability, completeness. Task-Motion Planning
+(TMP) is an integrated approach to this challenge which
+has developed in the traditional robotics community. With
+this workshop, we hope to strengthen connections to the
+AI and formal methods communities.
+</p>
+<p>
+Challenges in TMP arise from the interaction of task
+and motion layers. Task actions affect motion planning
+feasibility, and motion plan feasibility dictates the ability to
+perform task actions. Current work on TMP has achieved
+good performance by focusing on specific types of actions
+or solving expected-case scenarios, and ongoing advances
+are improving completeness, generality, and optimality.
+</p>
+<p>
+This workshop will highlight recent applications and
+explore new methods for combining task and motion
+planning. We include speakers from beyond the typical
+robotics community, to identify connections with work
+in AI and cyber-physical systems. Furthermore, we will
+present and discuss a benchmark set in development
+since the 2016 Workshop on Task and Motion Planning.
+From this workshop, we expect participating researchers
+to identify and address important challenges, techniques,
+and benchmarks necessary for combining task and motion
+planning.
 </p>
 
