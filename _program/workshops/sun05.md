@@ -1,0 +1,48 @@
+---
+layout: page
+title: "Minimality and Trade-offs in Automated Robot Design"
+invisible: true
+---
+<p><i>Organizers: Alexandra Nilles, Hadas Kress-Gazit, Jason O'Kane, Andrea Censi</i></p>
+
+<p>
+Most fields of engineering are characterized by fundamental trade-offs between
+<i>maximizing</i> performance and <i>minimizing</i> resource usage; robotics is no exception.
+In robot design, trade-offs are distributed among subsystems such as sensing,
+actuation, computation, and power. A mathematical framework to describe these
+trade-offs does not yet exist.
+</p>
+
+<p>
+The speakers and discussions in this workshop will focus on working toward
+formal representations that make automated reasoning and synthesis possible,
+and enable design choices beyond once-off, <i>ad hoc</i> solutions.  
+</p>
+
+<p>
+The workshop brings together roboticists, designers and makers with a variety
+of backgrounds to start to answer the question: "How can computers and software
+help us navigate the space of design decisions?"</p>
+
+<p>
+The workshop welcomes contributions about:
+</p>
+
+<ol>
+<li> practical examples of resource-constrained robots and their performance envelopes;
+
+<li> abstractions and models which have promise as foundations for algorithmic design;
+
+<li> novel and unconventional ideas for how to tame the computational complexities involved. 
+</ol>
+
+<p>
+The intended outcome of the workshop is a better understanding of how informal
+and intuitive design decisions, including those exemplified in a custom design
+card game — played and discussed after lunch — can be refined and systematized
+so as to become fit for automation. The organizers will coordinate with the
+speakers a position paper that synthesizes the points of view described in the
+workshop. Target journals could be: Robotics &amp; Automation Letters; Nature
+Robotics; and Robotics &amp; Automation Magazine. 
+</p>
+

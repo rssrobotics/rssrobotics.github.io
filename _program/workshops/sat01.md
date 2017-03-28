@@ -1,40 +1,31 @@
 ---
 layout: page
-title: "(Empirically) Data-Driven Robotic Manipulation"
+title: "Bridging the Gap in Space Robotics"
 invisible: true
 ---
-<p><i>Organizers: Maria Bauza, Gilwoo Lee, Robbie Paolini, Rod Grupen, Alberto Rodriguez</i></p>
----
-layout: page
-title: (Empirically) Data-Driven Robotic Manipulation
-invisible: true
----
+<p><i>Organizers: Nisar Ahmed, Christoffer Heckman, Jay McMahon, Daniel Szafir</i></p>
 
 <p>
-There is a great excitement surrounding data-driven techniques for perceptual
-classification, inference, and motor control. These techniques come to robotic
-manipulation with the promise of enabling behavior with greater robustness,
-performance, and adaptability, as well as suggesting new representations for
-physical interaction. Recent excitement in the lab, however, is tempered by
-significant challenges faced when building practical data-driven robots. This
-workshop sets the focus on those challenges involved in making the data-driven
-approach work for robotic manipulation.
-</p>
-
-<p>
-Robot manipulation is a useful "petri dish" for studying data-driven systems
-with significant potential impact. Hands, or end-effectors, are where the
-"rubber hits the road"—where robots make and break contact with the world; and
-where visual, tactile, and proprioceptive feedback combine to explore, model,
-and control interaction with the environment. In the course of such
-interaction, the robot is exposed to a great deal of information, in the form
-of data that is challenging to collect, maintain, organize, and use. On one
-end, we can only start capturing data with an already functional robotic
-system, which over time is prone to degrade and/or break. On the other end, the
-dynamics and perceptual feedback from robotic manipulation systems yield
-multi-modal data that is complicated to make sense of. The goal of this
-workshop is to identify the challenges that are preventing data-driven robotic
-manipulation from experiencing the same performance jump as other fields that
-have embraced it, and what can we do to overcome them.
+Space exploration represents a complex and multifaceted problem domain for
+autonomous systems. Harsh and distant environments, long time delays, high
+costs, and other challenges highlight the value of autonomy, but make it
+difficult to achieve in practice. The cost of failure is high, as robots will
+often be required to perform mission-/safety-critical operations, sometimes in
+novel environments for which little a priori knowledge or human oversight is
+available. At the same time, such autonomy must remain sufficiently
+trustworthy, accessible, and comprehensible to human stakeholders (mission
+scientists, engineers, astronauts, etc.) to add value in achieving mission
+objectives. On Earth, recent developments in perception, manipulation, and
+learning are rapidly improving the capabilities of terrestrial robotic systems
+for a wide range of applications. However, integration into the space domain is
+occurring at a more gradual pace, despite this context being the absolute test
+of autonomy.  This workshop aims to help bridge the gap between advances in
+terrestrial systems and space applications, identifying a set of “grand
+challenges and opportunities” for space robotics. Top researchers, engineers,
+scientists, and practitioners from the space exploration, space robotics, and
+autonomous robotics communities will be brought together for the first time at
+RSS to explore: (1) how advancements in terrestrial robotics might be applied
+to space and (2) how the challenges of operating in space may inspire and drive
+further research and enhancement of these techniques.
 </p>
 
