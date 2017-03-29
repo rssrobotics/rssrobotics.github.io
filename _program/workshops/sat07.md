@@ -3,7 +3,10 @@ layout: page
 title: "Perception and Interaction Dynamics in Child-robot Interaction."
 invisible: true
 ---
-<p><i>Organizers: Zhi Zheng, Myounghoon Jeon, Chung Hyuk Park, Nilanjan Sarkar, Ayanna Howard</i></p>
+
+<p class="text-left"><i>Organizers: Zhi Zheng, Myounghoon Jeon, Chung Hyuk Park, Nilanjan Sarkar, Ayanna Howard</i></p>
+<p class="text-left"><i>Website: <a href="https://sites.google.com/a/mtu.edu/rss2017-rci-perception-and-interaction/">https://sites.google.com/a/mtu.edu/rss2017-rci-perception-and-interaction/</a></i></p>
+
 <p>
 For decades, robots have been designed particularly for children, such as robot
 companions and therapeutic robots for children with ASD. This research has

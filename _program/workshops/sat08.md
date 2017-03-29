@@ -3,7 +3,10 @@ layout: page
 title: "POMDPs in Robotics: State of The Art, Challenges, and Opportunities"
 invisible: true
 ---
-<p><i>Organizers: Ali-Akbar Agha-Mohammadi, Hanna Kurniawati, Christopher Amato</i></p>
+
+<p class="text-left"><i>Organizers: Ali-Akbar Agha-Mohammadi, Hanna Kurniawati, Christopher Amato</i></p>
+<p class="text-left"><i>Website: <a href="http://robotics.itee.uq.edu.au/~PomdpInRobotics/">http://robotics.itee.uq.edu.au/~PomdpInRobotics/</a></i></p>
+
 <p>
 Autonomous robots must be able make good decisions in the presence of sensor
 and outcome uncertainty. The Partially Observable Markov Decision Process

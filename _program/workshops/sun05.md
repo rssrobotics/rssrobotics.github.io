@@ -3,7 +3,10 @@ layout: page
 title: "Minimality and Trade-offs in Automated Robot Design"
 invisible: true
 ---
-<p><i>Organizers: Alexandra Nilles, Hadas Kress-Gazit, Jason O'Kane, Andrea Censi</i></p>
+
+<p class="text-left"><i>Organizers: Alexandra Nilles, Hadas Kress-Gazit, Jason O'Kane, Andrea Censi</i></p>
+<p class="text-left"><i>Website: <a href="http://minimality.mit.edu/">http://minimality.mit.edu/</a></i></p>
+
 
 <p>
 Most fields of engineering are characterized by fundamental trade-offs between

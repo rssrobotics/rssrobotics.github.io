@@ -3,7 +3,10 @@ layout: page
 title: "Human-Centered Robotics: Interaction, Physiological Integration and Autonomy"
 invisible: true
 ---
-<p><i>Organizers: Siddarth Jain, Brenna Argall, Elliott Rouse, Andrea Thomaz, Dave Ferguson</i></p>
+
+<p class="text-left"><i>Organizers: Siddarth Jain, Brenna Argall, Elliott Rouse, Andrea Thomaz, Dave Ferguson</i></p>
+<p class="text-left"><i>Website: <a href="http://users.eecs.northwestern.edu/~sjq751/Human-Centered-Robotics-RSS17.html">http://users.eecs.northwestern.edu/~sjq751/Human-Centered-Robotics-RSS17.html</a></i></p>
+
 <p>
 Human-centered robotics focuses on the science and systems needed for robots to
 interact, assist and cooperate with humans. It is a multifaceted and

@@ -3,7 +3,10 @@ layout: page
 title: "Heterogeneity and Diversity for Resilience in Multi-Robot Systems"
 invisible: true
 ---
-<p><i>Organizers: Amanda Prorok, Magnus Egerstedt, Vijay Kumar</i></p>
+
+<p class="text-left"><i>Organizers: Amanda Prorok, Magnus Egerstedt, Vijay Kumar</i></p>
+<p class="text-left"><i>Website: <a href="http://www.seas.upenn.edu/~prorok/rss2017">http://www.seas.upenn.edu/~prorok/rss2017</a></i></p>
+
 <p>
 The timeliness of this workshop is granted by our aspirations to solve
 increasingly complex problems that require a distribution of distinct

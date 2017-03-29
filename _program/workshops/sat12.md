@@ -3,7 +3,10 @@ layout: page
 title: "Women in Robotics III"
 invisible: true
 ---
-<p><i>Organizers: Maya Cakmak, Jeannette Bohg, Hadas Kress-Gazit, Elizabeth Phillips</i></p>
+
+<p class="text-left"><i>Organizers: Maya Cakmak, Jeannette Bohg, Hadas Kress-Gazit, Elizabeth Phillips</i></p>
+<p class="text-left"><i>Website: <a href="https://sites.google.com/view/rss2017women">https://sites.google.com/view/rss2017women</a></i></p>
+
 <p>
 
 Robotics is undergoing tremendous growth in recent years, over a wide range of

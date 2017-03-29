@@ -3,7 +3,10 @@ layout: page
 title: "Spatial-Semantic Representations in Robotics"
 invisible: true
 ---
-<p><i>Organizers: Matthew Walter, Thomas Howard</i></p>
+
+<p class="text-left"><i>Organizers: Matthew Walter, Thomas Howard</i></p>
+<p class="text-left"><i>Website: <a href="http://www.ece.rochester.edu/projects/rail/ssrr2017/">http://www.ece.rochester.edu/projects/rail/ssrr2017/</a></i></p>
+
 
 <p>
 Much attention in the robotics community over the last several decades has focused on low-level geometric environment

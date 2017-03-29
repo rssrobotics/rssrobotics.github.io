@@ -3,7 +3,10 @@ layout: page
 title: "Resilient Intelligence in Autonomous Systems: Challenges and Opportunities"
 invisible: true
 ---
-<p><i>Organizers: Wennie Tabib, Nathan Michael</i></p>
+
+<p class="text-left"><i>Organizers: Wennie Tabib, Nathan Michael</i></p>
+<p class="text-left"><i>Website: <a href="http://rssworkshop.autonomousaerialrobot.com">http://rssworkshop.autonomousaerialrobot.com</a></i></p>
+
 <p>
 Resilient intelligent systems introspect, adapt, and evolve to changing robot and
 environment models and application objectives. A fundamental challenge to achieving resilient

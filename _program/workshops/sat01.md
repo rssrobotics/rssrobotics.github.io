@@ -3,7 +3,10 @@ layout: page
 title: "Bridging the Gap in Space Robotics"
 invisible: true
 ---
-<p><i>Organizers: Nisar Ahmed, Christoffer Heckman, Jay McMahon, Daniel Szafir</i></p>
+
+<p class="text-left"><i>Organizers: Nisar Ahmed, Christoffer Heckman, Jay McMahon, Daniel Szafir</i></p>
+<p class="text-left"><i>Website: <a href="http://www.spacerobotics.xyz/">http://www.spacerobotics.xyz/</a></i></p>
+
 
 <p>
 Space exploration represents a complex and multifaceted problem domain for

@@ -3,7 +3,10 @@ layout: page
 title: "Robot Communication in the Wild: Meeting the Challenges of Real-World Systems"
 invisible: true
 ---
-<p><i>Organizers: Robert Fitch, Don Sofge, Geoffrey Hollinger, Karthik Dantu, Michael Otte, Shayegan Omidshafiei</i></p>
+
+<p class="text-left"><i>Organizers: Robert Fitch, Don Sofge, Geoffrey Hollinger, Karthik Dantu, Michael Otte, Shayegan Omidshafiei</i></p>
+<p class="text-left"><i>Website: <a href="http://rss2017-rcw.mit.edu">http://rss2017-rcw.mit.edu</a></i></p>
+
 
 <p>
 Robots and multi-robot teams use communication to facilitate data sharing, coordination, and cooperation with other robots and human users. Real-world communication is often unreliable, expensive, non-ideal, and/or otherwise challenging in a variety of ways. These challenges lead to interesting theoretical and practical ramifications for the design, analysis, and deployment of robotic systems, algorithms, and hardware. This workshop aims to foster a better understanding of the communication challenges faced by robots/teams, and how we analyze them, model them, and overcome their negative effects in practice. Topics are expected to have well defined assumptions, constraints, or experimental observations that reflect the real-world communication challenges faced by robots/teams, but may come from any sub-field of robotics and be motivated by any robotic problem. Example topics may include, but are not limited to:

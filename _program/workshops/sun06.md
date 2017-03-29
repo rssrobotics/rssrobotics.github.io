@@ -3,7 +3,10 @@ layout: page
 title: "Morality and Social Trust in Autonomous Robots"
 invisible: true
 ---
-<p><i>Organizers: Morteza Lahijanian, Mária Svoreňová, Nisar Ahmed, Patrick Lin, Marta Kwiatkowska</i></p>
+
+<p class="text-left"><i>Organizers: Morteza Lahijanian, Mária Svoreňová, Nisar Ahmed, Patrick Lin, Marta Kwiatkowska</i></p>
+<p class="text-left"><i>Website: <a href="http://qav.cs.ox.ac.uk/autonomy_morality_trust/">http://qav.cs.ox.ac.uk/autonomy_morality_trust/</a></i></p>
+
 <p>
 Robots are becoming members of our society. Complex algorithms have been making
 robots increasingly sophisticated machines with rising levels of autonomy,

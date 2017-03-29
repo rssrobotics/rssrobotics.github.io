@@ -3,7 +3,10 @@ layout: page
 title: "The What without the How: Specifying Planning Problems in Robotics"
 invisible: true
 ---
-<p><i>Organizers: Cristian Vasile, Vasumathi Raman</i></p>
+
+<p class="text-left"><i>Organizers: Cristian Vasile, Vasumathi Raman</i></p>
+<p class="text-left"><i>Website: <a href="http://sites.bu.edu/hyness/rss-tlzoo/">http://sites.bu.edu/hyness/rss-tlzoo/</a></i></p>
+
 <p>
 Every new graduate student is told that when it comes to research, a good
 problem formulation is half the battle won. As the responsibilities we give to

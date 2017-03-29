@@ -3,7 +3,10 @@ layout: page
 title: "Mathematical Models, Algorithms, and Human-Robot Interaction"
 invisible: true
 ---
-<p><i>Organizers: Oren Salzman, Henny Admoni, Rebecca Khurshid, Stefanos Nikolaidis</i></p>
+
+<p class="text-left"><i>Organizers: Oren Salzman, Henny Admoni, Rebecca Khurshid, Stefanos Nikolaidis</i></p>
+<p class="text-left"><i>Website: <a href="http://www.personalrobotics.ri.cmu.edu/workshops/ahri2017/">http://www.personalrobotics.ri.cmu.edu/workshops/ahri2017/</a></i></p>
+
 <p>
 Robots are leaving the cages of the industrial manufacturing production lines
 and the safety of research labs, and moving into the unstructured environments

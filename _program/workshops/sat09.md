@@ -3,7 +3,10 @@ layout: page
 title: "Revisiting Contact - Turning a Problem into a Solution"
 invisible: true
 ---
-<p><i>Organizers: Jeannette Bohg, Oliver Brock</i></p>
+
+<p class="text-left"><i>Organizers: Jeannette Bohg, Oliver Brock</i></p>
+<p class="text-left"><i>Website: <a href="http://rss2017ws.is.tuebingen.mpg.de">http://rss2017ws.is.tuebingen.mpg.de</a></i></p>
+
 <p>
 Physical contact used to be a problem in robotic manipulation research. Today,
 it seems to be the solution. For example, object manipulation behaviours which

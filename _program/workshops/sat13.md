@@ -3,7 +3,10 @@ layout: page
 title: "Experimenting with Movement Observation"
 invisible: true
 ---
-<p><i>Organizers: Amy Laviers, Kayhan Ozcimder</i></p>
+
+<p class="text-left"><i>Organizers: Amy Laviers, Kayhan Ozcimder</i></p>
+<p class="text-left"><i>Website: <a href="http://radlab.mechse.illinois.edu/rss-2017-workshop/">http://radlab.mechse.illinois.edu/rss-2017-workshop/</a></i></p>
+
 <p>
 There is a growing interest in literature to study bio-inspired multi-agent
 robotic systems that involve individual level interactions in order to achieve

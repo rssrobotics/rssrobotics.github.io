@@ -3,7 +3,10 @@ layout: page
 title: "Material Robotics (MaRo)"
 invisible: true
 ---
-<p><i>Organizers: Yigit Menguc, Rebecca Kramer, Nikolaus Correll, Jamie Paik</i></p>
+
+<p class="text-left"><i>Organizers: Yigit Menguc, Rebecca Kramer, Nikolaus Correll, Jamie Paik</i></p>
+<p class="text-left"><i>Website: <a href="http://research.engr.oregonstate.edu/mlab/RSS2017.html">http://research.engr.oregonstate.edu/mlab/RSS2017.html</a></i></p>
+
 <p>
 The original vision of a "robot" introduced by Karel Čapek in 1920 was that of
 an autonomous machine molded in the image of humans. Interestingly, the play

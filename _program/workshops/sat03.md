@@ -3,7 +3,10 @@ layout: page
 title: "Integrated Task and Motion Planning"
 invisible: true
 ---
-<p><i>Organizers: Neil Dantam, Swarat Chaudhuri, Lydia Kavraki</i></p>
+
+<p class="text-left"><i>Organizers: Neil Dantam, Swarat Chaudhuri, Lydia Kavraki</i></p>
+<p class="text-left"><i>Website: <a href="http://www.kavrakilab.org/2017-rss-workshop">http://www.kavrakilab.org/2017-rss-workshop</a></i></p>
+
 <p>
 Complex robot behavior requires not only
 paths to navigate or reach objects, but also decisions about

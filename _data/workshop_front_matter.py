@@ -40,13 +40,21 @@ def main():
             '-' * 3,
         ]
 
+        data = [
+            'Organizers: {organizers}'.format(organizers=workshop['organizers'].replace(',', ', ')),
+            'Website: <a href="{url}">{url}</a>'.format(url=workshop['url'])
+        ]
+        formatted_data = ['<p class="text-left"><i>{}</i></p>'.format(d) for d in data]
+
         with open(inpath) as fin:
-            outtext = \
-                '\n'.join(front_matter) + \
-                '\n<p><i>Organizers: {}</i></p>\n'.format(workshop['organizers'].replace(',', ', ')) + \
+            page_data = [
+                '\n'.join(front_matter),
+                '\n'.join(formatted_data),
                 fin.read()
+            ]
 
         with open(outpath, 'w') as fout:
+            outtext = '\n\n'.join(page_data)
             fout.write(outtext)
 
 if __name__ == '__main__':

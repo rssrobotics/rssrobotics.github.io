@@ -3,7 +3,10 @@ layout: page
 title: "Challenges in Dynamic Legged Locomotion"
 invisible: true
 ---
-<p><i>Organizers: Diego Pardo, Michael Posa, Scott Kuindersma</i></p>
+
+<p class="text-left"><i>Organizers: Diego Pardo, Michael Posa, Scott Kuindersma</i></p>
+<p class="text-left"><i>Website: <a href="https://leggedrobotlocomotion.wordpress.com/">https://leggedrobotlocomotion.wordpress.com/</a></i></p>
+
 
 <p>
 The performance of modern legged robots still pales in comparison to their

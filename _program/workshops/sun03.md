@@ -3,7 +3,10 @@ layout: page
 title: "Learning from Demonstration in High-Dimensional Feature Spaces"
 invisible: true
 ---
-<p><i>Organizers: Jim Mainprice, Arunkumar Byravan, Mathew Monfort, Roberto Calandra, Stefan Schaal</i></p>
+
+<p class="text-left"><i>Organizers: Jim Mainprice, Arunkumar Byravan, Mathew Monfort, Roberto Calandra, Stefan Schaal</i></p>
+<p class="text-left"><i>Website: <a href="https://sites.google.com/site/rss17learningtoplan/">https://sites.google.com/site/rss17learningtoplan/</a></i></p>
+
 <p>
 As technology in autonomous robotics continues to evolve, so does the
 complexity of the decision problems that we expect our systems to solve. Such

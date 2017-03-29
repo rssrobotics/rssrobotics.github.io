@@ -3,7 +3,10 @@ layout: page
 title: "Learning perception and control for autonomous flight: safety, memory, and efficiency"
 invisible: true
 ---
-<p><i>Organizers: Konstantinos Karydis, Nikolay Atanasov, Sergey Levine, Nick Roy, Vijay Kumar</i></p>
+
+<p class="text-left"><i>Organizers: Konstantinos Karydis, Nikolay Atanasov, Sergey Levine, Nick Roy, Vijay Kumar</i></p>
+<p class="text-left"><i>Website: <a href="http://www.ece.ucr.edu/~kkarydis/rss17/">http://www.ece.ucr.edu/~kkarydis/rss17/</a></i></p>
+
 <p>
 Recent progress in Unmanned Aerial Vehicles (UAVs) has revealed great
 opportunities for use of small-scale UAVs in disaster response, environment

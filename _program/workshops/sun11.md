@@ -3,7 +3,10 @@ layout: page
 title: "Articulated Object Tracking"
 invisible: true
 ---
-<p><i>Organizers: Tanner Schmidt, Dieter Fox, Jeannette Bohg, Roberto Roberto Martín-Martín</i></p>
+
+<p class="text-left"><i>Organizers: Tanner Schmidt, Dieter Fox, Jeannette Bohg, Roberto Roberto Martín-Martín</i></p>
+<p class="text-left"><i>Website: <a href="http://homes.cs.washington.edu/~tws10/rss17articulatedTracking">http://homes.cs.washington.edu/~tws10/rss17articulatedTracking</a></i></p>
+
 <p> In recent years, the robotics and vision communities have provided many
 techniques for estimating and tracking the pose of articulated objects such as
 robot manipulators, doors, tools, human hands, and human bodies. There are

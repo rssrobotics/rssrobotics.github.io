@@ -3,7 +3,10 @@ layout: page
 title: "(Empirically) Data-Driven Robotic Manipulation"
 invisible: true
 ---
-<p><i>Organizers: Maria Bauza, Gilwoo Lee, Robbie Paolini, Rod Grupen, Alberto Rodriguez</i></p>
+
+<p class="text-left"><i>Organizers: Maria Bauza, Gilwoo Lee, Robbie Paolini, Rod Grupen, Alberto Rodriguez</i></p>
+<p class="text-left"><i>Website: <a href="https://ddm2017.mit.edu/">https://ddm2017.mit.edu/</a></i></p>
+
 <p>
 There is a great excitement surrounding data-driven techniques for perceptual
 classification, inference, and motor control. These techniques come to robotic

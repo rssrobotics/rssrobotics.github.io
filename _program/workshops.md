@@ -23,13 +23,11 @@ Workshops will take place July 15 and 16, 2017.
     {% if workshop.external_id contains day %}
     <tr>
       <td>{{ workshop.external_id }}</td>
-      <td><a href="
-      {% if workshop.url %}
-      {{ workshop.url }}
-      {% else %}
-      {{ workshop.external_id | replace: '-', '' | downcase }}/
-      {% endif %}
-      ">{{ workshop.title }}</a></td>
+      <td>
+        <a href="{{ workshop.external_id | replace: '-', '' | downcase }}/">
+          {{ workshop.title }}
+        </a>
+      </td>
       <td>
         {{ workshop.organizers | replace: ',', '<br/>' }}
       </td>

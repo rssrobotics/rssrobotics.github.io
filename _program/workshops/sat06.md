@@ -3,7 +3,10 @@ layout: page
 title: "New Frontiers for Deep Learning in Robotics"
 invisible: true
 ---
-<p><i>Organizers: Niko Suenderhauf, Juergen Leitner, Michael Milford, Pieter Abbeel, Peter Corke</i></p>
+
+<p class="text-left"><i>Organizers: Niko Suenderhauf, Juergen Leitner, Michael Milford, Pieter Abbeel, Peter Corke</i></p>
+<p class="text-left"><i>Website: <a href="http://juxi.net/workshop/deep-learning-rss-2017/">http://juxi.net/workshop/deep-learning-rss-2017/</a></i></p>
+
 <p>
 In this workshop a wide range of renowned experts will discuss deep learning
 techniques at the frontier of research that are not yet widely adopted,

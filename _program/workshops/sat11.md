@@ -3,7 +3,10 @@ layout: page
 title: "Tactile Sensing for Manipulation: Hardware, Modeling, and Learning"
 invisible: true
 ---
-<p><i>Organizers: Wenzhen Yuan, Tapomayukh Bhattacharjee, Roberto Calandra, Edward Adelson</i></p>
+
+<p class="text-left"><i>Organizers: Wenzhen Yuan, Tapomayukh Bhattacharjee, Roberto Calandra, Edward Adelson</i></p>
+<p class="text-left"><i>Website: <a href="https://sites.google.com/view/rss17ts">https://sites.google.com/view/rss17ts</a></i></p>
+
 
 <p>
 If robots are to perform everyday tasks in the real world, they will need
