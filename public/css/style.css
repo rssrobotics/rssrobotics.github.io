@@ -25,6 +25,7 @@ html { overflow-y: scroll;}
   font-size: 0.75em;
 }
 
+.grayout { color: lightgray; }
 
 /* Times */
 .agenda .agenda-time {text-align: right}
