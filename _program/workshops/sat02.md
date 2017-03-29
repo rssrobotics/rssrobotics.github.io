@@ -35,21 +35,21 @@ behavior specification, and how these choices are affected by robot design.
 <p>
 The workshop will be framed by the following questions and technical topics:
 <ul>
-<li> What is the impact of model simplifications and assumptions on the efficiency, robustness and
-performance of the solutions?
-<li>What are the key physical limitations of modern legged robots?
-<li>Should we be designing control systems and hardware together?
-<li>Are we overlooking the complexity of the contact model or are current approximations sufficient?
+<li> What is the impact of model simplifications and assumptions on the efficiency, robustness and performance of the solutions?</li>
+<li>What are the key physical limitations of modern legged robots?</li>
+<li>Should we be designing control systems and hardware together?</li>
+<li>Are we overlooking the complexity of the contact model or are current approximations sufficient?</li>
 <li>Topics:
 <ul>
-<li>Trajectory optimization for legged locomotion
-<li>Modeling frictional contact for planning, feedback control, and estimation
-<li>Planning in reduced spaces (e.g., centroidal dynamics, SLIP)
-<li>Feedback motion planning; optimizing robustness
-<li>Model-predictive control (e.g., DDP variants)
-<li>Verification/analysis of motions involving rigid contact
-<li>Actuator and mechanism design for legged robots
-<li>Whole-body state estimation
+<li>Trajectory optimization for legged locomotion</li>
+<li>Modeling frictional contact for planning, feedback control, and estimation</li>
+<li>Planning in reduced spaces (e.g., centroidal dynamics, SLIP)</li>
+<li>Feedback motion planning; optimizing robustness</li>
+<li>Model-predictive control (e.g., DDP variants)</li>
+<li>Verification/analysis of motions involving rigid contact</li>
+<li>Actuator and mechanism design for legged robots</li>
+<li>Whole-body state estimation</li>
 </ul>
+</li>
 </ul>
 </p>

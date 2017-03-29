@@ -27,10 +27,10 @@ While holding great promises, a variety of challenges need to be addressed
 before robots can reach their full potential. Topics to be discussed during the
 workshop include, but are not limited to:
 <ul>
-<li>Perception cues and methodologies in child-robot interaction (CRI).
-<li>Defining interaction models in CRI.
-<li>Personalization, adaptation, and automation of CRI
-<li>Social cognition and learning in CRI
+<li>Perception cues and methodologies in child-robot interaction (CRI).</li>
+<li>Defining interaction models in CRI.</li>
+<li>Personalization, adaptation, and automation of CRI</li>
+<li>Social cognition and learning in CRI</li>
 </ul>
 </p>
 
