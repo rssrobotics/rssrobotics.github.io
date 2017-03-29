@@ -2,10 +2,12 @@
 layout: page
 title: Workshops
 description: Workshop times, venues, and details.
+days: ['SAT', 'SUN']
 ---
 
 Workshops will take place July 15 and 16, 2017.
 
+{% for day in page.days %}
 <table class="table table-striped table-workshop">
   <thead>
     <tr>
@@ -18,6 +20,7 @@ Workshops will take place July 15 and 16, 2017.
   </thead>
   <tbody>
     {% for workshop in site.data.workshops %}
+    {% if workshop.external_id contains day %}
     <tr>
       <td>{{ workshop.external_id }}</td>
       <td><a href="
@@ -33,6 +36,8 @@ Workshops will take place July 15 and 16, 2017.
       <td>{{ workshop.date }}</td>
       <!-- <td>{{ workshop.room }}</td> -->
     </tr>
+    {% endif %}
     {% endfor %}
   </tbody>
 </table>
+{% endfor %}
