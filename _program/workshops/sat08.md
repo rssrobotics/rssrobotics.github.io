@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "POMDPs in Robotics: State of The Art, Challenges, and Opportunities"
+comments: true
 invisible: true
 ---
 
@@ -25,3 +26,6 @@ explore ways to incorporate new methods and identify interesting new problems
 to tackle.
 </p>
 
+
+
+{% include disqus.html %}

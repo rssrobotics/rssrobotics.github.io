@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Integrated Task and Motion Planning"
+comments: true
 invisible: true
 ---
 
@@ -45,3 +46,6 @@ and benchmarks necessary for combining task and motion
 planning.
 </p>
 
+
+
+{% include disqus.html %}

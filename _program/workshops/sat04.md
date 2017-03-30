@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Material Robotics (MaRo)"
+comments: true
 invisible: true
 ---
 
@@ -33,3 +34,6 @@ needs, and multifunctional everyday objects ranging from furniture to tableware
 that change shape or color for the occasion.
 </p>
 
+
+
+{% include disqus.html %}

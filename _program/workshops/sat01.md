@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Bridging the Gap in Space Robotics"
+comments: true
 invisible: true
 ---
 
@@ -32,3 +33,6 @@ to space and (2) how the challenges of operating in space may inspire and drive
 further research and enhancement of these techniques.
 </p>
 
+
+
+{% include disqus.html %}

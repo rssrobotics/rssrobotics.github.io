@@ -36,6 +36,7 @@ def main():
             '-' * 3,
             'layout: page',
             'title: "{}"'.format(workshop['title']),
+            'comments: true',
             'invisible: true',
             '-' * 3,
         ]
@@ -50,7 +51,8 @@ def main():
             page_data = [
                 '\n'.join(front_matter),
                 '\n'.join(formatted_data),
-                fin.read()
+                fin.read(),
+                '{% include disqus.html %}'
             ]
 
         with open(outpath, 'w') as fout:

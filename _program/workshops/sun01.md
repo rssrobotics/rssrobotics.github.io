@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "(Empirically) Data-Driven Robotic Manipulation"
+comments: true
 invisible: true
 ---
 
@@ -35,3 +36,6 @@ manipulation from experiencing the same performance jump as other fields that
 have embraced it, and what can we do to overcome them.
 </p>
 
+
+
+{% include disqus.html %}

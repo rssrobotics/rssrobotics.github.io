@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Articulated Object Tracking"
+comments: true
 invisible: true
 ---
 
@@ -25,3 +26,6 @@ use in robotic manipulation, and also the remaining limitations. The ultimate
 goal is to identify directions for further improvement of articulated object
 tracking systems that can be exploited in robotics to allow robots and humans
 to work together in a shared space safely, robustly, and efficiently.  </p>
+
+
+{% include disqus.html %}

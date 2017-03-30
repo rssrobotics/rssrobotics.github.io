@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Learning perception and control for autonomous flight: safety, memory, and efficiency"
+comments: true
 invisible: true
 ---
 
@@ -37,3 +38,6 @@ principles to meet the challenges faced when applying deep learning to
 safety-critical planning tasks that incorporate timing and memory aspects. 
 </p>
 
+
+
+{% include disqus.html %}

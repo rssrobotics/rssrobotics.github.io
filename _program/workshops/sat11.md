@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Tactile Sensing for Manipulation: Hardware, Modeling, and Learning"
+comments: true
 invisible: true
 ---
 
@@ -32,3 +33,6 @@ ideas and stimulate an open discussion about the goals and challenges of
 tactile sensing. In the last part of our workshop, we will arrange a short
 debate on "traditional vs learning based methods" in tactile sensing for
 manipulation.  </p>
+
+
+{% include disqus.html %}

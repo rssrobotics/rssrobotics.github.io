@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Resilient Intelligence in Autonomous Systems: Challenges and Opportunities"
+comments: true
 invisible: true
 ---
 
@@ -34,3 +35,6 @@ feedback loop and the performance implications. A poster session will highlight 
 advancements.
 </p>
 
+
+
+{% include disqus.html %}

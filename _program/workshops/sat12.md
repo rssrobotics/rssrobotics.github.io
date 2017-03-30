@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Women in Robotics III"
+comments: true
 invisible: true
 ---
 
@@ -24,3 +25,6 @@ field, invited talks by early career academics, and poster presentations by
 junior researchers selected for travel awards.
 
 </p>
+
+
+{% include disqus.html %}

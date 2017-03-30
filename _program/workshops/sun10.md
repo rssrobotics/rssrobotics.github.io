@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Spatial-Semantic Representations in Robotics"
+comments: true
 invisible: true
 ---
 
@@ -32,3 +33,6 @@ outreach activity under the NSF National Robotics Initiative award led by Walter
 Adaptive Representations for Robust Mobile Robot Navigation from Multi-Modal Interactions”.
 </p>
 
+
+
+{% include disqus.html %}

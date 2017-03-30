@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Morality and Social Trust in Autonomous Robots"
+comments: true
 invisible: true
 ---
 
@@ -34,3 +35,6 @@ ethics and morality to shed light on these multifaceted notions from various
 perspectives through a series of talks and panel discussions.
 </p>
 
+
+
+{% include disqus.html %}

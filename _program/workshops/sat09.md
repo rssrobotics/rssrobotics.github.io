@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Revisiting Contact - Turning a Problem into a Solution"
+comments: true
 invisible: true
 ---
 
@@ -36,3 +37,6 @@ with the problem of making and breaking contact. We aim to discuss and share
 the lessons learned from decades of research on manipulation of the environment
 via physical contact.
 </p>
+
+
+{% include disqus.html %}
