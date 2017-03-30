@@ -2,7 +2,6 @@
 layout: page
 title: Program Committee
 description: Reviewing team.
-invisible: true
 ---
 
 <ul class="two-col text-left" style="list-style: none;">
