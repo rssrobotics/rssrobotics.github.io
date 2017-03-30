@@ -4,7 +4,7 @@ title: "Learning perception and control for autonomous flight: safety, memory, a
 invisible: true
 ---
 
-<p class="text-left"><i>Organizers: Konstantinos Karydis, Nikolay Atanasov, Sergey Levine, Nick Roy, Vijay Kumar</i></p>
+<p class="text-left"><i>Organizers: Konstantinos Karydis, Nikolay Atanasov, Sergey Levine, Nick Roy, Claire Tomlin, Vijay Kumar</i></p>
 <p class="text-left"><i>Website: <a href="http://www.ece.ucr.edu/~kkarydis/rss17/">http://www.ece.ucr.edu/~kkarydis/rss17/</a></i></p>
 
 <p>
