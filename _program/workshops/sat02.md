@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Challenges in Dynamic Legged Locomotion"
+comments: true
 invisible: true
 ---
 
@@ -53,3 +54,6 @@ The workshop will be framed by the following questions and technical topics:
 </li>
 </ul>
 </p>
+
+
+{% include disqus.html %}

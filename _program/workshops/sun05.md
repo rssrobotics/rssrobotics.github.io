@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Minimality and Trade-offs in Automated Robot Design"
+comments: true
 invisible: true
 ---
 
@@ -47,3 +48,6 @@ workshop. Target journals could be: Robotics &amp; Automation Letters; Nature
 Robotics; and Robotics &amp; Automation Magazine. 
 </p>
 
+
+
+{% include disqus.html %}

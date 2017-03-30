@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "New Frontiers for Deep Learning in Robotics"
+comments: true
 invisible: true
 ---
 
@@ -26,3 +27,6 @@ the machine learning and robotics communities together to discuss and contrast
 the limits and potentials of new deep learning techniques, as well as propose
 directions for future joint research between our communities.
 </p>
+
+
+{% include disqus.html %}

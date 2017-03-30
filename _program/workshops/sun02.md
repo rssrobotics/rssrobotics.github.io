@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Human-Centered Robotics: Interaction, Physiological Integration and Autonomy"
+comments: true
 invisible: true
 ---
 
@@ -22,3 +23,6 @@ of perspectives, methodologies and assessment tools in order to align and
 benefit research efforts in human-centered robotics. The program includes
 distinguished invited talks, a panel discussion and a poster session.
 <p>
+
+
+{% include disqus.html %}

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Heterogeneity and Diversity for Resilience in Multi-Robot Systems"
+comments: true
 invisible: true
 ---
 
@@ -21,3 +22,6 @@ and diversity occur: behavioral, functional, morphological, temporal, and
 spatial.
 </p>
 
+
+
+{% include disqus.html %}

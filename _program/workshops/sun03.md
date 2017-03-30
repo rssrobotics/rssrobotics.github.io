@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Learning from Demonstration in High-Dimensional Feature Spaces"
+comments: true
 invisible: true
 ---
 
@@ -30,3 +31,6 @@ construction of reward signals from high-dimensional feature spaces, as well as
 LfD techniques based on Deep Neural-Networks.
 </p>
 
+
+
+{% include disqus.html %}

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "The What without the How: Specifying Planning Problems in Robotics"
+comments: true
 invisible: true
 ---
 
@@ -30,3 +31,6 @@ provide a platform for congenial collegial debate between various relevant
 communities.
 </p>
 
+
+
+{% include disqus.html %}

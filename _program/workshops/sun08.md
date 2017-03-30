@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Robot Communication in the Wild: Meeting the Challenges of Real-World Systems"
+comments: true
 invisible: true
 ---
 
@@ -21,3 +22,6 @@ Robots and multi-robot teams use communication to facilitate data sharing, coord
 <li>Overcoming real-world communication constraints in practice (e.g., undersea, air, ground, space environments).</li>
 </ul>
 
+
+
+{% include disqus.html %}

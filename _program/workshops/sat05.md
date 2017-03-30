@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Mathematical Models, Algorithms, and Human-Robot Interaction"
+comments: true
 invisible: true
 ---
 
@@ -26,3 +27,6 @@ fundamental algorithms for robotics, and (4) <i>raise a series of open
 questions</i> that fall in the intersection of algorithmic robotics and HRI.
 </p>
 
+
+
+{% include disqus.html %}

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Experimenting with Movement Observation"
+comments: true
 invisible: true
 ---
 
@@ -33,3 +34,6 @@ the session will conclude with an interactive activity that merges these two
 approaches.
 </p>
 
+
+
+{% include disqus.html %}

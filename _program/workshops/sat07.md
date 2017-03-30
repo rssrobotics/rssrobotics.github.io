@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Perception and Interaction Dynamics in Child-robot Interaction."
+comments: true
 invisible: true
 ---
 
@@ -43,3 +44,6 @@ difficulties, make progress towards robotic systems that have a positive impact
 on children, and discuss future trends and open problems. 
 </p>
 
+
+
+{% include disqus.html %}
