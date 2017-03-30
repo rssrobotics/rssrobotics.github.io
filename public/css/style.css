@@ -27,6 +27,12 @@ html { overflow-y: scroll;}
 
 .grayout { color: lightgray; }
 
+.two-col {
+    -webkit-columns: 100px 2; /* Chrome, Safari, Opera */
+    -moz-columns: 100px 2; /* Firefox */
+    columns: 100px 2;
+}
+
 /* Times */
 .agenda .agenda-time {text-align: right}
 
