@@ -18,17 +18,17 @@ Pittsburgh, Pennsylvania, USA on April 6, 2017.
         <td style="width: 130px">9:00 - 9:20 AM</td>
         <td>
           <b>Welcome and Overview</b> <br/>
-          Sidd Srinivasa
+          Aaron Johnson, Henny Admoni, and Sidd Srinivasa
         </td>
       </tr>
       <tr>
         <td>9:20 - 10:40 AM</td>
         <td>
           <b>New Sensors and Actuators</b> <br/>
-          Akihiko Yamaguchi, <i>Whole-Body Vision</i> <br/>
-          Robert Howe, <i>Achieving selective kinematics and stiffness in flexible robotics</i> <br/>
-          Ralph Hollis, <i>An Omnidirectional Mobile Robot with Just Two Moving Parts</i> <br/>
-          Matei Ciocarlie, <i>Senses and sensing ability for dexterous hands</i>
+          Akihiko Yamaguchi, Carnegie Mellon University, <i>Whole-Body Vision</i> <br/>
+          Robert Howe, Harvard University, <i>Achieving selective kinematics and stiffness in flexible robotics</i> <br/>
+          Ralph Hollis, Carnegie Mellon University, <i>An Omnidirectional Mobile Robot with Just Two Moving Parts</i> <br/>
+          Matei Ciocarlie, Columbia University, <i>Senses and sensing ability for dexterous hands</i>
         </td>
       </tr>
       <tr>
@@ -41,10 +41,10 @@ Pittsburgh, Pennsylvania, USA on April 6, 2017.
         <td>11:00 - 12:20 PM</td>
         <td>
           <b>Tasks and Autonomy</b> <br/>
-          Todd Murphey, <i>From Coverage to Robot Art: Specifying Statistically-Defined Tasks</i> <br/>
-          Nathan Michael, <i>Efficient and Robust Autonomous Inspection in Cluttered and Confined Industrial Environments</i> <br/>
-          Justus Piater, <i>Visual Task Outcome Verification Using Deep Learning</i> <br/>
-          Matt Walter, <i>Learning to Follow (and Give) Natural Language Instructions in Unknown Environments</i>
+          Todd Murphey, Northwestern University, <i>From Coverage to Robot Art: Specifying Statistically-Defined Tasks</i> <br/>
+          Nathan Michael, Carnegie Mellon University, <i>Efficient and Robust Autonomous Inspection in Cluttered and Confined Industrial Environments</i> <br/>
+          Justus Piater, University of Innsbruck, <i>Visual Task Outcome Verification Using Deep Learning</i> <br/>
+          Matt Walter, Toyota Technological Institute at Chicago, <i>Learning to Follow (and Give) Natural Language Instructions in Unknown Environments</i>
         </td>
       </tr>
       <tr>
@@ -57,9 +57,9 @@ Pittsburgh, Pennsylvania, USA on April 6, 2017.
         <td>1:40 - 2:40 PM</td>
         <td>
           <b>Assisting Humans</b> <br/>
-          Steve Collins, <i>Human-in-the-loop optimization of exoskeleton control</i> <br/>
-          Guy Hoffman, <i>A Wearable Robotic Forearm</i> <br/>
-          Henny Admoni, <i>Assistive Robotics Using Natural Human Behavior</i>
+          Steve Collins, Carnegie Mellon University, <i>Human-in-the-loop optimization of exoskeleton control</i> <br/>
+          Guy Hoffman, Cornell University, <i>A Wearable Robotic Forearm</i> <br/>
+          Henny Admoni, Carnegie Mellon University, <i>Assistive Robotics Using Natural Human Behavior</i>
         </td>
       </tr>
       <tr>
