@@ -79,6 +79,10 @@ a.social-media:visited {color:#333333}
 a.social-media:hover {color:#333333}
 a.social-media:active {color:#333333}
 
+.center {
+    text-align: center;
+}
+
 /* Vertically Centered div */
 .vcenter {
     display: inline-block;
