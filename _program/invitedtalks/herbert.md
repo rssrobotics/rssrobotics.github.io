@@ -5,7 +5,7 @@ invisible: true
 ---
 
 {:.center}
-![herbert](https://www.ri.cmu.edu/images/people/hebert_martial.jpg){:width="150px"}
+![herbert](https://www.ri.cmu.edu/images/people/hebert_martial.jpg){:height="250px"}
 
 {:.center}
 #### **[Martial Herbert](https://www.cs.cmu.edu/~hebert/)**
