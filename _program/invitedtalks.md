@@ -78,16 +78,28 @@ invisible: true
 <div class="row">
   <div class="col-xs-12 col-md-4">
     <center>
-      <img src="https://www.ri.cmu.edu/images/people/hebert_martial.jpg" width="150" class="img-responsive">
+      <img src="hebert.jpg" width="150" class="img-responsive">
       <br/>
-      <b><a href="herbert">Martial Herbert</a></b>
+      <b><a href="hebert">Martial Hebert</a></b>
       <br/>
       <i>Carnegie Mellon University</i>
       <br/><br/>
     </center>
   </div>
   <div class="col-xs-12 col-md-8 text-left">
-    TODO
+    Martial Hebert is a Professor of Robotics Carnegie Mellon University and
+    Director of the Robotics Institute, which he joined in 1984. His interest
+    includes computer vision, in particular recognition in images and video
+    data, model building and object recognition from 3D data, and perception for
+    mobile robots and for intelligent vehicles. His group has developed
+    approaches for object recognition and scene analysis in images, 3D point
+    clouds, and video sequences. In the area of machine perception for robotics,
+    his group has developed techniques for people detection, tracking, and
+    prediction, and for understanding the environment of ground vehicles from
+    sensor data. He has served on the editorial boards the IEEE Transactions on
+    Robotics and Automation, the IEEE transactions on Pattern Analysis and
+    Machine Intelligence, and the International Journal of Computer Vision (for
+    which he currently serves as Editor-in-Chief).
   </div>
 </div>
 
