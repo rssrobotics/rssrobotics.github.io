@@ -3,9 +3,8 @@ layout: page
 title: Organizing Committee
 description: Organizing team.
 ---
-<div class="container">
+<div>
     <div class="row text-center">
-        <div class="col-md-6">
             <b>Program Chair</b><br>
             <a href="http://www.cs.cmu.edu/~siddh/">Siddhartha Srinivasa</a><br>
             <i>Carnegie Mellon University</i><br>
@@ -46,20 +45,16 @@ description: Organizing team.
             <a href="http://brianhou.com/">Brian Hou</a><br>
             <i>CMU</i><br>
             <br>
-            </div>
     </div>
 
     <div id="area-chairs" class="row text-center">
-        <div class="col-md-6">
-            <b>Area Chairs</b><br>
-        </div>
-    </div>
+        <b>Area Chairs</b><br>
 
     {% for member in site.data.areachairs %}
     {% capture modulo %}{{ forloop.index0 | modulo:3 }}{% endcapture %}
 
     {% if modulo == '0' %}<div class="row text-center">{% endif %}
-        <div class="col-md-2">
+        <div class="col-sm-4">
             <a href="{{ member.url }}">{{ member.name }}</a><br>
             <i>{{ member.affiliation }}</i><br>
             <br>
@@ -67,5 +62,7 @@ description: Organizing team.
     {% if modulo == '2' or forloop.last %}</div>{% endif %}
 
     {% endfor %}
+
+    </div>
 
 </div>
