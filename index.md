@@ -45,13 +45,12 @@ sessions, tutorials, and fun! This year, once again, we solicit your best work.
         <td>Paper Acceptance Notification</td>
       </tr>
       <tr>
-        <td colspan="2">July 12-14, 2017</td>
-        <td>Main Conference</td>
+        <td colspan="2">May 30, 2017</td>
+        <td>Camera-ready Submission Deadline</td>
       </tr>
       <tr>
-        <td>July 12, 2017</td>
-        <td>Evening</td>
-        <td>Welcome Reception</td>
+        <td colspan="2">July 12-14, 2017</td>
+        <td>Main Conference</td>
       </tr>
       <tr>
         <td>July 14, 2017</td>
