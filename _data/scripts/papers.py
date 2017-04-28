@@ -57,7 +57,7 @@ def main():
 
             front_matter = [
                 '-' * 3,
-                'layout: page',
+                'layout: paper',
                 'title: "{}"'.format(paper['title']),
                 'comments: true',
                 'invisible: true',
