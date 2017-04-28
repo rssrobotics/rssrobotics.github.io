@@ -40,8 +40,8 @@ sessions, tutorials, and fun! This year, once again, we solicit your best work.
       <td colspan="2"><s>March 13, 2017</s><br>March 15, 2017</td>
         <td>Workshop Acceptance Notification</td>
       </tr>
-      <tr>
-        <td colspan="2">April 30, 2017</td>
+      <tr  class="grayout">
+        <td colspan="2">April 28, 2017</td>
         <td>Paper Acceptance Notification</td>
       </tr>
       <tr>
