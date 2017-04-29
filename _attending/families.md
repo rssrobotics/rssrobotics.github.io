@@ -35,3 +35,10 @@ Center (the workshop venue). Please contact the conference organizers if you
 have questions or need additional resources.
 
 [lactation rooms]: http://hrweb.mit.edu/worklife/child-care-parenting/breastfeeding-support/lactation-rooms/campus
+
+#### Organizers
+
+Stefanie Tellex, *Brown University* <br/>
+Cynthia Matuszek, *University of Maryland, Baltimore County* <br/>
+Maya Cakmak, *University of Washington* <br/>
+Hadas Kress-Gazit, *Cornell University*
