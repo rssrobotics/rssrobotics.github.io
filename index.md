@@ -11,10 +11,11 @@ from around the world for an engaging and focussed week of single-track presenta
 sessions, tutorials, and fun! This year, once again, we solicit your best work. 
 </p>
 
+<!---
 <p class="message">
   Follow the latest {{ site.title }} news <a href="{{site.baseurl}}/blog/">here</a>.
 </p>
-
+-->
 
 ## Conference Location
 <p>The conference will be held at the Kresge Auditorium at the Massachusetts Institute of Technology in Cambridge, Massachusetts, USA.</p>
@@ -40,7 +41,7 @@ sessions, tutorials, and fun! This year, once again, we solicit your best work.
       <td colspan="2"><s>March 13, 2017</s><br>March 15, 2017</td>
         <td>Workshop Acceptance Notification</td>
       </tr>
-      <tr  class="grayout">
+      <tr class="grayout">
         <td colspan="2">April 28, 2017</td>
         <td>Paper Acceptance Notification</td>
       </tr>
@@ -48,6 +49,16 @@ sessions, tutorials, and fun! This year, once again, we solicit your best work.
         <td colspan="2">May 30, 2017</td>
         <td>Camera-ready Submission Deadline</td>
       </tr>
+      <tr>
+        <td colspan="2">May 31, 2017</td>
+        <td>Early Registration Deadline</td>
+      </tr>
+      <!---
+      <tr>
+        <td colspan="2">July 5, 2017</td>
+        <td>Registration Deadline</td>
+      </tr>
+      -->
       <tr>
         <td colspan="2">July 12-14, 2017</td>
         <td>Main Conference</td>
