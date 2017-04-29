@@ -1,7 +1,7 @@
 """
 Script for adding Jekyll front matter and organizers to workshop pages.
 
-python3 _data/workshop_front_matter.py _data/workshops.csv _data/workshops_raw_html/ _program/workshops/
+python3 _data/scripts/workshops.py _data/workshops.csv _data/workshops_raw_html/ _program/workshops/
 """
 
 import argparse
@@ -10,14 +10,14 @@ import os
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('data_file')
+    parser.add_argument('csv_file')
     parser.add_argument('indir')
     parser.add_argument('outdir')
     args = parser.parse_args()
 
     os.makedirs(args.outdir, exist_ok=True)
 
-    with open(args.data_file) as f:
+    with open(args.csv_file) as f:
         reader = csv.DictReader(f)
         workshop_data = { workshop['internal_id'] : workshop for workshop in reader }
 
