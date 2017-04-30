@@ -56,6 +56,7 @@ asking for information required to generate the letter within one business day.
   <thead>
     <tr>
       <th></th>
+      <th style="text-align: center">Industry</th>
       <th style="text-align: center">Academic</th>
       <th style="text-align: center">Student</th>
     </tr>
@@ -75,6 +76,7 @@ asking for information required to generate the letter within one business day.
       {% endif %}
       {% endfor %}
     </td>
+    <td>{{ pricing[1]["Industry"] }}</td>
     <td>{{ pricing[1]["Academic"] }}</td>
     <td>{{ pricing[1]["Student"] }}</td>
   </tr>
