@@ -19,36 +19,6 @@ soliciting feedback about the review process. Here are their responses.
 
 ### How can we make the review process better?
 
-**I thought the review process was the same as usual**
-
-<table class="table table-striped">
-
-<tr><td>
-(Rationale for previous response: *uniqueness* is orthogonal to the question "did you *like* the process"... my response reflects that there didn't seem to be any major change in the process. I'm not unhappy with it, though.) 
-<br/><br/>
-I did think that anonymizing the PC member might've made it harder for him/her to generate discussion. But I agree with the messages that were sent out: things like determining the  "RSS-quality" threshold and "fit" is the role of reviewers anyway (never has been, actually).  They should be left to editorial oversight and, so long as the editors take their job seriously (i.e, don't just take mean scores and threshold à la ICRA/IROS), treating the reviews as recommendations for the authors and assessments that are mere suggestions for their eyes, they can stop the conference from over-fitting. I am sceptical about top-down declarations of topic X and Y, and Z will be the focus of the conference this year. RSS contains papers that the RSS community writes and values in its reviews. I have no problem with the  recursive definition: social processes at a macro-scale don't a have simple one-way causality. The right thing is to ensure that there is an effective way to identify, value, and shepherd outlier topics. For example, could (or did?) a paper on ethics or morality make it though the review process? Maybe narrow-minded or inexperienced reviewers would kill it; but the editor's job is to decide how big a grain of salt is needed in reading the reviews; he/she should always feel justified in overriding those opinions.
-<br/><br/>
-Two cases point to the fact that things are healthy, let's not agonize too much: (a) Oliver pointed out in the open community forum that the community has been moving away from SLAM papers for years now. (b) The inclusion of HRI representation at the PC level and their selection of reviewers has shown that those topics can be brought into the fold (though, that pendulum swung too far, in my personal opinion). These two countervailing cases show there are some natural passive dynamics and some adjustment is possible too. This is OK. 
-</td></tr>
-
-<tr><td>
-I found the discussion section not especially useful.  I get why it's there, but once reviewers have submitted their comments, they've made up their minds for the most part.
-</td></tr>
-
-<tr><td>
-I have 2 main comments. The first regards the fact that there was not rebuttal phase this year. I believe that the rebuttal phase was useful to support the review process and to further improve the quality of the submissions. I would recommend re-including it. The second regards the discussion phase involving the AE and the reviewers. I would have liked the discussion phase to be somehow more interactive (this may depend on the submission). To keep high standards for RSS, it may be good to provide extra incentives for the AE and the reviewers. For instance, each reviewer may be assigned a score and depending on the score he/she may get a discounted rate on the conference registration.
-</td></tr>
-
-<tr><td>
-I didn't like the tone of the emails, i.e., constantly trying to make me feel guilty in order to get me to do something.
-</td></tr>
-
-<tr><td>
-For authors: allow rebuttal. For reviewers: give access to final decisions.
-</td></tr>
-
-</table>
-
 **I thought the process was unique and I would recommend it for the future**
 
 <table class="table table-striped">
@@ -133,6 +103,36 @@ I am in awe of this year's RSS review procedures.  Already, the double-blind pro
 
 <tr><td>
 I especially appreciated Q1-Q4 on the review form. However, I also think there should be questions that request *succinct* criticism, e.g., "list up to three main points of disagreement" or "what assumptions do you take issue at". Often the critical items are buried within the review and it may be helpful to obtain a high-level summary of the most important points first.
+</td></tr>
+
+</table>
+
+**I thought the review process was the same as usual**
+
+<table class="table table-striped">
+
+<tr><td>
+(Rationale for previous response: *uniqueness* is orthogonal to the question "did you *like* the process"... my response reflects that there didn't seem to be any major change in the process. I'm not unhappy with it, though.) 
+<br/><br/>
+I did think that anonymizing the PC member might've made it harder for him/her to generate discussion. But I agree with the messages that were sent out: things like determining the  "RSS-quality" threshold and "fit" is the role of reviewers anyway (never has been, actually).  They should be left to editorial oversight and, so long as the editors take their job seriously (i.e, don't just take mean scores and threshold à la ICRA/IROS), treating the reviews as recommendations for the authors and assessments that are mere suggestions for their eyes, they can stop the conference from over-fitting. I am sceptical about top-down declarations of topic X and Y, and Z will be the focus of the conference this year. RSS contains papers that the RSS community writes and values in its reviews. I have no problem with the  recursive definition: social processes at a macro-scale don't a have simple one-way causality. The right thing is to ensure that there is an effective way to identify, value, and shepherd outlier topics. For example, could (or did?) a paper on ethics or morality make it though the review process? Maybe narrow-minded or inexperienced reviewers would kill it; but the editor's job is to decide how big a grain of salt is needed in reading the reviews; he/she should always feel justified in overriding those opinions.
+<br/><br/>
+Two cases point to the fact that things are healthy, let's not agonize too much: (a) Oliver pointed out in the open community forum that the community has been moving away from SLAM papers for years now. (b) The inclusion of HRI representation at the PC level and their selection of reviewers has shown that those topics can be brought into the fold (though, that pendulum swung too far, in my personal opinion). These two countervailing cases show there are some natural passive dynamics and some adjustment is possible too. This is OK. 
+</td></tr>
+
+<tr><td>
+I found the discussion section not especially useful.  I get why it's there, but once reviewers have submitted their comments, they've made up their minds for the most part.
+</td></tr>
+
+<tr><td>
+I have 2 main comments. The first regards the fact that there was not rebuttal phase this year. I believe that the rebuttal phase was useful to support the review process and to further improve the quality of the submissions. I would recommend re-including it. The second regards the discussion phase involving the AE and the reviewers. I would have liked the discussion phase to be somehow more interactive (this may depend on the submission). To keep high standards for RSS, it may be good to provide extra incentives for the AE and the reviewers. For instance, each reviewer may be assigned a score and depending on the score he/she may get a discounted rate on the conference registration.
+</td></tr>
+
+<tr><td>
+I didn't like the tone of the emails, i.e., constantly trying to make me feel guilty in order to get me to do something.
+</td></tr>
+
+<tr><td>
+For authors: allow rebuttal. For reviewers: give access to final decisions.
 </td></tr>
 
 </table>
