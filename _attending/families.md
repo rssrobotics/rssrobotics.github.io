@@ -41,4 +41,5 @@ have questions or need additional resources.
 Stefanie Tellex, *Brown University* <br/>
 Cynthia Matuszek, *University of Maryland, Baltimore County* <br/>
 Maya Cakmak, *University of Washington* <br/>
-Hadas Kress-Gazit, *Cornell University*
+Hadas Kress-Gazit, *Cornell University* <br/>
+Matt Walter, *Toyota Technological Institute at Chicago*
