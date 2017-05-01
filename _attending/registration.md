@@ -44,9 +44,8 @@ Early Registration Deadline: *{{ page.deadlines["Early"] }}*
 <br/>
 Regular Registration Deadline: *{{ page.deadlines["Regular"] }}*
 
-Late registrations will be accepted online {{ page.late_registration_period }}, and
-on-site registration will be available during the conference. Late and on-site
-registrations have no guarantee of conference gift bag or banquet ticket.
+Late registrations will be accepted onsite on {{ page.late_registration_period }}.
+Late registrations have no guarantee of conference materials or banquet ticket.
 
 If you require a visa to enter the United States, you can request a Letter of
 Invitation in the registration form. If requested, you will receive an email
