@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Reviewer Survey Results
-redirect_from: /information/reviewersurvey/
 ---
 
 <br/>

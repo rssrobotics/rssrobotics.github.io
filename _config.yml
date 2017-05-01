@@ -19,7 +19,7 @@ author:
   name:           'Siddhartha Srinivasa'
   url:            www.cs.cmu.edu/~siddh
 
-gems:             [jekyll-paginate, jekyll-redirect-from]
+gems:             [jekyll-paginate]
 paginate:         5
 paginate_path:    "blog/page:num"
 
