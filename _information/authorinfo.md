@@ -45,7 +45,7 @@ This year, we will have no rebuttals nor conditional acceptances.
 ## Instructions for Camera-ready Submissions  {#camera-ready}
 {: .text-left}
 
-The conference proceedings for Robotics: Science and Systems 2016 will
+The conference proceedings for Robotics: Science and Systems 2017 will
 be published online with open access, and in a book. A revised version
 of your paper is due to be uploaded to CMT by AOE 30 May 2017. Please
 note that there will be no additional opportunity to revise your
