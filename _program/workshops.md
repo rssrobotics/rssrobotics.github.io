@@ -6,6 +6,8 @@ days: ['SAT', 'SUN', 'S&S']
 ---
 
 Workshops will take place July 15 and 16, 2017.
+They will commence at 9:30 AM and end at 5:30 PM.
+The workshop coffee breaks will be from 10:30 to 11:00 AM and 3:00 to 3:30 PM, with lunch scheduled for 12:00 - 2:00 PM.
 
 {% for day in page.days %}
 <table class="table table-striped table-workshop">
