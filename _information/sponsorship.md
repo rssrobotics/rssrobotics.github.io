@@ -33,7 +33,7 @@ For more details, please refer to our [sponsorship flyer](/docs/RSS2017_Sponsors
 <br/><br/>
 <a href="https://www.microsoft.com/"><img src="{{ site.baseurl }}/images/sponsors/microsoft.png" height="125px"/></a>
 <br/><br/>
-<a href="http://www.nvidia.com/"><img src="{{ site.baseurl }}/images/sponsors/nvidia.png" height="100px"/></a>
+<a href="http://www.nvidia.com/"><img src="{{ site.baseurl }}/images/sponsors/nvidia.png" height="80px"/></a>
 <!-- <br/><br/> -->
 <!--- <a href=""><img src="{{ site.baseurl }}/images/sponsors/clearpath" height="125px"/></a> -->
 <br/><br/>
@@ -57,4 +57,4 @@ For more details, please refer to our [sponsorship flyer](/docs/RSS2017_Sponsors
 
 </div>
 
-<br/><br/><br/><br/>
+<br/><br/>
