@@ -21,7 +21,7 @@ For more details, please refer to our [sponsorship flyer](/docs/RSS2017_Sponsors
 
 <div class="text-center">
 
-<a href="https://www.northropgrumman.com/"><img src="{{ site.baseurl }}/images/sponsors/northropgrumman.png" height="125px"/></a>
+<a href="http://www.northropgrumman.com/"><img src="{{ site.baseurl }}/images/sponsors/northropgrumman.png" height="125px"/></a>
 <br/><br/>
 <a href="https://www.amazonrobotics.com/"><img src="{{ site.baseurl }}/images/sponsors/amazonrobotics.jpg" height="125px"/></a>
 <br/><br/>
@@ -33,17 +33,13 @@ For more details, please refer to our [sponsorship flyer](/docs/RSS2017_Sponsors
 <br/><br/>
 <a href="https://www.microsoft.com/"><img src="{{ site.baseurl }}/images/sponsors/microsoft.png" height="125px"/></a>
 <br/><br/>
-<a href="http://www.nvidia.com/"><img src="{{ site.baseurl }}/images/sponsors/nvidia.png" height="80px"/></a>
-<!-- <br/><br/> -->
-<!--- <a href=""><img src="{{ site.baseurl }}/images/sponsors/clearpath" height="125px"/></a> -->
+<a href="http://www.nvidia.com/"><img src="{{ site.baseurl }}/images/sponsors/nvidia.png" height="125px"/></a>
 <br/><br/>
 <a href="http://www.disneyresearch.com/"><img src="{{ site.baseurl }}/images/sponsors/disneyresearch.png" height="125px"/></a>
 <br/><br/>
 <a href="https://www.google.com/"><img src="{{ site.baseurl }}/images/sponsors/google.jpg" height="125px"/></a>
-<!-- <br/><br/> -->
-<!--- <a href=""><img src="{{ site.baseurl }}/images/sponsors/lockheedmartin" height="125px"/></a> -->
-<!-- <br/><br/> -->
-<!--- <a href=""><img src="{{ site.baseurl }}/images/sponsors/mathworks" height="125px"/></a> -->
+<br/><br/>
+<a href="http://www.lockheedmartin.com/"><img src="{{ site.baseurl }}/images/sponsors/lockheedmartin.png" height="80px"/></a>
 <br/><br/>
 <a href="https://www.oculus.com/"><img src="{{ site.baseurl }}/images/sponsors/oculus.png" height="125px"/></a>
 <br/><br/>
