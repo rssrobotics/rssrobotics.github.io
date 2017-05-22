@@ -21,35 +21,80 @@ For more details, please refer to our [sponsorship flyer](/docs/RSS2017_Sponsors
 
 <div class="text-center">
 
-<a href="http://www.northropgrumman.com/"><img src="{{ site.baseurl }}/images/sponsors/northropgrumman.png" height="125px"/></a>
+<a href="http://www.northropgrumman.com/">
+  <img src="{{ site.baseurl }}/images/sponsors/northropgrumman.png"
+       alt="Northrop Grumman" height="125px"/>
+</a>
 <br/><br/>
-<a href="https://www.amazonrobotics.com/"><img src="{{ site.baseurl }}/images/sponsors/amazonrobotics.jpg" height="125px"/></a>
+<a href="https://www.amazonrobotics.com/">
+  <img src="{{ site.baseurl }}/images/sponsors/amazonrobotics.jpg"
+       alt="Amazon Robotics" height="125px"/>
+</a>
 <br/><br/>
-<a href="http://www.tri.global/"><img src="{{ site.baseurl }}/images/sponsors/tri.png" height="150px"/></a>
+<a href="http://www.tri.global/">
+  <img src="{{ site.baseurl }}/images/sponsors/tri.png"
+       alt="Toyota Research Institute" height="150px"/>
+</a>
 <br/><br/>
-<a href="http://www.baidu.com/"><img src="{{ site.baseurl }}/images/sponsors/baidu.png" height="80px"/></a>
+<a href="http://www.baidu.com/">
+  <img src="{{ site.baseurl }}/images/sponsors/baidu.png"
+       alt="Baidu" height="80px"/>
+</a>
 <br/><br/><br/>
-<a href="http://www.irobot.com/"><img src="{{ site.baseurl }}/images/sponsors/irobot.jpg" height="50px"/></a>
+<a href="http://www.irobot.com/">
+  <img src="{{ site.baseurl }}/images/sponsors/irobot.jpg"
+       alt="iRobot" height="50px"/>
+</a>
 <br/><br/>
-<a href="https://www.microsoft.com/"><img src="{{ site.baseurl }}/images/sponsors/microsoft.png" height="125px"/></a>
+<a href="https://www.microsoft.com/">
+  <img src="{{ site.baseurl }}/images/sponsors/microsoft.png"
+       alt="Microsoft" height="125px"/>
+</a>
 <br/><br/>
-<a href="http://www.nvidia.com/"><img src="{{ site.baseurl }}/images/sponsors/nvidia.png" height="125px"/></a>
+<a href="http://www.nvidia.com/">
+  <img src="{{ site.baseurl }}/images/sponsors/nvidia.png"
+       alt="NVIDIA" height="125px"/>
+</a>
 <br/><br/>
-<a href="http://www.disneyresearch.com/"><img src="{{ site.baseurl }}/images/sponsors/disneyresearch.png" height="125px"/></a>
+<a href="http://www.disneyresearch.com/">
+  <img src="{{ site.baseurl }}/images/sponsors/disneyresearch.png"
+       alt="Disney Research" height="125px"/>
+</a>
 <br/><br/>
-<a href="https://www.google.com/"><img src="{{ site.baseurl }}/images/sponsors/google.jpg" height="125px"/></a>
+<a href="https://www.google.com/">
+  <img src="{{ site.baseurl }}/images/sponsors/google.jpg"
+       alt="Google" height="125px"/>
+</a>
 <br/><br/>
-<a href="http://www.lockheedmartin.com/"><img src="{{ site.baseurl }}/images/sponsors/lockheedmartin.png" height="80px"/></a>
+<a href="http://www.lockheedmartin.com/">
+  <img src="{{ site.baseurl }}/images/sponsors/lockheedmartin.png"
+       alt="Lockheed Martin" height="80px"/>
+</a>
 <br/><br/>
-<a href="https://www.oculus.com/"><img src="{{ site.baseurl }}/images/sponsors/oculus.png" height="125px"/></a>
+<a href="https://www.oculus.com/">
+  <img src="{{ site.baseurl }}/images/sponsors/oculus.png"
+       alt="Oculus" height="125px"/>
+</a>
 <br/><br/>
-<a href="https://www.righthandrobotics.com/"><img src="{{ site.baseurl }}/images/sponsors/righthandrobotics.png" height="125px"/></a>
+<a href="https://www.righthandrobotics.com/">
+  <img src="{{ site.baseurl }}/images/sponsors/righthandrobotics.png"
+       alt="Righthand Robotics" height="125px"/>
+</a>
 <br/><br/>
-<a href="https://www.skydio.com/"><img src="{{ site.baseurl }}/images/sponsors/skydio.png" height="100px"/></a>
+<a href="https://www.skydio.com/">
+  <img src="{{ site.baseurl }}/images/sponsors/skydio.png"
+       alt="Skydio" height="100px"/>
+</a>
 <br/><br/>
-<a href="http://www.springer.com/gp/"><img src="{{ site.baseurl }}/images/sponsors/springer.png" height="100px"/></a>
+<a href="http://www.springer.com/gp/">
+  <img src="{{ site.baseurl }}/images/sponsors/springer.png"
+       alt="Springer" height="100px"/>
+</a>
 <br/><br/>
-<a href="https://www.uber.com/info/atg/"><img src="{{ site.baseurl }}/images/sponsors/uber.jpg" height="150px"/></a>
+<a href="https://www.uber.com/info/atg/">
+  <img src="{{ site.baseurl }}/images/sponsors/uber.jpg"
+       alt="Uber" height="150px"/>
+</a>
 
 </div>
 
