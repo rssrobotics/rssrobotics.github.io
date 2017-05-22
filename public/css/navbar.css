@@ -4,8 +4,8 @@
   z-index:10;
 }
 
-.affix + .container-fluid {
-  padding-top: 70px;
+.affix + .container {
+  padding-top: 28px;
 }
 
 .navbar-nav > li > a, .navbar-brand {
@@ -13,7 +13,9 @@
   padding-bottom:0 !important;
   height: 28px;
 }
-.navbar {min-height:28px !important;}
+.navbar {
+  min-height:28px !important;
+}
 
 
 /*

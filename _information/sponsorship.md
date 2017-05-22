@@ -17,32 +17,6 @@ provide opportunities for networking and recruiting.
 
 For more details, please refer to our [sponsorship flyer](/docs/RSS2017_Sponsorship.pdf).
 
-<style>
-  #ss-banquet img {
-    max-width: 100%;
-    max-height: 150px;
-    margin: 5px;
-  }
-
-  #ss-patron img {
-    max-width: 45%;
-    max-height: 120px;
-    margin: 5px;
-  }
-
-  #ss-major img {
-    max-width: 35%;
-    max-height: 120px;
-    margin: 5px;
-  }
-
-  #ss-sponsor img {
-    max-width: 30%;
-    max-height: 120px;
-    margin: 5px;
-  }
-</style>
-
 <div class="text-center" id="ss-banquet">
 <h2>RSS Banquet Sponsor</h2>
 

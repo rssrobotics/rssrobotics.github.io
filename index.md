@@ -6,9 +6,9 @@ title: Home
 July 12-16, 2017</h1>
 
 
-<p>The {{site.title}} has a long history of bringing together researchers in all areas of robotics 
-from around the world for an engaging and focussed week of single-track presentations, workshops, poster 
-sessions, tutorials, and fun! This year, once again, we solicit your best work. 
+<p>The {{site.title}} has a long history of bringing together researchers in all areas of robotics
+from around the world for an engaging and focussed week of single-track presentations, workshops, poster
+sessions, tutorials, and fun! This year, once again, we solicit your best work.
 </p>
 
 <!---
@@ -76,3 +76,5 @@ sessions, tutorials, and fun! This year, once again, we solicit your best work.
   </table>
 
   The website of the 2016 RSS conference can be found here: <a href="http://rss2016.engin.umich.edu/">RSS 2016</a>.
+
+{% include sponsors.html %}
