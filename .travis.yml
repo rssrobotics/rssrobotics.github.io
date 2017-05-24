@@ -1,0 +1,21 @@
+language: ruby
+rvm:
+- ruby-2.4.0
+cache: bundler
+script:
+- bundle exec jekyll build --baseurl "//storage.googleapis.com/$GCS_BUCKET"
+deploy:
+  provider: gcs
+  access_key_id: GOOGYLNMTN33FSAEFKVO
+  secret_access_key:
+    secure: g6xhUq5k0G54FVuSOkFbjgJnm24u0JCFPi1cy4iCFlw3bJlwasXkIXE0bkAGUcbYCWKeHkA7Lojj1YoBWadZsc/v/CO69AcMbR7GvCKM1c325VkBpZLXY3NXBCx1pvornhP6YJRY22QQ4gEAI5e/PJPyCZNBgQt4r7uXBpaYCqPTNKl0GrqDMLpnWiXfGg+TvnBbWKeDFKLm65/XJjqHZ+i//wmFFD2LVkqWP/mWHM/tKjtKAd13g29FfSdLIM+U107QOC5dz1sIh4wVh5fm+5aAMexLqfPAmAB9SXDyyocY7wOPoblOPaqo0sBgwm621lKhgcUyP/CyeQAF5TOQFGYgDeTAStaqBh+k9ZHqtZNhNh/Z4jOCskctrlxl2UMCbszVd6B4DeFdQ+lB/3KGpbIlOX3etIuNsCEt8V3UAmcc8hg2gWy+0plu/0/8TCDtwAnn//xiWW9shr0mNh35kNmbsnOvsFr6z6da0v95KxfN8j/gwUbJWWE9nsvPkxqvMnEDNvnsrc4ZaJFvXDzNy0IzlerNGV8sRxXI4jrTS3IKrrqSh+x4BVkq/Cr/5q0caHpbodgnxTsH5sTayYSrk3TuSqaCi58we0YTP2Pzqw0dU4kPGGlPSiyZSSRr+FHWB7KBPzWreJxdiJlv7SbfVW6TNc2294VKJgbnPQlLdAE=
+  bucket: $GCS_BUCKET
+  local-dir: _site
+  on:
+    repo: rssrobotics/rssrobotics.github.io
+  skip_cleanup: true
+  acl: public-read
+  detect_encoding: true
+  cache_control: public
+notifications:
+  email: false

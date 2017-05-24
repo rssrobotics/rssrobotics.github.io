@@ -13,7 +13,7 @@ description:      'July 12-16 2017. Cambridge, USA.'
 url:              
 baseurl:          
 include:          ['_pages']
-exclude:          ['README.md', 'LICENSE.md', 'Gemfile', 'Gemfile.lock']
+exclude:          ['README.md', 'LICENSE.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor']
 
 author:
   name:           'Siddhartha Srinivasa'
