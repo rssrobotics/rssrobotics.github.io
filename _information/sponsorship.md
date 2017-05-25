@@ -98,12 +98,17 @@ poster receptions on July 12th and 13th respectively.
        alt="Google"/>
 </a>
 
+<a href="https://www.massrobotics.org/">
+  <img src="{{ site.baseurl }}/images/sponsors/massrobotics.png"
+       alt="MassRobotics"/>
+</a>
+
+<br/>
+
 <a href="https://www.oculus.com/">
   <img src="{{ site.baseurl }}/images/sponsors/oculus.png"
        alt="Oculus"/>
 </a>
-
-<br/>
 
 <a href="https://www.righthandrobotics.com/">
   <img src="{{ site.baseurl }}/images/sponsors/righthandrobotics.png"
@@ -124,7 +129,7 @@ poster receptions on July 12th and 13th respectively.
 
 <a href="https://www.uber.com/info/atg/">
   <img src="{{ site.baseurl }}/images/sponsors/uber.jpg"
-       alt="Uber"/>
+       alt="Uber" style="margin-bottom: -2px;"/>
 </a>
 </div>
 
