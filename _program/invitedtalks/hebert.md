@@ -13,9 +13,9 @@ invisible: true
 {:.center}
 *Carnegie Mellon University*
 
-<!---
-**Time:** TBD
+**Time:** Friday July 14, 11 AM
 
+<!---
 **Location:** TBD
 
 **Title:** TBD

@@ -13,9 +13,9 @@ invisible: true
 {:.center}
 *University of Washington*
 
-<!---
-**Time:** TBD
+**Time:** Thursday July 13, 11 AM
 
+<!---
 **Location:** TBD
 
 **Title:** TBD

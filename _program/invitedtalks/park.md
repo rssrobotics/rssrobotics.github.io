@@ -13,9 +13,9 @@ invisible: true
 {:.center}
 *Seoul National University*
 
-<!---
-**Time:** TBD
+**Time:** Wednesday July 12, 11 AM
 
+<!---
 **Location:** TBD
 
 **Title:** TBD
