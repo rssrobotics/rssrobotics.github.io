@@ -88,6 +88,11 @@ poster receptions on July 12th and 13th respectively.
 
 <div class="text-center" id="ss-sponsor">
 <h2>RSS Sponsor</h2>
+<a href="https://www.springer.com/engineering/control/journal/10514">
+  <img src="{{ site.baseurl }}/images/sponsors/autonomousrobots.png"
+       alt="Autonomous Robots"/>
+</a>
+
 <a href="http://www.disneyresearch.com/">
   <img src="{{ site.baseurl }}/images/sponsors/disneyresearch.png"
        alt="Disney Research"/>
@@ -98,12 +103,12 @@ poster receptions on July 12th and 13th respectively.
        alt="Google"/>
 </a>
 
+<br/>
+
 <a href="https://www.massrobotics.org/">
   <img src="{{ site.baseurl }}/images/sponsors/massrobotics.png"
        alt="MassRobotics"/>
 </a>
-
-<br/>
 
 <a href="https://www.oculus.com/">
   <img src="{{ site.baseurl }}/images/sponsors/oculus.png"
@@ -115,16 +120,11 @@ poster receptions on July 12th and 13th respectively.
        alt="Righthand Robotics"/>
 </a>
 
+<br/>
+
 <a href="https://www.skydio.com/">
   <img src="{{ site.baseurl }}/images/sponsors/skydio.png"
        alt="Skydio"/>
-</a>
-
-<br/>
-
-<a href="http://www.springer.com/gp/">
-  <img src="{{ site.baseurl }}/images/sponsors/springer.png"
-       alt="Springer"/>
 </a>
 
 <a href="https://www.uber.com/info/atg/">
