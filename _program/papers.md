@@ -13,6 +13,12 @@ invisible: false
   </a>
   <br/>
   {{ paper.authors }}
+  {% for finalist in site.data.award_finalists %}
+  {% if finalist.internal_id == paper.internal_id %}
+  <br/>
+  <b>{{ finalist.type }} Award Finalist</b>
+  {% endif %}
+  {% endfor %}
 </li>
 <br/>
 {% endfor %}
