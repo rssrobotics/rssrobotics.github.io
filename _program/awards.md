@@ -15,7 +15,7 @@ This award is given the best paper of the conference.
 
 {% for paper in site.data.papers %}
 {% for finalist in site.data.award_finalists %}
-{% if finalist.type == 'best_paper' and finalist.internal_id == paper.internal_id %}
+{% if finalist.type == 'Best Paper' and finalist.internal_id == paper.internal_id %}
 <a href="{{ site.baseurl }}/program/papers/{{ paper.external_id | prepend: '0' | slice: -2, 2 }}">
   {{ paper.title }}
 </a>
@@ -36,7 +36,7 @@ student.
 
 {% for paper in site.data.papers %}
 {% for finalist in site.data.award_finalists %}
-{% if finalist.type == 'best_student_paper' and finalist.internal_id == paper.internal_id %}
+{% if finalist.type == 'Best Student Paper' and finalist.internal_id == paper.internal_id %}
 <a href="{{ site.baseurl }}/program/papers/{{ paper.external_id | prepend: '0' | slice: -2, 2 }}">
   {{ paper.title }}
 </a>
