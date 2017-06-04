@@ -45,20 +45,18 @@ sessions, tutorials, and fun! This year, once again, we solicit your best work.
         <td colspan="2">April 28, 2017</td>
         <td>Paper Acceptance Notification</td>
       </tr>
-      <tr>
+      <tr class="grayout">
         <td colspan="2">May 30, 2017</td>
         <td>Camera-ready Submission Deadline</td>
       </tr>
-      <tr>
+      <tr class="grayout">
         <td colspan="2">May 31, 2017</td>
         <td>Early Registration Deadline</td>
       </tr>
-      <!---
       <tr>
         <td colspan="2">July 5, 2017</td>
         <td>Registration Deadline</td>
       </tr>
-      -->
       <tr>
         <td colspan="2">July 12-14, 2017</td>
         <td>Main Conference</td>
