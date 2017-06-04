@@ -71,7 +71,6 @@ def main():
             ]
             data = [
                 'Authors: {authors}'.format(authors=paper['authors']),
-                'Link: <a href="https://storage.googleapis.com/rss2017-papers/{external_id}.pdf">{external_id}.pdf</a>'.format(external_id=external_id),
             ]
             formatted_data = ['<p class="text-left"><i>{}</i></p>'.format(d) for d in data]
 
@@ -82,6 +81,7 @@ def main():
                     '\n'.join(front_matter),
                     '\n'.join(formatted_data),
                     paper['abstract'],
+                    '[<b><a href="https://storage.googleapis.com/rss2017-papers/{external_id}.pdf">Full Paper</a></b>]'.format(external_id=external_id),
                     '{% include disqus.html %}'
                 ]
                 fout.write('\n\n'.join(page_data))
