@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Program Overview
+title: Overview
 description: Overview of the program.
 ---
+
+<i>This schedule is tentative and subject to change.</i>
 
 <b>Jump to:</b>
 
@@ -19,7 +21,7 @@ description: Overview of the program.
 
 #### Wednesday, July 12  {#wed}
 
-<table class="table table-striped table-program">
+<table class="table table-striped table-overview">
   <tr>
     <td><b>09:30 AM - 12:00 PM</b></td>
     <td>
@@ -48,7 +50,7 @@ description: Overview of the program.
 
 #### Thursday, July 13  {#thu}
 
-<table class="table table-striped table-program">
+<table class="table table-striped table-overview">
   <tr>
     <td><b>09:30 AM - 12:00 PM</b></td>
     <td>
@@ -77,7 +79,7 @@ description: Overview of the program.
 
 #### Friday, July 14  {#fri}
 
-<table class="table table-striped table-program">
+<table class="table table-striped table-overview">
   <tr>
     <td><b>09:30 AM - 12:00 PM</b></td>
     <td>
@@ -118,7 +120,7 @@ description: Overview of the program.
 
 #### Saturday, July 15  {#sat}
 
-<table class="table table-striped table-program">
+<table class="table table-striped table-overview">
   <tr>
     <td><b>09:30 AM - 12:00 PM</b></td>
     <td>
@@ -141,7 +143,7 @@ description: Overview of the program.
 
 #### Sunday, July 16  {#sun}
 
-<table class="table table-striped table-program">
+<table class="table table-striped table-overview">
   <tr>
     <td><b>09:30 AM - 12:00 PM</b></td>
     <td>
