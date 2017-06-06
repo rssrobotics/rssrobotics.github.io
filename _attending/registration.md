@@ -87,3 +87,22 @@ asking for information required to generate the letter within one business day.
 **Registration is now open: [https://www.regonline.com/RSS_2017](https://www.regonline.com/RSS_2017)**
 
 *Note that if you wish to purchase an additional banquet ticket, please select "Conference Banquet Guest Ticket" in the form.*
+
+### Press Passes
+
+Journalists may request a free press pass by
+emailing [rss-press@mit.edu](mailto:rss-press@mit.edu). Please provide your
+name, email address, organization, and any ONE of the following credentials:
+
+- Masthead from a current issue of a technology publication, online publication,
+  or blog listing you as an editorial contributor.
+- Technology article published within the past three months with your byline.
+- Letter from the editor/producer on official letterhead or from a company email
+  address that states you are covering RSS 2017 on assignment.
+- Press photo ID from your media outlet.
+- Business card from your media outlet reflecting your editorial role.
+
+Press passes grant access to the main conference sessions and workshops only.
+Access to social events and poster sessions requires a paid registration.
+
+<br/><br/>
