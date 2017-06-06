@@ -2,9 +2,8 @@
 layout: page
 title: Overview
 description: Overview of the program.
+priority: 10
 ---
-
-<i>This schedule is tentative and subject to change.</i>
 
 <b>Jump to:</b>
 
@@ -101,7 +100,7 @@ description: Overview of the program.
   <tr>
     <td><b>04:30 PM - 05:30 PM</b></td>
     <td>
-      Conference: Awards
+      Conference Awards
     </td>
   </tr>
   <tr>
@@ -124,7 +123,7 @@ description: Overview of the program.
   <tr>
     <td><b>09:30 AM - 12:00 PM</b></td>
     <td>
-      Workshops: Morning Session
+      Workshop: Morning Session
     </td>
   </tr>
   <tr>
@@ -147,7 +146,7 @@ description: Overview of the program.
   <tr>
     <td><b>09:30 AM - 12:00 PM</b></td>
     <td>
-      Workshops: Morning Session
+      Workshop: Morning Session
     </td>
   </tr>
   <tr>
@@ -163,3 +162,5 @@ description: Overview of the program.
     </td>
   </tr>
 </table>
+
+<br/><br/>
