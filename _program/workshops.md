@@ -10,6 +10,14 @@ They will commence at 9:30 AM and end at 5:30 PM.
 The workshop coffee breaks will be from 10:30 to 11:00 AM and 3:00 to 3:30 PM, with lunch scheduled for 12:00 - 2:00 PM.
 
 {% for day in page.days %}
+{% if day == 'SAT' %}
+#### Saturday, July 15  {#sat}
+{% elsif day == 'SUN' %}
+#### Sunday, July 16    {#sun}
+{% else %}
+#### Saturday & Sunday, July 15 - 16
+{% endif %}
+
 <table class="table table-striped table-workshop">
   <thead>
     <tr>
@@ -26,7 +34,7 @@ The workshop coffee breaks will be from 10:30 to 11:00 AM and 3:00 to 3:30 PM, w
     <tr>
       <td>{{ workshop.external_id }}</td>
       <td>
-        <a href="{{ workshop.external_id | replace: '-', '' | downcase }}/">
+        <a href="{{ workshop.external_id | replace: '-', '' | downcase }}">
           {{ workshop.title }}
         </a>
       </td>
