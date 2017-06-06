@@ -42,3 +42,10 @@ collections:
     information:
         output: true
         permalink: /information/:path/
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      priority: 0

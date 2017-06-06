@@ -22,10 +22,30 @@
     {% for coll in collections_list %}
       {% if coll.label != "posts" %}
       <b>{{coll.label}}</b><br>
-        {% for node in coll.docs %}
+        {% assign priority = ((coll.docs | where_exp: "node", "node.priority > 0")
+                                         | sort: "priority")
+                                         | reverse %}
+        {% for node in priority %}
           {% if node.invisible != true %}
             {% if node.layout == "page" %}
-              <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+              <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
+                 href="{{ site.baseurl }}{{ node.url }}">
+                {{ node.title }}
+              </a>
+              <br>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+
+        {% assign docs = (coll.docs | where_exp: "node", "node.priority == 0")
+                                    | sort: "title" %}
+        {% for node in docs %}
+          {% if node.invisible != true %}
+            {% if node.layout == "page" %}
+              <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
+                 href="{{ site.baseurl }}{{ node.url }}">
+                {{ node.title }}
+              </a>
               <br>
             {% endif %}
           {% endif %}
