@@ -7,7 +7,7 @@ description: Accepted papers.
 <ul>
 {% for paper in site.data.papers %}
 <li>
-  <a href="{{ paper.external_id }}">
+  <a href="{{ site.baseurl }}/program/papers/{{ paper.external_id }}/">
     {{ paper.title }}
   </a>
   <br/>

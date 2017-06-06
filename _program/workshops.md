@@ -34,7 +34,7 @@ The workshop coffee breaks will be from 10:30 to 11:00 AM and 3:00 to 3:30 PM, w
     <tr>
       <td>{{ workshop.external_id }}</td>
       <td>
-        <a href="{{ workshop.external_id | replace: '-', '' | downcase }}">
+        <a href="{{ site.baseurl }}/program/workshops/{{ workshop.external_id | replace: '-', '' | downcase }}/">
           {{ workshop.title }}
         </a>
       </td>

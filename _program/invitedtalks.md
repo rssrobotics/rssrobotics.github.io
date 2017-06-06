@@ -9,7 +9,7 @@ description: Invited talk abstracts and speaker bios.
     <center>
       <img src="{{ site.baseurl }}/images/park.jpg" width="150" class="img-responsive">
       <br/>
-      <b><a href="park">Frank Chongwoo Park</a></b>
+      <b><a href="{{ site.baseurl }}/program/invitedtalks/park/">Frank Chongwoo Park</a></b>
       <br/>
       <i>Seoul National University</i>
       <br/>
@@ -49,7 +49,7 @@ description: Invited talk abstracts and speaker bios.
     <center>
       <img src="{{ site.baseurl }}/images/fox.jpg" width="150" class="img-responsive">
       <br/>
-      <b><a href="fox">Dieter Fox</a></b>
+      <b><a href="{{ site.baseurl }}/program/invitedtalks/fox/">Dieter Fox</a></b>
       <br/>
       <i>University of Washington</i>
       <br/>
@@ -83,7 +83,7 @@ description: Invited talk abstracts and speaker bios.
     <center>
       <img src="{{ site.baseurl }}/images/hebert.jpg" width="150" class="img-responsive">
       <br/>
-      <b><a href="hebert">Martial Hebert</a></b>
+      <b><a href="{{ site.baseurl }}/program/invitedtalks/hebert/">Martial Hebert</a></b>
       <br/>
       <i>Carnegie Mellon University</i>
       <br/>

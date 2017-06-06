@@ -29,12 +29,12 @@ sessions, tutorials, and fun! This year, once again, we solicit your best work.
     <tbody>
       <tr class="grayout">
         <td>January 30, 2017</td>
-        <td><a href="http://time.is/Anywhere_on_Earth" class="grayout">Anywhere on Earth</a></td>
+        <td><a href="https://time.is/Anywhere_on_Earth" class="grayout">Anywhere on Earth</a></td>
         <td>Paper Submission Deadline</td>
       </tr>
       <tr class="grayout">
         <td>February 13, 2017</td>
-        <td><a href="http://time.is/Anywhere_on_Earth" class="grayout">Anywhere on Earth</a></td>
+        <td><a href="https://time.is/Anywhere_on_Earth" class="grayout">Anywhere on Earth</a></td>
         <td>Workshop Submission Deadline</td>
       </tr>
       <tr class="grayout">

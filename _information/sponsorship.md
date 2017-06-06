@@ -93,7 +93,7 @@ poster receptions on July 12th and 13th respectively.
        alt="Autonomous Robots"/>
 </a>
 
-<a href="http://www.disneyresearch.com/">
+<a href="https://www.disneyresearch.com/">
   <img src="{{ site.baseurl }}/images/sponsors/disneyresearch.png"
        alt="Disney Research"/>
 </a>
