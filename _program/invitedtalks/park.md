@@ -5,7 +5,7 @@ invisible: true
 ---
 
 {:.center}
-![park](../park.jpg){:height="250px"}
+![park]({{ site.baseurl }}/images/park.jpg){:height="250px"}
 
 {:.center}
 #### **[Frank Chongwoo Park](http://robotics.snu.ac.kr/fcp/)**

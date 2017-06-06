@@ -5,7 +5,7 @@ invisible: true
 ---
 
 {:.center}
-![herbert](../hebert.jpg){:height="250px"}
+![herbert]({{ site.baseurl }}/images/hebert.jpg){:height="250px"}
 
 {:.center}
 #### **[Martial Hebert](https://www.cs.cmu.edu/~hebert/)**
