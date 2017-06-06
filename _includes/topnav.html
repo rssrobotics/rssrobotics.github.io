@@ -41,7 +41,20 @@
               <li class="dropdown">
               <a class="dropdown-toggle" data-toggle="dropdown" href="#">{{coll.label}}<span class="caret"></span></a>
               <ul class="dropdown-menu">
-                {% for node in coll.docs %}
+                {% assign priority = ((coll.docs | where_exp: "node", "node.priority > 0")
+                                                 | sort: "priority")
+                                                 | reverse %}
+                {% for node in priority %}
+                  {% if node.invisible != true %}
+                    {% if node.layout == "page" %}
+                      <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+                    {% endif %}
+                  {% endif %}
+                {% endfor %}
+
+                {% assign docs = (coll.docs | where_exp: "node", "node.priority == 0")
+                                            | sort: "title" %}
+                {% for node in docs %}
                   {% if node.invisible != true %}
                     {% if node.layout == "page" %}
                       <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>

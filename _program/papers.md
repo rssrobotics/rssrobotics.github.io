@@ -2,13 +2,12 @@
 layout: page
 title: Accepted Papers
 description: Accepted papers.
-invisible: false
 ---
 
 <ul>
 {% for paper in site.data.papers %}
 <li>
-  <a href="{{ paper.external_id | prepend: '0' | slice: -2, 2 }}">
+  <a href="{{ paper.external_id }}">
     {{ paper.title }}
   </a>
   <br/>
