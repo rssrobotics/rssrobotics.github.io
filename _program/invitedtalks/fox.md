@@ -5,7 +5,7 @@ invisible: true
 ---
 
 {:.center}
-![fox](../fox.jpg){:height="250px"}
+![fox]({{ site.baseurl }}/images/fox.jpg){:height="250px"}
 
 {:.center}
 #### **[Dieter Fox](https://homes.cs.washington.edu/~fox/)**

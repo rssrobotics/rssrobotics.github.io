@@ -7,7 +7,7 @@ description: Invited talk abstracts and speaker bios.
 <div class="row">
   <div class="col-xs-12 col-md-4">
     <center>
-      <img src="park.jpg" width="150" class="img-responsive">
+      <img src="{{ site.baseurl }}/images/park.jpg" width="150" class="img-responsive">
       <br/>
       <b><a href="park">Frank Chongwoo Park</a></b>
       <br/>
@@ -47,7 +47,7 @@ description: Invited talk abstracts and speaker bios.
 <div class="row">
   <div class="col-xs-12 col-md-4">
     <center>
-      <img src="fox.jpg" width="150" class="img-responsive">
+      <img src="{{ site.baseurl }}/images/fox.jpg" width="150" class="img-responsive">
       <br/>
       <b><a href="fox">Dieter Fox</a></b>
       <br/>
@@ -81,7 +81,7 @@ description: Invited talk abstracts and speaker bios.
 <div class="row">
   <div class="col-xs-12 col-md-4">
     <center>
-      <img src="hebert.jpg" width="150" class="img-responsive">
+      <img src="{{ site.baseurl }}/images/hebert.jpg" width="150" class="img-responsive">
       <br/>
       <b><a href="hebert">Martial Hebert</a></b>
       <br/>
