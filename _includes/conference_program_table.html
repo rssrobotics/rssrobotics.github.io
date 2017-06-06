@@ -9,11 +9,28 @@
       <br/>
       <i>Location: {{ event.location }}</i>
       {% endif %}
-      {% if event.session_id != '0' %}
-      <!---
+      {% if event.chair != 'TBD' %}
       <br/>
       Session Chair: {{ event.chair }}
-      -->
+      {% endif %}
+
+      {% comment %} Special events with special information {% endcomment %}
+      {% if event.title == 'Keynote Presentation' %}
+      <br/><br/>
+      {%    if event.date == 'July 12' %}
+      <a href="{{ site.basedata }}/program/invitedtalks/park/">Frank Chongwoo Park</a>
+      {% elsif event.date == 'July 13' %}
+      <a href="{{ site.basedata }}/program/invitedtalks/fox/">Dieter Fox</a>
+      {% elsif event.date == 'July 14' %}
+      <a href="{{ site.basedata }}/program/invitedtalks/hebert/">Martial Hebert</a>
+      {% endif %}
+      {% endif %}
+      {% if event.title == 'Early Career Spotlight' %}
+      <br/><br/>
+      Sertac Karaman
+      {% endif %}
+
+      {% if event.papers != '0' %}
       <br/><br/>
 
         {% assign papers = event.papers | split: ' ' %}
