@@ -33,9 +33,10 @@
       {% if event.papers != '0' %}
       <br/><br/>
 
-        {% assign papers = event.papers | split: ' ' %}
+        {% assign paper_ids = event.papers | split: ' ' %}
+        {% for paper_id in paper_ids %}
         {% for paper in site.data.papers %}
-        {% if papers contains paper.external_id %}
+        {% if paper_id == paper.external_id %}
           <a href="javascript:void($('#group{{ event.session_id }}-paper{{ paper.external_id }}').toggle());">
             {{ paper.title }}
           </a>
@@ -59,6 +60,7 @@
           </div>
           <br/><br/>
         {% endif %}
+        {% endfor %}
         {% endfor %}
 
       {% endif %}
