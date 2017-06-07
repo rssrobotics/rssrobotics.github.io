@@ -35,7 +35,8 @@ def main():
     with open(args.csv_outfile, 'w') as f:
         writer = csv.DictWriter(f, fieldnames=[
             'session_id', 'external_id', 'internal_id',
-            'title', 'abstract', 'authors', 'areas'])
+            'title', 'abstract', 'authors', 'areas'],
+            lineterminator='\n')
 
         writer.writeheader()
         for i, raw_paper in enumerate(raw_paper_data, 1):
