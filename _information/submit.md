@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Video Submission
-permalink: submit
+permalink: /submit/
 invisible: true
 ---
 

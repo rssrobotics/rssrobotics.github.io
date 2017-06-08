@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presentation Instructions
-permalink: presentationinstructions
+permalink: /presentationinstructions/
 ---
 
 All papers in this year's RSS will be presented as a short talk and poster. To
