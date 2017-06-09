@@ -2,6 +2,7 @@
 layout: page
 title: Presentation Instructions
 permalink: /presentationinstructions/
+priority: 9
 ---
 
 All papers in this year's RSS will be presented as a short talk and poster. To

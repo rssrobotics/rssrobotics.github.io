@@ -35,8 +35,7 @@
                 <li><a href="http://www.roboticsproceedings.org/">Previous Proceedings</a></li>
               </ul>
             </li>
-            {% assign collections_list = site.collections %}
-            {% for coll in collections_list %}
+            {% for coll in site.collections %}
               {% if coll.label != "posts" %}
               <li class="dropdown">
               <a class="dropdown-toggle" data-toggle="dropdown" href="#">{{coll.label}}<span class="caret"></span></a>

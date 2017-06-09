@@ -2,6 +2,7 @@
 layout: page
 title: Career Spotlight
 description: Career spotlight abstract and speaker bio.
+priority: 7
 ---
 
 {:.center}

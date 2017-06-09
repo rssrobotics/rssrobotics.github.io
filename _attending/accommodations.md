@@ -2,7 +2,7 @@
 layout: page
 title: Accommodations
 description: Where people will stay and what they'll eat.
-invisible: false
+priority: 7
 ---
 
 There are a number of hotels available in the area. Three major hotels are offering rooms to RSS attendees at discounted rates. All three hotels are roughly the same distance to the main conference venue. The Marriott and Residence Inn are closer to the other buildings on campus.

@@ -2,6 +2,7 @@
 layout: page
 title: Awards
 description: Award details.
+priority: 6
 ---
 Winners are selected from a group of finalists by an awards committee.
 Here is a list of past [finalists and winners](http://www.roboticsfoundation.org/index.php/awards).

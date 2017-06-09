@@ -2,6 +2,7 @@
 layout: page
 title: Accepted Papers
 description: Accepted papers.
+priority: 5
 ---
 
 <ul>

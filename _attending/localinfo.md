@@ -2,7 +2,7 @@
 layout: page
 title: Local Information
 description: Fun things to do at the conference.
-invisible: false
+priority: 10
 ---
 The conference is located in [Cambridge](http://www.cambridgeusa.org), Massachusetts, in the greater [Boston area](http://www.visitboston.org). 
 

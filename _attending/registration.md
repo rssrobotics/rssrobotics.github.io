@@ -2,7 +2,7 @@
 layout: page
 title: Registration
 description: Register for the conference.
-invisible: false
+priority: 8
 
 late_registration_period: July 12 - 16
 

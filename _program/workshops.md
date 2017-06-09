@@ -2,6 +2,7 @@
 layout: page
 title: Workshops
 description: Workshop times, venues, and details.
+priority: 4
 days: ['SAT', 'SUN', 'S&S']
 ---
 

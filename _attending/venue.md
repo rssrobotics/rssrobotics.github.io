@@ -2,6 +2,7 @@
 layout: page
 title: Venue
 description: The awesome place we're holding our conference.
+priority: 9
 ---
 The conference will be held at the [Kresge Auditorium](https://en.wikipedia.org/wiki/Kresge_Auditorium) 
 ([directions](https://whereis.mit.edu/?go=W16)) at MIT.
