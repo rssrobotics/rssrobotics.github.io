@@ -9,7 +9,7 @@
       <br/>
       <i>Location: {{ event.location }}</i>
       {% endif %}
-      {% if event.chair != 'TBD' %}
+      {% if event.chair != 'TBD' and event.chair != 'none' %}
       <br/>
       Session Chair: {{ event.chair }}
       {% endif %}
@@ -28,6 +28,27 @@
       {% if event.title == 'Early Career Spotlight' %}
       <br/><br/>
       <a href="{{ site.basedata }}/program/careerspotlight/">Sertac Karaman</a>
+      {% endif %}
+      {% if event.title == 'Northrop Grumman Aerospace Systems Banquet' %}
+      <br/><br/>
+      <a href="http://www.northropgrumman.com/">
+        <img src="{{ site.baseurl }}/images/sponsors/northropgrumman.png"
+             alt="Northrop Grumman" style="max-width: 100%; max-height: 4em;"/>
+      </a>
+      {% endif %}
+      {% if event.title == 'Amazon Robotics Poster Session' %}
+      <br/><br/>
+      <a href="https://www.amazonrobotics.com/">
+        <img src="{{ site.baseurl }}/images/sponsors/amazonrobotics.jpg"
+             alt="Amazon Robotics" style="max-width: 100%; max-height: 4em;"/>
+      </a>
+      {% endif %}
+      {% if event.title == 'Toyota Research Institute Poster Session' %}
+      <br/><br/>
+      <a href="http://www.tri.global/">
+        <img src="{{ site.baseurl }}/images/sponsors/tri.png"
+             alt="Toyota Research Institute" style="max-width: 100%; max-height: 4em;"/>
+      </a>
       {% endif %}
 
       {% if event.papers != '0' %}

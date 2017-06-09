@@ -61,6 +61,10 @@ a.board-org:visited {font-size:75%; font-style:italic; color:#333333}
     text-align: left;
 }
 
+.table-overview tbody>tr>td:first-child{
+    width: 150px;
+}
+
 /* Technical Program Table */
 .table-program tbody>tr>td{
     vertical-align: top;

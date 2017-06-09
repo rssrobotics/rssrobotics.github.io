@@ -42,7 +42,12 @@ priority: 10
   <tr>
     <td><b>06:00 PM - 09:00 PM</b></td>
     <td>
-      Poster Session
+      Amazon Robotics Poster Session
+      <br/><br/>
+      <a href="https://www.amazonrobotics.com/">
+        <img src="{{ site.baseurl }}/images/sponsors/amazonrobotics.jpg"
+             alt="Amazon Robotics" style="max-width: 100%; max-height: 4em;"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -71,7 +76,12 @@ priority: 10
   <tr>
     <td><b>06:00 PM - 09:00 PM</b></td>
     <td>
-      Poster Session
+      Toyota Research Institute Poster Session
+      <br/><br/>
+      <a href="http://www.tri.global/">
+        <img src="{{ site.baseurl }}/images/sponsors/tri.png"
+             alt="Toyota Research Institute" style="max-width: 100%; max-height: 4em;"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -112,7 +122,12 @@ priority: 10
   <tr>
     <td><b>07:00 PM - 11:00 PM</b></td>
     <td>
-      Conference Banquet
+      Northrop Grumman Aerospace Systems Banquet
+      <br/><br/>
+      <a href="http://www.northropgrumman.com/">
+        <img src="{{ site.baseurl }}/images/sponsors/northropgrumman.png"
+             alt="Northrop Grumman" style="max-width: 100%; max-height: 4em;"/>
+      </a>
     </td>
   </tr>
 </table>

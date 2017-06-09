@@ -13,7 +13,7 @@ session_id,title,date,time,location,chair,papers
 7,Spotlight Talks: Group 7,July 12,04:30 PM - 05:00 PM,Kresge Auditorium,TBD,03 60 37 66
 8,Spotlight Talks: Group 8,July 12,05:00 PM - 05:30 PM,Kresge Auditorium,TBD,36 10 67
 0,Break to walk to poster session,July 12,05:30 - 06:00 PM,none,none,0
-0,Poster Session,July 12,06:00 - 09:00 PM,none,none,0
+0,Amazon Robotics Poster Session,July 12,06:00 - 09:00 PM,none,none,0
 
 9,Spotlight Talks: Group 9,July 13,09:30 AM - 10:00 AM,Kresge Auditorium,TBD,21 07 50 12
 10,Spotlight Talks: Group 10,July 13,10:00 AM - 10:30 AM,Kresge Auditorium,TBD,46 40 06
@@ -27,7 +27,7 @@ session_id,title,date,time,location,chair,papers
 13,Spotlight Talks: Group 13,July 13,04:30 PM - 05:00 PM,Kresge Auditorium,TBD,09 22 34 68
 14,Spotlight Talks: Group 14,July 13,05:00 PM - 05:30 PM,Kresge Auditorium,TBD,39 41 48 56
 0,Break to walk to poster session,July 13,05:30 - 06:00 PM,none,none,0
-0,Poster Session,July 13,06:00 - 09:00 PM,none,none,0
+0,Toyota Research Institute Poster Session,July 13,06:00 - 09:00 PM,none,none,0
 
 15,Spotlight Talks: Group 15,July 14,09:30 AM - 10:00 AM,Kresge Auditorium,TBD,44 33 11 69
 16,Spotlight Talks: Group 16,July 14,10:00 AM - 10:30 AM,Kresge Auditorium,TBD,08 31 23
@@ -41,4 +41,4 @@ session_id,title,date,time,location,chair,papers
 20,Spotlight Talks: Group 20,July 14,04:00 PM - 04:30 PM,Kresge Auditorium,TBD,02 74 71
 0,Awards,July 14,04:30 PM - 05:30 PM,Kresge Auditorium,TBD,0
 0,Transportation to Banquet,July 14,05:30 PM - 06:30 PM,none,none,0
-0,Conference Banquet,July 14,07:00 PM - 11:00 PM,"Bates Hall, Boston Public Library",TBD,0
+0,Northrop Grumman Aerospace Systems Banquet,July 14,07:00 PM - 11:00 PM,"Bates Hall, Boston Public Library",TBD,0
