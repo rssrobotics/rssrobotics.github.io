@@ -1,50 +1,43 @@
 <div class="col-md-2 col-lg-offset-1 hidden-xs hidden-sm text-right" id="sidebar"/>
   <!-- No sidebar on small screens -->
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a><br>
-    <a class="sidebar-nav-item{% if page.url == '/blog' %} active{% endif %}" href="{{ site.baseurl }}/blog/">Latest</a><br>
-    <a class="sidebar-nav-item" href="http://www.roboticsproceedings.org/">Previous Proceedings</a><br><br>
+  <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+  <br>
+  <a class="sidebar-nav-item{% if page.url == '/blog' %} active{% endif %}" href="{{ site.baseurl }}/blog/">Latest</a>
+  <br>
+  <a class="sidebar-nav-item" href="http://www.roboticsproceedings.org/">Previous Proceedings</a>
+  <br>
 
-    {% comment %}
-      The code below dynamically generates a sidebar nav of pages with
-      `layout: page` in the front-matter. See readme for usage.
-    {% endcomment %}
+  <br>
 
-    {% for node in site.pages %}
-      {% if node.invisible != true %}
-        {% if node.layout == "page" %}
-          <a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
-        {% endif %}
+  {% for coll in site.collections %}
+  {% if coll.label != "posts" %}
+  <b>{{ coll.label }}</b>
+  <br>
+
+  {% assign priority = ((coll.docs | where_exp: "node", "node.priority > 0")
+                                   | sort: "priority")
+                                   | reverse %}
+  {% for node in priority %}
+    {% if node.invisible != true %}
+      {% if node.layout == "page" %}
+  <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+  <br>
       {% endif %}
-    {% endfor %}
+    {% endif %}
+  {% endfor %}
 
-    {% for coll in site.collections %}
-      {% if coll.label != "posts" %}
-        <b>{{coll.label}}</b><br>
-
-        {% assign priority = ((coll.docs | where_exp: "node", "node.priority > 0")
-                                         | sort: "priority")
-                                         | reverse %}
-        {% for node in priority %}
-          {% if node.invisible != true %}
-            {% if node.layout == "page" %}
-              <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
-              <br>
-            {% endif %}
-          {% endif %}
-        {% endfor %}
-
-        {% assign docs = (coll.docs | where_exp: "node", "node.priority == 0")
-                                    | sort: "title" %}
-        {% for node in docs %}
-          {% if node.invisible != true %}
-            {% if node.layout == "page" %}
-              <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
-              <br>
-            {% endif %}
-          {% endif %}
-        {% endfor %}
-
-        <br>
+  {% assign docs = (coll.docs | where_exp: "node", "node.priority == 0")
+                              | sort: "title" %}
+  {% for node in docs %}
+    {% if node.invisible != true %}
+      {% if node.layout == "page" %}
+  <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+  <br>
       {% endif %}
-    {% endfor %}
+    {% endif %}
+  {% endfor %}
+
+  <br>
+  {% endif %}
+  {% endfor %}
 </div>
