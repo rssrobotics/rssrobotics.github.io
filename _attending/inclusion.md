@@ -5,10 +5,11 @@ invisible: true
 ---
 
 The RSS community is committed to increasing the participation of groups
-traditionally underrepresented in robotics (women, URMs), especially people
-early in their studies and career. To that end, RSS is providing a special
-workshops-only registration at a reduced rate ($67.50) for undergraduates who
-identify as belonging to an underrepresented group.
+traditionally underrepresented in robotics (including but not limited to:
+women, LGBTQ+, underrepresented minorities, and people with disabilities),
+especially people early in their studies and career. To that end, RSS is
+providing a special workshops-only registration at a reduced rate ($67.50) for
+undergraduates who identify as belonging to an underrepresented group.
 
 To obtain the registration code, please email EMAIL with your name and
 institution name. You will then receive a code to use during registration. To
