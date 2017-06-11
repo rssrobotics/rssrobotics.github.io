@@ -115,12 +115,17 @@ poster receptions on July 12th and 13th respectively.
        alt="Oculus"/>
 </a>
 
+<a href="http://optimusride.com/">
+  <img src="{{ site.baseurl }}/images/sponsors/optimusride.svg"
+       alt="Optimus Ride"/>
+</a>
+
+<br/>
+
 <a href="https://www.righthandrobotics.com/">
   <img src="{{ site.baseurl }}/images/sponsors/righthandrobotics.png"
        alt="Righthand Robotics"/>
 </a>
-
-<br/>
 
 <a href="https://www.skydio.com/">
   <img src="{{ site.baseurl }}/images/sponsors/skydio.png"
@@ -129,7 +134,7 @@ poster receptions on July 12th and 13th respectively.
 
 <a href="https://www.uber.com/info/atg/">
   <img src="{{ site.baseurl }}/images/sponsors/uber.jpg"
-       alt="Uber" style="margin-bottom: -2px;"/>
+       alt="Uber" style="margin-bottom: 2px;"/>
 </a>
 </div>
 
