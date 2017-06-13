@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Inclusion@RSS
-invisible: true
 ---
 
 The RSS community is committed to increasing the participation of groups
