@@ -58,9 +58,7 @@
         {% for paper_id in paper_ids %}
         {% for paper in site.data.papers %}
         {% if paper_id == paper.external_id %}
-          <a href="javascript:void($('#group{{ event.session_id }}-paper{{ paper.external_id }}').toggle());">
-            {{ paper.title }}
-          </a>
+          <a href="javascript:void($('#group{{ event.session_id }}-paper{{ paper.external_id }}').toggle());">{{ paper.title }}</a>
           <br/>
           {{ paper.authors }}
           <div id="group{{ event.session_id }}-paper{{ paper.external_id }}" style="display:none;">
@@ -68,15 +66,11 @@
             {{ paper.abstract }}
             <br/><br/>
             [<b>
-                <a href="https://storage.googleapis.com/rss2017-papers/{{ paper.external_id }}.pdf">
-                  Full Paper
-                </a>
+                <a href="https://storage.googleapis.com/rss2017-papers/{{ paper.external_id }}.pdf">Full Paper</a>
               </b>
               |
               <b>
-                <a href="{{ site.baseurl }}/program/papers/{{ paper.external_id }}/">
-                  Discussion
-                </a>
+                <a href="{{ site.baseurl }}/program/papers/{{ paper.external_id }}/">Discussion</a>
             </b>]
           </div>
           <br/><br/>
