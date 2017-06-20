@@ -36,6 +36,17 @@ have questions or need additional resources.
 
 [lactation rooms]: http://hrweb.mit.edu/worklife/child-care-parenting/breastfeeding-support/lactation-rooms/campus
 
+#### Lab Tour and Poster Sessions
+
+On Wednesday 7/13 at 5:30pm, we will have a kid-focused lab tour of the MIT
+Stata Center immediately before the poster session. Details and sign up
+[here][lab tour]!  Afterwards, families and caregivers are welcome to attend
+the poster sessions and enjoy the food. We will have a kid's table with
+robotics-focused activities for kids of different ages, including a very
+special sneak preview of Barefoot Books' upcoming title, "My Friend Robot."
+
+[lab tour]: https://docs.google.com/forms/d/e/1FAIpQLSc1oJ5wHblWGv-HumqsncBGWtizQHwraaXsAvupQY_wSJsBDA/viewform
+
 #### Organizers
 
 Stefanie Tellex, *Brown University* <br/>
