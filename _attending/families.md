@@ -66,6 +66,77 @@ Maya Cakmak, *University of Washington* <br/>
 Hadas Kress-Gazit, *Cornell University* <br/>
 Matt Walter, *Toyota Technological Institute at Chicago*
 
+#### Activities for caregivers and kids
+
+Boston is a great place to explore with young children. Below are some of our
+favorite activities that are accessible from the Red Line (the closest T-stop to
+the conference).
+
+- [Frog Pond][frog pond]. Boston Common is accessible from the Red Line. Get on
+  the Kendall Square T-stop going outbound and get off at Park Street. The Frog
+  Pond is a short walk from the T stop on Boston common. It's a giant shallow
+  pond that kids can swim in. There is also a playground and splash pad next to
+  it, and a carousel. Bring a bathing suit!
+- [The Greenway][the greenway]. The Greenway is a park that was created as a
+  result of the Big Dig, which buried the I-93 expressway. It is a linear park
+  that goes through downtown Boston. There are lots of fountains for water play,
+  including a very large one near the New England Aquarium. You can get on it by
+  getting off the Red Line at Downtown Crossing and then walking. Our favorite
+  activity is to walk along the Greenway in our bathing suits, fountain-hopping
+  all the way. There is also a carousel with animals drawn from Massachusetts
+  native wildlife. (Ride on a lobster or a redtail hawk!) You can stop
+  at [Christopher Columbus Park][christopher columbus park] for another splash
+  pad and a playground, as well as great views of Boston Harbor.
+- [Museum of Science][museum of science]. The Museum of Science is a
+  world-renowned science museum. Right now it has a wonderful exhibit called
+  "[Popnology][popnology]" which has a great lineup of fictional and real
+  robots, including robot arms that you can teleoperate to pick up blocks. You
+  can reach it by taking the shuttle to the Galleria Mall from the Kendall
+  Square T-stop. The Museum is a short walk from the Galleria.  Duck Tours also
+  pick up here.
+- [Children's Museum][childrens museum]. The Children's Museum is located a
+  short walk from South Station on the Red Line. Among many other things, they
+  have exhibits featuring Boston roboticists such as the RoboBee project.
+- [Spectacle Island][spectacle island]. The Boston Harbor Islands are accessible
+  by ferry from a terminal near the New England Aquarium. You can reach the
+  terminal by getting off at Downtown Crossing or South Station. The ferry ride
+  to Spectacle Island takes about 30 minutes and is a great and reasonably
+  priced way to get out on the water. Spectacle Island is our favorite, because
+  it has bathrooms and a beach with swimming. If you are motivated you can hike
+  to the top of one of the drumlins for the best kite-flying in Boston. The gift
+  shop on the island sells soft kites that work great. The island is also a
+  great place for airplane spotting, and the top of the drumlin has a great view
+  of Logan Airport and Boston Harbor.  Plan on a full day for this one.
+- [New England Aquarium][new england aquarium]. The Aquarium is a popular
+  attraction right on the harbor, featuring penguins, fur seals, and the Giant
+  Ocean Tank with Myrtle the Green Sea Turtle. You can reach it by walking from
+  Downtown Crossing or South Station.
+- [MIT Museum][mit museum]. This is a short walk from the conference venue up
+  Massachusetts Avenue. The activities are mainly geared toward older kids; the
+  memorabilia of hacks and the hologram exhibits are very popular.
+- [Savin Hill Park][savin hill park]. This urban park features a playground and
+  a swimming beach just five minutes from the Red Line Savin Hill stop. You can
+  reach it from Kendall Square but note that you have to get on the Ashmont line
+  (not Braintree). Wait for an "Ashmont train."
+
+If you are looking for activities near the conference venue, Kresge Oval in
+front of the main area is a grassy space that is good for running around and
+playing. At the Stata Center, there is a green field just outside called
+Northcourt. It has a red statue that is fun to climb on. It's fun to take kids
+down the Infinite Corridor on MIT's main campus, and also to walk along the
+Memorial drive path and look at the river.
+
+[frog pond]: https://bostonfrogpond.com/
+[the greenway]: http://www.rosekennedygreenway.org/
+[christopher columbus park]: http://www.bostoncentral.com/activities/christopher-columbus-waterfront-park-boston/p311.php
+[museum of science]: https://www.mos.org/
+[popnology]: https://www.mos.org/popnology/
+[childrens museum]: http://www.bostonchildrensmuseum.org/
+[spectacle island]: http://www.bostonharborislands.org/spectacle-island
+[new england aquarium]: http://www.neaq.org/
+[mit museum]: https://mitmuseum.mit.edu/
+[savin hill park]: https://www.yelp.com/biz/savin-hill-park-dorchester
+
 <br/>
 <br/>
 <br/>
