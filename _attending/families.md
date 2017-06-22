@@ -10,12 +10,10 @@ Our mission is to support members of the RSS community with children in their li
 
 For families who bring their children along with their own caregiver, Boston is
 a wonderful destination for families and kids. Below is a list of suggested
-activities that are easily accessible from Kendall Square, the T stop closest to
-the conference venue. We are creating a signup for for caregivers who wish to be
+activities that are easily accessible from Kendall Square, the T stop closest
+to the conference venue. We are creating a signup for caregivers who wish to be
 connected with each other to organize group activities. Caregivers and kids are
-welcome at all RSS events and are welcome to partake in all the food. We will
-provide a "kids table" at the poster sessions that will have kid-friendly
-activities such as coloring books, robot-centered activities and toys.
+welcome at the RSS poster session and are welcome to partake in all the food.
 
 We will also have a lab tour of MIT focused on kids, that will include "hands
 on" demos of Baxter and the Aibo robot puppy, that you can sign up for at the
