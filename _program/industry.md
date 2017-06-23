@@ -34,5 +34,15 @@ Participating companies:
 - [Vecna](https://www.vecna.com/)
 - [Optimus Ride](http://optimusride.com/)
 
+{% comment %}
+<a href="https://www.amazonrobotics.com/">
+<img src="{{ site.baseurl }}/images/sponsors/amazonrobotics.jpg"
+     alt="Amazon Robotics" style="max-width: 50%; max-height: 4em; margin: 5px;"/>
+</a>
+<a href="https://www.massrobotics.org/">
+<img src="{{ site.baseurl }}/images/sponsors/massrobotics.png"
+     alt="MassRobotics" style="max-width: 50%; max-height: 4em; margin: 5px;"/>
+</a>
+{% endcomment %}
 
 <br/><br/><br/><br/>

@@ -159,6 +159,15 @@ priority: 10
       <a href="{{ site.baseurl }}/program/industry/">
         Amazon Robotics and MassRobotics Industry Reception
       </a>
+      <br/><br/>
+      <a href="https://www.amazonrobotics.com/">
+        <img src="{{ site.baseurl }}/images/sponsors/amazonrobotics.jpg"
+             alt="Amazon Robotics" style="max-width: 50%; max-height: 4em; margin: 5px;"/>
+      </a>
+      <a href="https://www.massrobotics.org/">
+        <img src="{{ site.baseurl }}/images/sponsors/massrobotics.png"
+             alt="MassRobotics" style="max-width: 50%; max-height: 4em; margin: 5px;"/>
+      </a>
     </td>
   </tr>
 </table>
