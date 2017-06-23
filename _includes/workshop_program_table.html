@@ -6,6 +6,8 @@
     <td>
       {% if event.title contains 'Session' %}
       <a href="{{ site.baseurl }}/program/workshops/#{{ include.day }}"><b>{{ event.title }}</b></a>
+      {% elsif event.title contains 'Industry Reception' %}
+      <a href="{{ site.baseurl }}/program/industry/"><b>{{ event.title }}</b></a>
       {% else %}
       <b>{{ event.title }}</b>
       {% endif %}

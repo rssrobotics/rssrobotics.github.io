@@ -153,6 +153,14 @@ priority: 10
       Workshop: Afternoon Session
     </td>
   </tr>
+  <tr>
+    <td><b>05:30 PM - 08:30 PM</b></td>
+    <td>
+      <a href="{{ site.baseurl }}/program/industry/">
+        Amazon Robotics and MassRobotics Industry Reception
+      </a>
+    </td>
+  </tr>
 </table>
 
 #### Sunday, July 16  {#sun}
