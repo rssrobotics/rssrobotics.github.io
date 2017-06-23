@@ -34,7 +34,7 @@ def main():
     # Generate paper CSV and pages
     with open(args.csv_outfile, 'w') as f:
         writer = csv.DictWriter(f, fieldnames=[
-            'session_id', 'external_id', 'internal_id',
+            'external_id', 'internal_id',
             'title', 'abstract', 'authors', 'areas'],
             lineterminator='\n')
 
@@ -50,7 +50,6 @@ def main():
             external_id = '{:0>2}'.format(i)
 
             paper = {
-                'session_id': 0,
                 'external_id': external_id,
                 'internal_id': internal_id,
                 'title': raw_paper['Paper Title'],
