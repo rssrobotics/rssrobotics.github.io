@@ -3,11 +3,13 @@ layout: page
 title: PDF2MP4
 permalink: /pdf2mp4/
 invisible: true
+
+ip: http://104.197.88.72/
 ---
 
-[PDF2MP4](http://104.154.154.241/) is now available!
+[PDF2MP4]({{ page.ip }}) is now available!
 
-<link rel="canonical" href="http://104.154.154.241/">
-<meta http-equiv="refresh" content="0; url=http://104.154.154.241/">
-<a href="http://104.154.154.241/">Click here if you are not redirected.</a>
-<script>location="http://104.154.154.241/"</script>
+<link rel="canonical" href="{{ page.ip }}">
+<meta http-equiv="refresh" content="0; url={{ page.ip }}">
+<a href="{{ page.ip }}">Click here if you are not redirected.</a>
+<script>location="{{ page.ip }}"</script>
