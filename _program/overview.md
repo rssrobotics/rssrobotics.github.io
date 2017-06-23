@@ -162,11 +162,11 @@ priority: 10
       <br/><br/>
       <a href="https://www.amazonrobotics.com/">
         <img src="{{ site.baseurl }}/images/sponsors/amazonrobotics.jpg"
-             alt="Amazon Robotics" style="max-width: 50%; max-height: 4em; margin: 5px;"/>
+             alt="Amazon Robotics" style="max-width: 45%; max-height: 4em; margin: 5px;"/>
       </a>
       <a href="https://www.massrobotics.org/">
         <img src="{{ site.baseurl }}/images/sponsors/massrobotics.png"
-             alt="MassRobotics" style="max-width: 50%; max-height: 4em; margin: 5px;"/>
+             alt="MassRobotics" style="max-width: 45%; max-height: 4em; margin: 5px;"/>
       </a>
     </td>
   </tr>
