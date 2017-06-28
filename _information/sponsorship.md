@@ -110,17 +110,22 @@ poster receptions on July 12th and 13th respectively.
        alt="MassRobotics"/>
 </a>
 
+<a href="http://nutonomy.com/">
+  <img src="{{ site.baseurl }}/images/sponsors/nutonomy.png"
+       alt="nuTonomy"/>
+</a>
+
 <a href="https://www.oculus.com/">
   <img src="{{ site.baseurl }}/images/sponsors/oculus.png"
        alt="Oculus"/>
 </a>
 
+<br/>
+
 <a href="http://optimusride.com/">
   <img src="{{ site.baseurl }}/images/sponsors/optimusride.svg"
        alt="Optimus Ride"/>
 </a>
-
-<br/>
 
 <a href="https://www.righthandrobotics.com/">
   <img src="{{ site.baseurl }}/images/sponsors/righthandrobotics.png"
@@ -132,9 +137,11 @@ poster receptions on July 12th and 13th respectively.
        alt="Skydio"/>
 </a>
 
+<br/>
+
 <a href="https://www.uber.com/info/atg/">
   <img src="{{ site.baseurl }}/images/sponsors/uber.jpg"
-       alt="Uber" style="margin-bottom: 2px;"/>
+       alt="Uber" style="margin-top: 30px; margin-bottom: 2px;"/>
 </a>
 </div>
 
