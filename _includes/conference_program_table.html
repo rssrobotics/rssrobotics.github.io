@@ -56,10 +56,9 @@
 
         {% assign paper_ids = event.papers | split: ' ' %}
         {% for paper_id in paper_ids %}
-        {% assign talk_id = forloop.index %}
         {% for paper in site.data.papers %}
         {% if paper_id == paper.external_id %}
-          <b>Talk {{ event.session_id }}.{{ talk_id }}</b>
+          <b id="{{ paper.talk_id }}">Talk {{ paper.talk_id }}</b>
           <br/>
           <a href="javascript:void($('#group{{ event.session_id }}-paper{{ paper.external_id }}').toggle());">{{ paper.title }}</a>
           <br/>
