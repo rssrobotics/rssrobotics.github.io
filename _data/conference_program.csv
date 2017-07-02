@@ -1,21 +1,21 @@
 session_id,title,date,time,location,chair,papers
 
-1,Spotlight Talks: Group 1,July 12,09:30 AM - 10:00 AM,Kresge Auditorium,Matt Walter,63 13 57 70
-2,Spotlight Talks: Group 2,July 12,10:00 AM - 10:30 AM,Kresge Auditorium,Nick Roy,75 06 23
+01,Spotlight Talks: Group 1,July 12,09:30 AM - 10:00 AM,Kresge Auditorium,Matt Walter,63 13 57 70
+02,Spotlight Talks: Group 2,July 12,10:00 AM - 10:30 AM,Kresge Auditorium,Nick Roy,75 06 23
 0,Refreshment Break,July 12,10:30 AM - 11:00 AM,Kresge Auditorium,none,0
 0,Keynote Presentation,July 12,11:00 AM - 12:00 PM,Kresge Auditorium,Siddhartha Srinivasa,0
 0,Lunch Break,July 12,12:00 AM - 02:00 PM,none,none,0
-3,Spotlight Talks: Group 3,July 12,02:00 PM - 02:30 PM,Kresge Auditorium,Todd Murphey,01 25 29 19
-4,Spotlight Talks: Group 4,July 12,02:30 PM - 03:00 PM,Kresge Auditorium,Matei Ciocarlie,72 18 54 59
+03,Spotlight Talks: Group 3,July 12,02:00 PM - 02:30 PM,Kresge Auditorium,Todd Murphey,01 25 29 19
+04,Spotlight Talks: Group 4,July 12,02:30 PM - 03:00 PM,Kresge Auditorium,Matei Ciocarlie,72 18 54 59
 0,Refreshment Break,July 12,03:00 PM - 03:30 PM,Kresge Auditorium,none,0
-5,Spotlight Talks: Group 5,July 12,03:30 PM - 04:00 PM,Kresge Auditorium,Kostas Bekris,17 15 20 28
-6,Spotlight Talks: Group 6,July 12,04:00 PM - 04:30 PM,Kresge Auditorium,Hanna Kurniawati,52 27 43 04
-7,Spotlight Talks: Group 7,July 12,04:30 PM - 05:00 PM,Kresge Auditorium,Brenna Argall,03 60 37 66
-8,Spotlight Talks: Group 8,July 12,05:00 PM - 05:30 PM,Kresge Auditorium,Stefanie Tellex,64 36 10 67
+05,Spotlight Talks: Group 5,July 12,03:30 PM - 04:00 PM,Kresge Auditorium,Kostas Bekris,17 15 20 28
+06,Spotlight Talks: Group 6,July 12,04:00 PM - 04:30 PM,Kresge Auditorium,Hanna Kurniawati,52 27 43 04
+07,Spotlight Talks: Group 7,July 12,04:30 PM - 05:00 PM,Kresge Auditorium,Brenna Argall,03 60 37 66
+08,Spotlight Talks: Group 8,July 12,05:00 PM - 05:30 PM,Kresge Auditorium,Stefanie Tellex,64 36 10 67
 0,Break to walk to poster session,July 12,05:30 - 06:00 PM,none,none,0
 0,Amazon Robotics Poster Session,July 12,06:00 - 09:00 PM,none,none,0
 
-9,Spotlight Talks: Group 9,July 13,09:30 AM - 10:00 AM,Kresge Auditorium,Anca Dragan,21 07 50 12
+09,Spotlight Talks: Group 9,July 13,09:30 AM - 10:00 AM,Kresge Auditorium,Anca Dragan,21 07 50 12
 10,Spotlight Talks: Group 10,July 13,10:00 AM - 10:30 AM,Kresge Auditorium,Hadas Kress-Gazit,42 40 31
 0,Refreshment Break,July 13,10:30 AM - 11:00 AM,Kresge Auditorium,none,0
 0,Keynote Presentation,July 13,11:00 AM - 12:00 PM,Kresge Auditorium,Siddhartha Srinivasa,0
