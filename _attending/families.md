@@ -29,8 +29,14 @@ to attend.
 
 MIT has [several lactation rooms][lactation rooms] available on campus. We are
 also providing lactation rooms at Kresge (the conference venue) and the Stata
-Center (the workshop venue). Please contact the conference organizers if you
-have questions or need additional resources.
+Center (the workshop venue).
+
+The lactation room for the main conference will be in the Green Room, located
+in the basement of Kresge. This room has a private bathroom, and will be
+equipped with a small fridge. You can pick up the key at the registration desk.
+
+Please contact the conference organizers if you have questions or need
+additional resources.
 
 [lactation rooms]: http://hrweb.mit.edu/worklife/child-care-parenting/breastfeeding-support/lactation-rooms/campus
 
