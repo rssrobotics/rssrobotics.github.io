@@ -30,6 +30,7 @@ Participating companies:
 - [Locus Robotics](http://www.locusrobotics.com/)
 - [Myomo](http://myomo.com/)
 - [nuTonomy](http://nutonomy.com/)
+- [NVIDIA](http://www.nvidia.com/)
 - [ReWalk](http://rewalk.com/)
 - [RightHand Robotics](https://www.righthandrobotics.com/)
 - [Soft Robotics Inc.](https://www.softroboticsinc.com/)
