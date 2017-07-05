@@ -21,9 +21,11 @@ registration desk.
 
 #### Parent Networking
 
-We will have a lunch networking event for parents at RSS, whether or not you are
-bringing your kids. Anyone who has an interest in kids and robotics is welcome
-to attend.
+We will have an informal networking lunch for parents at RSS on Thursday.
+Anyone who has an interest in kids and robotics, whether or not they are
+bringing their kids, is welcome to attend. We will meet outside Kresge at lunch
+break and walk over to a lunch place shortly after (around 12:15pm). Look for
+the sign "Families @ RSS Lunch" to join us.
 
 #### Lactation Rooms and Changing Tables
 
