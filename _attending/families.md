@@ -23,9 +23,10 @@ registration desk.
 
 We will have an informal networking lunch for parents at RSS on Thursday.
 Anyone who has an interest in kids and robotics, whether or not they are
-bringing their kids, is welcome to attend. We will meet outside Kresge at lunch
-break and walk over to a lunch place shortly after (around 12:15pm). Look for
-the sign "Families @ RSS Lunch" to join us.
+bringing their kids to the conference, is welcome to attend. We will meet
+outside Kresge at lunch break and walk over to a lunch place shortly after
+(around 12:15pm). Look for the sign "Families @ RSS Lunch" to join us. Note
+that the lunch is not covered by RSS; everyone will pay their own.
 
 #### Lactation Rooms and Changing Tables
 
