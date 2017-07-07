@@ -54,8 +54,8 @@ def main():
         for i, raw_paper in enumerate(raw_paper_data, 1):
             abstract = raw_paper['Abstract'].encode('ascii', 'xmlcharrefreplace').decode()
             authors = ', '.join([
-                ' '.join(author.split(',')[0].replace('*', '').split())
-                for author in raw_paper['Author Names'].encode('ascii', 'xmlcharrefreplace').decode().split('; ')
+                ' '.join(author_and_affiliation.encode('ascii', 'xmlcharrefreplace').decode().split(',')[0].replace('*', '').split())
+                for author_and_affiliation in raw_paper['Author Names'].split('; ')
             ])
 
             internal_id = raw_paper['Paper ID']
