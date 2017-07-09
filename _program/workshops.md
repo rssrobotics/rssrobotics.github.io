@@ -3,11 +3,14 @@ layout: page
 title: Workshops
 description: Workshop times, venues, and details.
 days: ['SAT', 'SUN', 'S&S']
+room_pictures: ['32-123', '32-124', '32-141', '32-144', '32-155', '36-112', '36-144', '36-153', '36-155', '36-156', '34-101']
 ---
 
 Workshops will take place July 15 and 16, 2017.
 They will commence at 9:30 AM and end at 5:30 PM.
 The workshop coffee breaks will be from 10:30 to 11:00 AM and 3:00 to 3:30 PM, with lunch scheduled for 12:00 - 2:00 PM.
+
+[Here]({{ site.baseurl }}/docs/campusmap.pdf) is a labeled map of the workshop buildings.
 
 {% for day in page.days %}
 {% if day == 'SAT' %}
@@ -22,10 +25,10 @@ The workshop coffee breaks will be from 10:30 to 11:00 AM and 3:00 to 3:30 PM, w
   <thead>
     <tr>
       <th width="15%" align="center">WS</th>
-      <th width="38%">Title</th>
-      <th width="32%">Organizers</th>
+      <th width="36%">Title</th>
+      <th width="30%">Organizers</th>
       <th width="5%">Date</th>
-      <th width="10%">Room</th>
+      <th width="14%">Room</th>
     </tr>
   </thead>
   <tbody>
@@ -42,7 +45,11 @@ The workshop coffee breaks will be from 10:30 to 11:00 AM and 3:00 to 3:30 PM, w
         {{ workshop.organizers | replace: ',', '<br/>' }}
       </td>
       <td>{{ workshop.date }}</td>
+      {% if page.room_pictures contains workshop.room %}
+      <td><a href="http://student.mit.edu/cgi-bin/display_pictures.sh?{{ workshop.room }}">{{ workshop.room }}</a></td>
+      {% else %}
       <td>{{ workshop.room }}</td>
+      {% endif %}
     </tr>
     {% endif %}
     {% endfor %}
