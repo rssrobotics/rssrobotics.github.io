@@ -7,12 +7,10 @@ priority: 9
 
 All papers in this year's RSS will be presented as a short talk and poster. To
 find the time of your talk, please see
-the [program]({{ site.baseurl }}/program/detailed/). Authors will present their
-poster during the evening poster session on the same day as their short
-talk. The format of presentations is the same as last year. Video recordings
-from RSS 2014 presented in this format are
-available [here](http://rll.berkeley.edu/RSS2014/videos.html) for your
-reference.
+the [program]({{ site.baseurl }}/program/detailed/). The format of
+presentations is the same as last year. Video recordings from RSS 2014
+presented in this format are available
+[here](http://rll.berkeley.edu/RSS2014/videos.html) for your reference.
 
 If you have questions after reading the instructions below, please contact Ani
 Majumdar or Tucker Hermans (Presentation Co-Chairs) for issues regarding short
