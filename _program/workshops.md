@@ -3,7 +3,7 @@ layout: page
 title: Workshops
 description: Workshop times, venues, and details.
 days: ['SAT', 'SUN', 'S&S']
-room_pictures: ['32-123', '32-124', '32-141', '32-144', '32-155', '36-112', '36-144', '36-153', '36-155', '36-156', '34-101']
+room_pictures: ['32-123', '32-124', '32-141', '32-144', '32-155', '36-112', '36-144', '36-153', '36-155', '36-156', '34-101', '34-301', '34-302']
 ---
 
 Workshops will take place July 15 and 16, 2017.
