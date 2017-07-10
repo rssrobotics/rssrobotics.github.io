@@ -22,9 +22,19 @@ priority: 10
 
 <table class="table table-striped table-overview">
   <tr>
+    <td><b>08:30 AM - 09:30 AM</b></td>
+    <td>
+      Registration and Coffee/Light Refreshments
+      <br/>
+      <i>Location: Kresge Lobby</i>
+    </td>
+  </tr>
+  <tr>
     <td><b>09:30 AM - 12:00 PM</b></td>
     <td>
       Conference: Morning Session
+      <br/>
+      <i>Location: Kresge Auditorium</i>
     </td>
   </tr>
   <tr>
@@ -37,12 +47,16 @@ priority: 10
     <td><b>02:00 PM - 05:30 PM</b></td>
     <td>
       Conference: Afternoon Session
+      <br/>
+      <i>Location: Kresge Auditorium</i>
     </td>
   </tr>
   <tr>
     <td><b>06:00 PM - 09:00 PM</b></td>
     <td>
       Amazon Robotics Poster Session
+      <br/>
+      <i>Location: Student Street at the Stata Center</i>
       <br/><br/>
       <a href="https://www.amazonrobotics.com/">
         <img src="{{ site.baseurl }}/images/sponsors/amazonrobotics.jpg"
@@ -56,9 +70,19 @@ priority: 10
 
 <table class="table table-striped table-overview">
   <tr>
+    <td><b>08:30 AM - 09:30 AM</b></td>
+    <td>
+      Registration and Coffee/Light Refreshments
+      <br/>
+      <i>Location: Kresge Lobby</i>
+    </td>
+  </tr>
+  <tr>
     <td><b>09:30 AM - 12:00 PM</b></td>
     <td>
       Conference: Morning Session
+      <br/>
+      <i>Location: Kresge Auditorium</i>
     </td>
   </tr>
   <tr>
@@ -71,12 +95,16 @@ priority: 10
     <td><b>02:00 PM - 05:30 PM</b></td>
     <td>
       Conference: Afternoon Session
+      <br/>
+      <i>Location: Kresge Auditorium</i>
     </td>
   </tr>
   <tr>
     <td><b>06:00 PM - 09:00 PM</b></td>
     <td>
       Toyota Research Institute Poster Session
+      <br/>
+      <i>Location: Student Street at the Stata Center</i>
       <br/><br/>
       <a href="http://www.tri.global/">
         <img src="{{ site.baseurl }}/images/sponsors/tri.png"
@@ -90,9 +118,19 @@ priority: 10
 
 <table class="table table-striped table-overview">
   <tr>
+    <td><b>08:30 AM - 09:30 AM</b></td>
+    <td>
+      Registration and Coffee/Light Refreshments
+      <br/>
+      <i>Location: Kresge Lobby</i>
+    </td>
+  </tr>
+  <tr>
     <td><b>09:30 AM - 12:00 PM</b></td>
     <td>
       Conference: Morning Session
+      <br/>
+      <i>Location: Kresge Auditorium</i>
     </td>
   </tr>
   <tr>
@@ -105,12 +143,16 @@ priority: 10
     <td><b>02:00 PM - 04:30 PM</b></td>
     <td>
       Conference: Afternoon Session
+      <br/>
+      <i>Location: Kresge Auditorium</i>
     </td>
   </tr>
   <tr>
     <td><b>04:30 PM - 05:30 PM</b></td>
     <td>
       Conference Awards
+      <br/>
+      <i>Location: Kresge Auditorium</i>
     </td>
   </tr>
   <tr>
@@ -123,6 +165,8 @@ priority: 10
     <td><b>07:00 PM - 11:00 PM</b></td>
     <td>
       Northrop Grumman Aerospace Systems Banquet
+      <br/>
+      <i>Location: Bates Hall, Boston Public Library</i>
       <br/><br/>
       <a href="http://www.northropgrumman.com/">
         <img src="{{ site.baseurl }}/images/sponsors/northropgrumman.png"
@@ -135,6 +179,14 @@ priority: 10
 #### Saturday, July 15  {#sat}
 
 <table class="table table-striped table-overview">
+  <tr>
+    <td><b>08:30 AM - 09:30 AM</b></td>
+    <td>
+      Registration and Coffee/Light Refreshments
+      <br/>
+      <i>Location: Student Street at the Stata Center</i>
+    </td>
+  </tr>
   <tr>
     <td><b>09:30 AM - 12:00 PM</b></td>
     <td>
@@ -159,6 +211,8 @@ priority: 10
       <a href="{{ site.baseurl }}/program/industry/">
         Amazon Robotics and MassRobotics Industry Reception
       </a>
+      <br/>
+      <i>Location: Student Street at the Stata Center</i>
       <br/><br/>
       <a href="https://www.amazonrobotics.com/">
         <img src="{{ site.baseurl }}/images/sponsors/amazonrobotics.jpg"
@@ -175,6 +229,14 @@ priority: 10
 #### Sunday, July 16  {#sun}
 
 <table class="table table-striped table-overview">
+  <tr>
+    <td><b>08:30 AM - 09:30 AM</b></td>
+    <td>
+      Registration and Coffee/Light Refreshments
+      <br/>
+      <i>Location: Student Street at the Stata Center</i>
+    </td>
+  </tr>
   <tr>
     <td><b>09:30 AM - 12:00 PM</b></td>
     <td>

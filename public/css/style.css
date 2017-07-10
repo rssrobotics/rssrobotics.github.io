@@ -62,7 +62,7 @@ a.board-org:visited {font-size:75%; font-style:italic; color:#333333}
 }
 
 .table-overview tbody>tr>td:first-child{
-    width: 150px;
+    width: 160px;
 }
 
 /* Technical Program Table */
