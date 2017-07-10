@@ -39,7 +39,7 @@ Participating companies:
 
 {% comment %}
 <a href="https://www.amazonrobotics.com/">
-<img src="{{ site.baseurl }}/images/sponsors/amazonrobotics.jpg"
+<img src="{{ site.baseurl }}/images/sponsors/amazonrobotics.png"
      alt="Amazon Robotics" style="max-width: 50%; max-height: 4em; margin: 5px;"/>
 </a>
 <a href="https://www.massrobotics.org/">

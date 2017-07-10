@@ -59,7 +59,7 @@ priority: 10
       <i>Location: Student Street at the Stata Center</i>
       <br/><br/>
       <a href="https://www.amazonrobotics.com/">
-        <img src="{{ site.baseurl }}/images/sponsors/amazonrobotics.jpg"
+        <img src="{{ site.baseurl }}/images/sponsors/amazonrobotics.png"
              alt="Amazon Robotics" style="max-width: 100%; max-height: 4em;"/>
       </a>
     </td>
@@ -215,7 +215,7 @@ priority: 10
       <i>Location: Student Street at the Stata Center</i>
       <br/><br/>
       <a href="https://www.amazonrobotics.com/">
-        <img src="{{ site.baseurl }}/images/sponsors/amazonrobotics.jpg"
+        <img src="{{ site.baseurl }}/images/sponsors/amazonrobotics.png"
              alt="Amazon Robotics" style="max-width: 45%; max-height: 4em; margin: 5px;"/>
       </a>
       <a href="https://www.massrobotics.org/">

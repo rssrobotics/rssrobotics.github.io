@@ -39,7 +39,7 @@ Grumman.
 <h2>RSS Patron</h2>
 
 <a href="https://www.amazonrobotics.com/">
-  <img src="{{ site.baseurl }}/images/sponsors/amazonrobotics.jpg"
+  <img src="{{ site.baseurl }}/images/sponsors/amazonrobotics.png"
        alt="Amazon Robotics"/>
 </a>
 
