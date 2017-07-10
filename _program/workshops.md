@@ -48,9 +48,9 @@ The workshop coffee breaks will be from 10:30 to 11:00 AM and 3:00 to 3:30 PM, w
       {% if page.room_pictures contains workshop.room %}
       <td><a href="http://student.mit.edu/cgi-bin/display_pictures.sh?{{ workshop.room }}">{{ workshop.room }}</a></td>
       {% elsif workshop.room == '32-D463' %}
-      <td><a href="http://imgur.com/a/LC2oA">{{ workshop.room }}</a></td>
-      {% elsif workshop.room == '32-G449' %}
       <td><a href="http://imgur.com/a/BQv9Y">{{ workshop.room }}</a></td>
+      {% elsif workshop.room == '32-G449' %}
+      <td><a href="http://imgur.com/a/LC2oA">{{ workshop.room }}</a></td>
       {% else %}
       <td>{{ workshop.room }}</td>
       {% endif %}
