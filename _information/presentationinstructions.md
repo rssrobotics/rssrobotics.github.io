@@ -40,7 +40,7 @@ you will be coaxed off the stage 5 minutes later!
 
 Please submit your video [here]({{ site.baseurl }}/submit). The submission
 website will open on July 1, 2017 and **close on July 10th, 2017, 18:00
-(GMT-11)**. This is a strict deadline, and there will be no extension or
+([anywhere on Earth](https://time.is/Anywhere_on_Earth))**. This is a strict deadline, and there will be no extension or
 exception, as we need time to verify video compatibility, resolve any potential
 problems, and download to the conference laptop. If you have not uploaded the
 video by the deadline, you will still have your 5-minute slot, but you will not
