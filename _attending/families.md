@@ -38,16 +38,30 @@ organizers if you have questions or need additional resources.
 
 [lactation rooms]: http://hrweb.mit.edu/worklife/child-care-parenting/breastfeeding-support/lactation-rooms/campus
 
-#### Lab Tour and Poster Sessions
+#### Poster Sessions
 
-On Thursday 7/13 at 5:30pm, we will have a kid-focused lab tour of the MIT Stata
-Center immediately before the poster session. Details and sign
-up [here][lab tour]! Families and caregivers are welcome to attend both poster
-sessions and enjoy the food. We will have a kid's table with robotics-focused
-activities for kids of different ages, including a very special sneak preview of
-Barefoot Books' upcoming title, "My Friend Robot."
+Families and caregivers are welcome to attend both poster sessions and enjoy the
+food. We will have a kid’s table with robotics-focused activities for kids of
+different ages, including a very special sneak preview of Barefoot Books'
+upcoming title, "My Friend Robot." Unfortunately we are not able to invite
+families to the banquet on Friday unless they purchase an extra banquet ticket.
 
-[lab tour]: https://docs.google.com/forms/d/e/1FAIpQLSc1oJ5wHblWGv-HumqsncBGWtizQHwraaXsAvupQY_wSJsBDA/viewform
+#### Kid-Focused Lab Tours
+
+We will have two kid-focused lab tours of MIT robotics labs.
+
+On Wednesday at 5:30pm we invite you to visit Cynthia Breazeal's lab, which has
+a variety of fun kid-friendly robots. Afterwards you can head back to the Stata
+Center for the RSS Poster session. Spots are limited and advance signup is
+required [here][cynthia breazeal tour].
+
+On Thursday at 5:30pm we invite you to visit Nicholas Roy's lab for a singing
+Baxter and robotic programming demonstration appropriate for children 18 months
+and up. Afterwards you can head downstairs to the RSS poster session. Spots are
+limited and advance signup is required [here][nicholas roy tour].
+
+[cynthia breazeal tour]: https://docs.google.com/forms/d/e/1FAIpQLSeOErxY0w7X9wnLmNBDhpwxl1gy7ndOMBRdJS30IkuJOY6New/viewform
+[nicholas roy tour]: https://docs.google.com/forms/d/e/1FAIpQLSc1oJ5wHblWGv-HumqsncBGWtizQHwraaXsAvupQY_wSJsBDA/viewform
 
 #### Mailing Lists
 
