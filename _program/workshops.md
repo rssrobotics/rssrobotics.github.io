@@ -45,15 +45,22 @@ The workshop coffee breaks will be from 10:30 to 11:00 AM and 3:00 to 3:30 PM, w
         {{ workshop.organizers | replace: ',', '<br/>' }}
       </td>
       <td>{{ workshop.date }}</td>
-      {% if page.room_pictures contains workshop.room %}
-      <td><a href="http://student.mit.edu/cgi-bin/display_pictures.sh?{{ workshop.room }}">{{ workshop.room }}</a></td>
-      {% elsif workshop.room == '32-D463' %}
-      <td><a href="http://imgur.com/a/BQv9Y">{{ workshop.room }}</a></td>
-      {% elsif workshop.room == '32-G449' %}
-      <td><a href="http://imgur.com/a/LC2oA">{{ workshop.room }}</a></td>
+      <td>
+      {% if day == 'S&S' %}
+      {{ workshop.room }}
       {% else %}
-      <td>{{ workshop.room }}</td>
+      <a href="{{ site.baseurl }}/images/workshops/{{ workshop.room }}.jpg">{{ workshop.room }}</a>
+      (<a href="
+      {% if page.room_pictures contains workshop.room %}
+      http://student.mit.edu/cgi-bin/display_pictures.sh?{{ workshop.room }}
+      {% elsif workshop.room == '32-D463' %}
+      http://imgur.com/a/BQv9Y
+      {% elsif workshop.room == '32-G449' %}
+      http://imgur.com/a/LC2oA
       {% endif %}
+      ">Photos</a>)
+      {% endif %}
+      </td>
     </tr>
     {% endif %}
     {% endfor %}
