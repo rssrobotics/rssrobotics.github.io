@@ -4,7 +4,11 @@ title: Families@RSS
 invisible: false
 ---
 
-Our mission is to support members of the RSS community with children in their lives and enable their increased participation in RSS. RSS is committed to facilitating the participation in the conference by parents and families. We recognize that it can be tough to balance professional travel with kids, and we want to offer families options to make things work.
+Our mission is to support members of the RSS community with children in their
+lives and enable their increased participation in RSS. RSS is committed to
+facilitating the participation in the conference by parents and families. We
+recognize that it can be tough to balance professional travel with kids, and we
+want to offer families options to make things work.
 
 #### Caregivers and Children
 
@@ -85,7 +89,7 @@ on site with a great view of the Charles River.
 
 There will be enough spots for everyone who wants to go, but they asked us to
 divide into groups of 10, so we ask that you [sign up][mos bts] in case enough
-of you sign up that we need to split you into subgroups:
+of you sign up that we need to split you into subgroups.
 
 [mos bts]: https://docs.google.com/forms/d/e/1FAIpQLSfmfXQ1xJr4bA51tNkdrhMseo1tZBu0yn2B0A_a9dpYJ2mkrw/viewform
 
