@@ -15,10 +15,10 @@ invisible: true
 
 **Time:** Wednesday July 12, 11 AM
 
+**Title:** Manifolds, Geometry, and Robotics
+
 <!---
 **Location:** TBD
-
-**Title:** TBD
 
 **Abstract:** TBD
 -->
