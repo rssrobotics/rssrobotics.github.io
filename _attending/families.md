@@ -63,6 +63,32 @@ limited and advance signup is required [here][nicholas roy tour].
 [cynthia breazeal tour]: https://docs.google.com/forms/d/e/1FAIpQLSeOErxY0w7X9wnLmNBDhpwxl1gy7ndOMBRdJS30IkuJOY6New/viewform
 [nicholas roy tour]: https://docs.google.com/forms/d/e/1FAIpQLSc1oJ5wHblWGv-HumqsncBGWtizQHwraaXsAvupQY_wSJsBDA/viewform
 
+#### Behind-the-Scenes Tour of the Museum of Science Popnology Exhibit
+
+We have arranged a behind-the-scenes tour of the Museum of Science Popnology
+exhibit at 4pm on Friday. You will still have to pay the entrance fee to get
+into the Museum, but note that MOS has reciprocal arrangements with many other
+science museums.
+
+The best way to get there from MIT is to take the Cambridgeside Galleria shuttle
+from Kendall Square, and then it's a short walk from the Galleria.
+
+It's a special exhibit on the study of popular culture. However, somehow, they
+decided this means robots! The exhibit features a number of real robots,
+including a Baxter and several that you can teleoperate to pick up blocks and
+things, as well as toy robots through the ages, as well as fictional robots. It
+also includes one of the original DeLorians from the Back to the Future movies.
+
+MOS has many other exhibits as well. (Don't miss the giant Van De Graff
+generators!) It's open until 9pm on Fridays and has a reasonably nice cafeteria
+on site with a great view of the Charles River.
+
+There will be enough spots for everyone who wants to go, but they asked us to
+divide into groups of 10, so we ask that you [sign up][mos bts] in case enough
+of you sign up that we need to split you into subgroups:
+
+[mos bts]: https://docs.google.com/forms/d/e/1FAIpQLSfmfXQ1xJr4bA51tNkdrhMseo1tZBu0yn2B0A_a9dpYJ2mkrw/viewform
+
 #### Mailing Lists
 
 We have created an opt-in mailing list for caregivers who are attending RSS with
