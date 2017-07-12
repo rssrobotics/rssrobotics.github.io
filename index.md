@@ -53,7 +53,7 @@ sessions, tutorials, and fun! This year, once again, we solicit your best work.
         <td colspan="2">May 31, 2017</td>
         <td>Early Registration Deadline</td>
       </tr>
-      <tr>
+      <tr class="grayout">
         <td colspan="2">July 5, 2017</td>
         <td>Registration Deadline</td>
       </tr>
