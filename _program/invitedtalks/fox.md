@@ -15,10 +15,10 @@ invisible: true
 
 **Time:** Thursday July 13, 11 AM
 
+**Title:** Bayes Filters, Models, and Some Learning
+
 <!---
 **Location:** TBD
-
-**Title:** TBD
 
 **Abstract:** TBD
 -->
