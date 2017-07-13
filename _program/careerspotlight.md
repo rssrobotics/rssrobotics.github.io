@@ -16,10 +16,10 @@ priority: 7
 
 **Time:** Thursday July 13, 3:30 PM
 
+**Title:** On Algorithm Control and Perception: Compression, Attention, and Coordination
+
 <!---
 **Location:** TBD
-
-**Title:** TBD
 
 **Abstract:** TBD
 -->
