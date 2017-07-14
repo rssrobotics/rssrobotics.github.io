@@ -33,11 +33,11 @@ Participating companies:
 - [Myomo](http://myomo.com/)
 - [nuTonomy](http://nutonomy.com/)
 - [NVIDIA](http://www.nvidia.com/)
+- [Optimus Ride](http://optimusride.com/)
 - [ReWalk](http://rewalk.com/)
 - [RightHand Robotics](https://www.righthandrobotics.com/)
 - [Soft Robotics Inc.](https://www.softroboticsinc.com/)
 - [Vecna](https://www.vecna.com/)
-- [Optimus Ride](http://optimusride.com/)
 
 {% comment %}
 <a href="https://www.amazonrobotics.com/">
