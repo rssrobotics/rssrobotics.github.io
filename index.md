@@ -17,6 +17,13 @@ survey](https://cornell.qualtrics.com/jfe/form/SV_0i8pWkBCWGu57al)**.
 **[Photos from RSS 2017](https://goo.gl/j9F1Mx)** are now available, courtesy
 of Aaron Walsman and Rachel Holladay.
 
+## RSS 2018
+
+Information for the 2018 RSS conference is as follows:
+
+**Dates**: June 26-28 (Main Conference), June 29-30 (Workshops), 2018
+**Location**: Carnegie Mellon University, Pittsburgh PA, USA
+
 ## Conference Location
 
 The conference will be held at the Kresge Auditorium at the Massachusetts
