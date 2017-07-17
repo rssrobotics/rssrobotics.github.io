@@ -2,17 +2,20 @@
 layout: default
 title: Home
 ---
+
 <h1 class="page-title">{{ site.title }}<br>
 July 12-16, 2017</h1>
 
+The {{site.title}} has a long history of bringing together researchers in all
+areas of robotics from around the world for an engaging and focussed week of
+single-track presentations, workshops, poster sessions, tutorials, and fun!
+This year, once again, we solicit your best work.
 
-<p>The {{site.title}} has a long history of bringing together researchers in all areas of robotics
-from around the world for an engaging and focussed week of single-track presentations, workshops, poster
-sessions, tutorials, and fun! This year, once again, we solicit your best work.
-</p>
 
 ## Conference Location
-<p>The conference will be held at the Kresge Auditorium at the Massachusetts Institute of Technology in Cambridge, Massachusetts, USA.</p>
+
+The conference will be held at the Kresge Auditorium at the Massachusetts
+Institute of Technology in Cambridge, Massachusetts, USA.
 
 <table class="table">
     <thead>
@@ -60,13 +63,13 @@ sessions, tutorials, and fun! This year, once again, we solicit your best work.
         <td>Evening</td>
         <td>Banquet</td>
       </tr>
-      <tr>
+      <tr class="grayout">
         <td colspan="2">July 15-16, 2017</td>
         <td>Workshops</td>
       </tr>
     </tbody>
   </table>
 
-  The website of the 2016 RSS conference can be found here: <a href="http://rss2016.engin.umich.edu/">RSS 2016</a>.
+  The website of the 2016 RSS conference can be found here: [RSS 2016](http://rss2016.engin.umich.edu/).
 
 {% include sponsors.html %}
