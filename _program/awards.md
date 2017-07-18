@@ -55,7 +55,6 @@ award was given for the first time in 2015
 {% endfor %}
 {% endfor %}
 {% endfor %}
-<br/>
 {% endfor %}
 
 ### Outstanding Reviewer Acknowledgement
