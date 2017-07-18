@@ -1,7 +1,10 @@
-internal_id,type
-64,Best Paper
-47,Best Paper
-100,Best Paper
-148,Best Student Paper
-171,Best Student Paper
-128,Best Student Paper
+internal_id,type,status
+100,Best Paper,Winner
+64,Best Paper,Finalist
+47,Best Paper,Finalist
+148,Best Student Paper,Winner
+171,Best Student Paper,Finalist
+128,Best Student Paper,Finalist
+51,Best Systems Paper,Winner
+121,Best Systems Paper,Finalist
+228,Best Systems Paper,Finalist

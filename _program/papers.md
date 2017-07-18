@@ -12,10 +12,10 @@ description: Accepted papers.
   </a>
   <br/>
   {{ paper.authors }}
-  {% for finalist in site.data.award_finalists %}
-  {% if finalist.internal_id == paper.internal_id %}
+  {% for award in site.data.award_finalists %}
+  {% if award.internal_id == paper.internal_id %}
   <br/>
-  <b>{{ finalist.type }} Award Finalist</b>
+  <b>{{ award.type }} Award {{ award.status }}</b>
   {% endif %}
   {% endfor %}
 </li>
