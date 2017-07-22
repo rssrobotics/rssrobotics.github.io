@@ -11,6 +11,8 @@ areas of robotics from around the world for an engaging and focussed week of
 single-track presentations, workshops, poster sessions, tutorials, and fun!
 This year, once again, we solicit your best work.
 
+Thank you for attending RSS 2017! Please fill out the **[post-RSS
+survey](https://cornell.qualtrics.com/jfe/form/SV_0i8pWkBCWGu57al)**.
 
 ## Conference Location
 
