@@ -15,7 +15,7 @@ invisible: true
 
 **Time:** Wednesday July 12, 11 AM
 
-**Title:** [Manifolds, Geometry, and Robotics]({{ site.baseurl }}/docs/invitedtalks/manifoldsgeometryandrobotics.pdf)
+**Title:** [Manifolds, Geometry, and Robotics]({{ site.baseurl }}/docs/invitedtalks/park-manifoldsgeometryandrobotics.pdf)
 
 **Abstract:** Ideas and methods from differential geometry and Lie groups have
 played a crucial role in establishing the scientific foundations of robotics,
