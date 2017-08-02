@@ -15,13 +15,22 @@ invisible: true
 
 **Time:** Wednesday July 12, 11 AM
 
-**Title:** Manifolds, Geometry, and Robotics
+**Title:** [Manifolds, Geometry, and Robotics]({{ site.baseurl }}/docs/invitedtalks/manifoldsgeometryandrobotics.pdf)
 
-<!---
-**Location:** TBD
-
-**Abstract:** TBD
--->
+**Abstract:** Ideas and methods from differential geometry and Lie groups have
+played a crucial role in establishing the scientific foundations of robotics,
+and more than ever, influence the way we think about and formulate the latest
+problems in robotics. In this talk I will trace some of this history, and also
+highlight some recent developments in this geometric line of inquiry. The focus
+for the most part will be on robot mechanics, planning, and control, but some
+results from vision and image analysis, and human modeling, will be presented. I
+will also make the case that many mainstream problems in robotics, particularly
+those that at some stage involve nonlinear dimension reduction techniques or
+some other facet of machine learning, can be framed as the geometric problem of
+mapping one curved space into another, so as to minimize some notion of
+distortion. A Riemannian geometric framework will be developed for this
+distortion minimization problem, and its generality illustrated via examples
+from robot design to manifold learning.
 
 **Biography:** Frank Park received his B.S. in EECS from MIT in 1985, and
 Ph.D. in applied mathematics from Harvard University in 1991. He joined the
