@@ -95,7 +95,7 @@ def main():
                     '\n'.join(front_matter),
                     '\n'.join(formatted_data),
                     paper['abstract'],
-                    '[<b><a href="/static/papers/{external_id}.pdf">Full Paper</a></b> | <b><a href="/static/slides/{external_id}.mp4">Slides</a></b>]'.format(external_id=external_id),
+                    '[<b><a href="/static/papers/{external_id}.pdf">Full Paper</a></b> \| <b><a href="/static/slides/{external_id}.mp4">Slides</a></b>]'.format(external_id=external_id),
                     '{% include disqus.html %}'
                 ]
                 fout.write('\n\n'.join(page_data))
