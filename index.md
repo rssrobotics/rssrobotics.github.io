@@ -14,6 +14,9 @@ This year, once again, we solicit your best work.
 Thank you for attending RSS 2017! Please fill out the **[post-RSS
 survey](https://cornell.qualtrics.com/jfe/form/SV_0i8pWkBCWGu57al)**.
 
+**[Photos from RSS 2017](https://goo.gl/j9F1Mx)** are now available, courtesy
+of Aaron Walsman and Rachel Holladay.
+
 ## Conference Location
 
 The conference will be held at the Kresge Auditorium at the Massachusetts
