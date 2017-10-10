@@ -8,6 +8,7 @@ awards: ['Best Paper', 'Best Student Paper', 'Best Systems Paper']
 status: ['Winner', 'Finalist']
 ---
 
+{% comment %}
 Winners are selected from a group of finalists by an awards committee.
 Here is a list of past [finalists and winners](http://www.roboticsfoundation.org/index.php/awards).
 
@@ -73,3 +74,4 @@ outstanding reviewers nominated by the Area Chairs.
 - Leslie Kaelbling
 
 <br/><br/><br/><br/>
+{% endcomment %}

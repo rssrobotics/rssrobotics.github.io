@@ -5,6 +5,7 @@ description: Reviewer survey results
 priority: 8
 ---
 
+{% comment %}
 We surveyed our reviewers right after the review and discussion period
 soliciting feedback about the review process. Here are their responses.
 
@@ -40,7 +41,7 @@ Great Job Sidd! Your comments on focusing on positives and constructive feedback
 </td></tr>
 
 <tr><td>
-The discussion part needs more leads from person at the level of program chair or editor. A small conference call would be helpful only if revealing identity will not be a problem. 
+The discussion part needs more leads from person at the level of program chair or editor. A small conference call would be helpful only if revealing identity will not be a problem.
 </td></tr>
 
 <tr><td>
@@ -60,7 +61,7 @@ Continue to push reviewers to emphasize the positive aspects of papers.
 </td></tr>
 
 <tr><td>
-A different platform (CMT is a bit unfamiliar), but not much else to change. I really appreciate the excellent communication from the people at the higher levels of the process. 
+A different platform (CMT is a bit unfamiliar), but not much else to change. I really appreciate the excellent communication from the people at the higher levels of the process.
 </td></tr>
 
 <tr><td>
@@ -76,7 +77,7 @@ I think an important part of the process were the occasional "motivational" mess
 </td></tr>
 
 <tr><td>
-I like that discussions are based on all the reviews. This is also an important feedback on your understanding of the paper. I do believe that area chairs have the important role of triggering the discussions and that they should propose a synthesis that should be the more shared between the reviewers. 
+I like that discussions are based on all the reviews. This is also an important feedback on your understanding of the paper. I do believe that area chairs have the important role of triggering the discussions and that they should propose a synthesis that should be the more shared between the reviewers.
 </td></tr>
 
 <tr><td>
@@ -112,11 +113,11 @@ I especially appreciated Q1-Q4 on the review form. However, I also think there s
 <table class="table table-striped">
 
 <tr><td>
-(Rationale for previous response: *uniqueness* is orthogonal to the question "did you *like* the process"... my response reflects that there didn't seem to be any major change in the process. I'm not unhappy with it, though.) 
+(Rationale for previous response: *uniqueness* is orthogonal to the question "did you *like* the process"... my response reflects that there didn't seem to be any major change in the process. I'm not unhappy with it, though.)
 <br/><br/>
 I did think that anonymizing the PC member might've made it harder for him/her to generate discussion. But I agree with the messages that were sent out: things like determining the  "RSS-quality" threshold and "fit" is the role of reviewers anyway (never has been, actually).  They should be left to editorial oversight and, so long as the editors take their job seriously (i.e, don't just take mean scores and threshold à la ICRA/IROS), treating the reviews as recommendations for the authors and assessments that are mere suggestions for their eyes, they can stop the conference from over-fitting. I am sceptical about top-down declarations of topic X and Y, and Z will be the focus of the conference this year. RSS contains papers that the RSS community writes and values in its reviews. I have no problem with the  recursive definition: social processes at a macro-scale don't a have simple one-way causality. The right thing is to ensure that there is an effective way to identify, value, and shepherd outlier topics. For example, could (or did?) a paper on ethics or morality make it though the review process? Maybe narrow-minded or inexperienced reviewers would kill it; but the editor's job is to decide how big a grain of salt is needed in reading the reviews; he/she should always feel justified in overriding those opinions.
 <br/><br/>
-Two cases point to the fact that things are healthy, let's not agonize too much: (a) Oliver pointed out in the open community forum that the community has been moving away from SLAM papers for years now. (b) The inclusion of HRI representation at the PC level and their selection of reviewers has shown that those topics can be brought into the fold (though, that pendulum swung too far, in my personal opinion). These two countervailing cases show there are some natural passive dynamics and some adjustment is possible too. This is OK. 
+Two cases point to the fact that things are healthy, let's not agonize too much: (a) Oliver pointed out in the open community forum that the community has been moving away from SLAM papers for years now. (b) The inclusion of HRI representation at the PC level and their selection of reviewers has shown that those topics can be brought into the fold (though, that pendulum swung too far, in my personal opinion). These two countervailing cases show there are some natural passive dynamics and some adjustment is possible too. This is OK.
 </td></tr>
 
 <tr><td>
@@ -146,7 +147,7 @@ Currently too much burden on volunteer reviewers. Make questions easy -- only on
 </td></tr>
 
 <tr><td>
-Excessive instructions by the organizers do not help. They just overload, and get inevitably ignored after a point. 
+Excessive instructions by the organizers do not help. They just overload, and get inevitably ignored after a point.
 </td></tr>
 
 <tr><td>
@@ -184,3 +185,5 @@ I found that the discussion phase was a little annoying. I had already provided 
 </td></tr>
 
 </table>
+
+{% endcomment %}

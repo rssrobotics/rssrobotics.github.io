@@ -4,23 +4,16 @@ title: Home
 ---
 
 <h1 class="page-title">{{ site.title }}<br>
-July 12-16, 2017</h1>
+June 26-30, 2018</h1>
 
 The {{site.title}} has a long history of bringing together researchers in all
 areas of robotics from around the world for an engaging and focussed week of
 single-track presentations, workshops, poster sessions, tutorials, and fun!
 This year, once again, we solicit your best work.
 
-Thank you for attending RSS 2017! Please fill out the **[post-RSS
-survey](https://cornell.qualtrics.com/jfe/form/SV_0i8pWkBCWGu57al)**.
-
-**[Photos from RSS 2017](https://goo.gl/j9F1Mx)** are now available, courtesy
-of Aaron Walsman and Rachel Holladay.
-
 ## Conference Location
 
-The conference will be held at the Kresge Auditorium at the Massachusetts
-Institute of Technology in Cambridge, Massachusetts, USA.
+TBD
 
 <table class="table">
     <thead>
@@ -29,52 +22,52 @@ Institute of Technology in Cambridge, Massachusetts, USA.
       </tr>
     </thead>
     <tbody>
-      <tr class="grayout">
-        <td>January 30, 2017</td>
-        <td><a href="https://time.is/Anywhere_on_Earth" class="grayout">Anywhere on Earth</a></td>
+      <tr>
+        <td>February 1, 2018</td>
+        <td><a href="https://time.is/Anywhere_on_Earth">Anywhere on Earth</a></td>
         <td>Paper Submission Deadline</td>
       </tr>
-      <tr class="grayout">
-        <td>February 13, 2017</td>
-        <td><a href="https://time.is/Anywhere_on_Earth" class="grayout">Anywhere on Earth</a></td>
+      <tr>
+        <td>TBD</td>
+        <td><a href="https://time.is/Anywhere_on_Earth">Anywhere on Earth</a></td>
         <td>Workshop Submission Deadline</td>
       </tr>
-      <tr class="grayout">
-      <td colspan="2"><s>March 13, 2017</s><br>March 15, 2017</td>
+      <tr>
+      <td colspan="2">TBD</td>
         <td>Workshop Acceptance Notification</td>
       </tr>
-      <tr class="grayout">
-        <td colspan="2">April 28, 2017</td>
+      <tr >
+        <td colspan="2">April 23, 2018</td>
         <td>Paper Acceptance Notification</td>
       </tr>
-      <tr class="grayout">
-        <td colspan="2">May 30, 2017</td>
+      <tr>
+        <td colspan="2">TBD</td>
         <td>Camera-ready Submission Deadline</td>
       </tr>
-      <tr class="grayout">
-        <td colspan="2">May 31, 2017</td>
+      <tr>
+        <td colspan="2">TBD</td>
         <td>Early Registration Deadline</td>
       </tr>
-      <tr class="grayout">
-        <td colspan="2">July 5, 2017</td>
+      <tr>
+        <td colspan="2">TBD</td>
         <td>Registration Deadline</td>
       </tr>
-      <tr class="grayout">
-        <td colspan="2">July 12-14, 2017</td>
+      <tr>
+        <td colspan="2">June 26-30, 2018</td>
         <td>Main Conference</td>
       </tr>
-      <tr class="grayout">
-        <td>July 14, 2017</td>
+      <tr>
+        <td>July 26, 2018</td>
         <td>Evening</td>
         <td>Banquet</td>
       </tr>
-      <tr class="grayout">
-        <td colspan="2">July 15-16, 2017</td>
+      <tr>
+        <td colspan="2">June 29-30, 2018</td>
         <td>Workshops</td>
       </tr>
     </tbody>
   </table>
 
-  The website of the 2016 RSS conference can be found here: [RSS 2016](http://rss2016.engin.umich.edu/).
+  The website of the 2017 RSS conference can be found [here](http://roboticsconference.org/).
 
 {% include sponsors.html %}

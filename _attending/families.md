@@ -4,6 +4,7 @@ title: Families@RSS
 invisible: false
 ---
 
+{% comment %}
 Our mission is to support members of the RSS community with children in their
 lives and enable their increased participation in RSS. RSS is committed to
 facilitating the participation in the conference by parents and families. We
@@ -182,6 +183,7 @@ Memorial drive path and look at the river.
 [new england aquarium]: http://www.neaq.org/
 [mit museum]: https://mitmuseum.mit.edu/
 [savin hill park]: https://www.yelp.com/biz/savin-hill-park-dorchester
+{% endcomment %}
 
 <br/>
 <br/>

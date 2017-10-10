@@ -6,6 +6,7 @@ days: ['SAT', 'SUN', 'S&S']
 room_pictures: ['32-123', '32-124', '32-141', '32-144', '32-155', '36-112', '36-144', '36-153', '36-155', '36-156', '34-101', '34-301', '34-302']
 ---
 
+{% comment %}
 Workshops will take place July 15 and 16, 2017.
 They will commence at 9:30 AM and end at 5:30 PM.
 The workshop coffee breaks will be from 10:30 to 11:00 AM and 3:00 to 3:30 PM, with lunch scheduled for 12:00 - 2:00 PM.
@@ -67,3 +68,5 @@ The workshop coffee breaks will be from 10:30 to 11:00 AM and 3:00 to 3:30 PM, w
   </tbody>
 </table>
 {% endfor %}
+
+{% endcomment %}

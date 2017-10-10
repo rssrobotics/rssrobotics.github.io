@@ -3,6 +3,7 @@ layout: page
 title: Inclusion@RSS
 ---
 
+{% comment %}
 The RSS community is committed to increasing the participation of groups
 traditionally underrepresented in robotics (including but not limited to:
 women, LGBTQ+, underrepresented minorities, and people with disabilities),
@@ -21,4 +22,4 @@ you will need to show proof that you are currently an undergraduate student.
 Relevant links:
 - [Families@RSS]({{ site.baseurl }}/attending/families/)
 - [Women in Robotics workshop]({{ site.baseurl }}/program/workshops/sat12/)
-
+{% endcomment %}

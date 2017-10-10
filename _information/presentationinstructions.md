@@ -5,6 +5,7 @@ permalink: /presentationinstructions/
 priority: 9
 ---
 
+{% comment %}
 All papers in this year's RSS will be presented as a short talk and poster. To
 find the time of your talk, please see
 the [program]({{ site.baseurl }}/program/detailed/). The format of
@@ -149,3 +150,5 @@ part of this letter contained helpful tips for short talks:
 Adding to the above, it is critical to remember that RSS is comprised of
 researchers from widely different fields. Your talk should make sense to the
 full audience, not only the subset in your specialized area.
+
+{% endcomment %}

@@ -5,6 +5,7 @@ description: Area chair symposium time and details.
 invisible: true
 ---
 
+{% comment %}
 The RSS Area Chair Symposium will be held in 3305 Newell-Simon Hall at Carnegie Mellon University in
 Pittsburgh, Pennsylvania, USA on April 6, 2017.
 
@@ -128,3 +129,5 @@ Pittsburgh, Pennsylvania, USA on April 6, 2017.
       </tr>
     </tbody>
 </table>
+
+{% endcomment %}

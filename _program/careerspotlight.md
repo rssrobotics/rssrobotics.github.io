@@ -5,6 +5,7 @@ description: Career spotlight abstract and speaker bio.
 priority: 7
 ---
 
+{% comment %}
 {:.center}
 ![karaman]({{ site.baseurl }}/images/karaman.jpg){:height="250px"}
 
@@ -42,3 +43,5 @@ Research Young Investigator Award in 2017, Army Research Office Young
 Investigator Award in 2015, National Science Foundation Faculty Career
 Development (CAREER) Award in 2014, AIAA Wright Brothers Graduate Award in 2012,
 and an NVIDIA Fellowship in 2011.
+
+{% endcomment %}

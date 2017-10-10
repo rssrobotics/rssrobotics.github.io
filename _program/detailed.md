@@ -5,6 +5,7 @@ description: Detailed schedule of the program.
 priority: 9
 ---
 
+{% comment %}
 *This schedule is tentative and subject to change.*
 
 <b>Jump to:</b>
@@ -39,3 +40,5 @@ priority: 9
 #### Sunday, July 16     {#sun}
 
 {% include workshop_program_table.html date="July 16" day="sun" %}
+
+{% endcomment %}

@@ -9,15 +9,15 @@ permalink:        pretty
 # Setup
 title:            "Robotics: Science and Systems"
 tagline:          'A Robotics Conference'
-description:      'July 12-16 2017. Cambridge, USA.'
-url:              
-baseurl:          
+description:      'June 26-30 2018. Pittsburgh, USA.'
+url:
+baseurl:
 include:          ['_pages']
-exclude:          ['README.md', 'LICENSE.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor']
+exclude:          ['README.md', 'LICENSE.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor', 'GRTAGS', 'GPATH', 'GTAGS', 'deploy.sh']
 
 author:
-  name:           'Siddhartha Srinivasa'
-  url:            www.cs.cmu.edu/~siddh
+  name:           'Wennie Tabib'
+  url:            www.wtabib.com
 
 gems:             [jekyll-paginate]
 paginate:         5
@@ -27,7 +27,7 @@ paginate_path:    "blog/page:num"
 version:          2.1.0
 
 github:
-  repo:           
+  repo:
 
 collections:
     committees:

@@ -5,6 +5,7 @@ description: Overview of the program.
 priority: 10
 ---
 
+{% comment %}
 <b>Jump to:</b>
 
 <center>
@@ -258,3 +259,5 @@ priority: 10
 </table>
 
 <br/><br/>
+
+{% endcomment %}

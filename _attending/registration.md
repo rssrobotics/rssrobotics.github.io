@@ -40,6 +40,7 @@ prices:
       Industry: $620
 ---
 
+{% comment %}
 Early Registration Deadline: *{{ page.deadlines["Early"] }}*
 <br/>
 Regular Registration Deadline: *{{ page.deadlines["Regular"] }}*
@@ -106,3 +107,5 @@ Press passes grant access to the main conference sessions and workshops only.
 Access to social events and poster sessions requires a paid registration.
 
 <br/><br/>
+
+{% endcomment %}

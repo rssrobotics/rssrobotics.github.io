@@ -4,6 +4,7 @@ title: Sponsors
 description: Sponsorship information
 ---
 
+{% comment %}
 We are currently planning the events and budget for RSS 2017. Sponsorship of
 our conference provides an opportunity to support one of the premiere
 international robotics conferences showcasing the latest research in this
@@ -146,3 +147,5 @@ poster receptions on July 12th and 13th respectively.
 </div>
 
 <br/><br/>
+
+{% endcomment %}

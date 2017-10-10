@@ -5,6 +5,7 @@ description: Instructions for paper submission.
 priority: 10
 ---
 
+{% comment %}
 <p class="message">
 The submissions site is now <a href="https://cmt.research.microsoft.com/RSS2017/">open</a>!
 </p>
@@ -13,9 +14,9 @@ The submissions site is now <a href="https://cmt.research.microsoft.com/RSS2017/
 
 Browse to [https://cmt.research.microsoft.com/RSS2017/](https://cmt.research.microsoft.com/RSS2017/).
 
-* **Logging into the system**: If you already have a CMT account, use those credentials to login. If you do not, sign up as a new user. 
+* **Logging into the system**: If you already have a CMT account, use those credentials to login. If you do not, sign up as a new user.
 * **Conflict domains**: When you login for the first time, CMT will prompt you to enter your conflict domains. You will not be allowed to start the submission process without finishing this step.
-* **Paper submission**: Enter title (256 characters maximum), abstract (5000 characters maximum), and authors. Select your primary and secondary [themes]({{site.baseurl}}/information/cfp/#themes). Your paper may now be uploaded. Papers must be in the accepted conference style format and must be submitted as a PDF of no more than 5MB. Papers may be edited, updated and replaced up to the full paper final submission deadline. Answer if your first author is a student (eligible then for the Best Student Paper Award) and select which [Area Chair]({{site.baseurl}}/committees/organizers/#area-chairs) might be best suited to handle your submission. 
+* **Paper submission**: Enter title (256 characters maximum), abstract (5000 characters maximum), and authors. Select your primary and secondary [themes]({{site.baseurl}}/information/cfp/#themes). Your paper may now be uploaded. Papers must be in the accepted conference style format and must be submitted as a PDF of no more than 5MB. Papers may be edited, updated and replaced up to the full paper final submission deadline. Answer if your first author is a student (eligible then for the Best Student Paper Award) and select which [Area Chair]({{site.baseurl}}/committees/organizers/#area-chairs) might be best suited to handle your submission.
 * **Conflicts**: This is a very critical step for the review process. After submission you will be asked to identify conflicts for this paper. You will be able to mark conflicts (and type) with known potential reviewers for RSS. This helps us execute the double blind policy and ensure unbiased reviewing. If these reviewers are part of your institution, they will be considered as having a conflict and there is no reason to list them as conflicting.
 * **Paper ID**: After clicking the Submit link, your paper will be assigned an ID.
 * **Supplementary material**: Authors may submit supplementary material such as a video or an expanded version of a proof (30MB max, accepted formats: avi, mov, mp4, mpg, pdf, tar, tgz, zip). Please note that the link to upload supplementary material becomes active only after the paper submission is complete.
@@ -23,11 +24,11 @@ Browse to [https://cmt.research.microsoft.com/RSS2017/](https://cmt.research.mic
 ## Paper Format
 We only accept submissions in PDF. Submissions may be up to 8 pages in length, including figures but possibly excluding references. Additional pages can be used for references. However, the 9th page, and any subsequent pages, can contain ONLY references. This will be strictly enforced. Submissions can use a font no smaller than 10 point. Submissions violating these guidelines will not be considered. A paper template is available in <a href="{{site.baseurl}}/docs/paper-template-latex.tar.gz">LaTeX</a> and <a href="{{site.baseurl}}/docs/paper-template-word.zip">Word</a>. Please read the [detailed instructions]({{site.baseurl}}{% post_url 2016-10-18-paper-format%}).
 
-## Supplementary Material 
+## Supplementary Material
 Authors may submit supplementary material such as a video or an expanded version of a proof. However, note that reviewers are not required to view this material and include it in their assessment of the paper. Lastly, if authors feel they must link to additional supplementary material, they are cautioned to ensure that their identities are not revealed. Please note that the link to upload supplementary material becomes active only after the paper submission is complete.
 
 ## Double Blind Submission
-Reviewing for RSS 2017 will be double blind, so authors should not be listed on the title page and reasonable anonymity should be maintained in the paper. Authors are asked to take particular care when referencing their own work - careless use of self citations can easily violate the requirements for double blind reviewing and this will result in papers being rejected. 
+Reviewing for RSS 2017 will be double blind, so authors should not be listed on the title page and reasonable anonymity should be maintained in the paper. Authors are asked to take particular care when referencing their own work - careless use of self citations can easily violate the requirements for double blind reviewing and this will result in papers being rejected.
 Please read the [detailed instructions]({{site.baseurl}}{% post_url 2016-10-18-double-blind%}).
 
 ## Multiple Submissions
@@ -39,8 +40,8 @@ RSS is utterly intolerant of plagiarism. Submitted papers are expected to contai
 
 ## Review Process
 Please read the [review form]({{site.baseurl}}{% post_url 2016-10-18-review-form%}) to understand our emphasis this year.
-Authors, Program Committee members, and Area Chairs will all be anonymous. Each paper will receive 3 reviews. 
-This year, we will have no rebuttals nor conditional acceptances. 
+Authors, Program Committee members, and Area Chairs will all be anonymous. Each paper will receive 3 reviews.
+This year, we will have no rebuttals nor conditional acceptances.
 
 ## Instructions for Camera-ready Submissions  {#camera-ready}
 {: .text-left}
@@ -76,5 +77,4 @@ forms. You can upload newer versions of these files until the
 deadline.
 
 
-
-
+{% endcomment %}

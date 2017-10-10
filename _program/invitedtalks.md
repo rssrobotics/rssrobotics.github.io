@@ -5,6 +5,7 @@ description: Invited talk abstracts and speaker bios.
 priority: 8
 ---
 
+{% comment %}
 <div class="row">
   <div class="col-xs-12 col-md-4">
     <center>
@@ -110,3 +111,5 @@ priority: 8
 </div>
 
 <br/>
+
+{% endcomment %}

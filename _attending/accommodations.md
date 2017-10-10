@@ -5,6 +5,7 @@ description: Where people will stay and what they'll eat.
 priority: 7
 ---
 
+{% comment %}
 There are a number of hotels available in the area. Three major hotels are offering rooms to RSS attendees at discounted rates. All three hotels are roughly the same distance to the main conference venue. The Marriott and Residence Inn are closer to the other buildings on campus.
 
 **Boston University (BU) Residence Hall**\*<br>
@@ -50,3 +51,4 @@ Phone: 800-331-3131 (Mention the Robotics: Science & Systems Room Block)<br>
 [hyatt]: https://aws.passkey.com/e/16347404
 [marriott]: http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=MIT%20RSS%20(Robotics:%20Science%20%26%20Systems)%20Room%20Block%5Eboscb%60RSSRSSA%60299.00%60USD%60false%604%607/11/17%607/17/17%606/16/17&app=resvlink&stop_mobi=yes
 [residence]: http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=MIT%20RSS%20(Robotics:%20Science%20%26%20Systems)%20Oveflow%20Room%20Block%20Jul2017%5Eboscm%60RSSRSSA%60299.00%60USD%60false%603%607/11/17%607/17/17%606/13/17&app=resvlink&stop_mobi=yes
+{% endcomment %}

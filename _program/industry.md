@@ -5,6 +5,7 @@ description: Amazon Robotics and MassRobotics Industry Reception
 priority: 5
 ---
 
+{% comment %}
 Amazon Robotics in collaboration with MassRobotics will be hosting a robotics
 showcase and demonstration reception, **highlighting the Massachusetts robotics
 ecosystem**. Attendees of the Robotics: Science and Systems are invited to join
@@ -51,3 +52,5 @@ Participating companies:
 {% endcomment %}
 
 <br/><br/><br/><br/>
+
+{% endcomment %}

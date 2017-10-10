@@ -4,6 +4,7 @@ title: Accepted Papers
 description: Accepted papers.
 ---
 
+{% comment %}
 <ul>
 {% for paper in site.data.papers %}
 <li>
@@ -22,3 +23,5 @@ description: Accepted papers.
 <br/>
 {% endfor %}
 </ul>
+
+{% endcomment %}
