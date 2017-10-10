@@ -68,6 +68,6 @@ TBD
     </tbody>
   </table>
 
-  The website of the 2017 RSS conference can be found [here](http://roboticsconference.org/).
+  The website of the 2017 RSS conference can be found [here](http://rss2017.lids.mit.edu/).
 
 {% include sponsors.html %}
