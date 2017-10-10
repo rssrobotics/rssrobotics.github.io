@@ -15,7 +15,7 @@ description: Organizing team.
             <br>
             <b>Local Arrangements Chair</b><br>
             <a href="http://nmichael.frc.ri.cmu.edu/" >Nathan Michael</a><br>
-            <i>Carnegie Mellon University</i><br>
+            <i>CMU</i><br>
             <br>
             <b>Publicity Chair</b><br>
             <a href="http://www.robots.ox.ac.uk/~mfallon/" >Maurice Fallon</a><br>
