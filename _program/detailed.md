@@ -1,44 +1,46 @@
 ---
 layout: page
-title: Technical Program
+title: Program
 description: Detailed schedule of the program.
 priority: 9
+
+invisible: false
 ---
 
-{% comment %}
 *This schedule is tentative and subject to change.*
+
+<img src="{{ site.baseurl}}/images/program_overview.png" width="100%">
+<br/><br/>
 
 <b>Jump to:</b>
 
 <center>
+  <a class="btn btn-primary" href="#mon" role="button">Monday</a>
+  <a class="btn btn-primary" href="#tue" role="button">Tuesday</a>
   <a class="btn btn-primary" href="#wed" role="button">Wednesday</a>
-  <a class="btn btn-primary" href="#thu" role="button">Thursday</a>
-  <a class="btn btn-primary" href="#fri" role="button">Friday</a>
-  <span class="visible-xs-inline"><br><br></span>
-  <a class="btn btn-primary" href="#sat" role="button">Saturday</a>
-  <a class="btn btn-primary" href="#sun" role="button">Sunday</a>
 </center>
 
 <br/><br/>
 
-#### Wednesday, July 12  {#wed}
+#### Monday, June 24  {#mon}
 
-{% include conference_program_table.html date="July 12" %}
+{% include conference_program_table.html date="June 24" %}
 
-#### Thursday, July 13   {#thu}
+#### Tuesday, June 25  {#tue}
 
-{% include conference_program_table.html date="July 13" %}
+{% include conference_program_table.html date="June 25" %}
 
-#### Friday, July 14     {#fri}
+#### Wednesday, June 26   {#wed}
 
-{% include conference_program_table.html date="July 14" %}
+{% include conference_program_table.html date="June 26" %}
 
-#### Saturday, July 15   {#sat}
 
-{% include workshop_program_table.html date="July 15" day="sat" %}
+<!--
+#### Friday, June 29   {#fri}
 
-#### Sunday, July 16     {#sun}
+{% include workshop_program_table.html date="June 29" day="fri" %}
 
-{% include workshop_program_table.html date="July 16" day="sun" %}
+#### Saturday, June 30     {#sat}
 
-{% endcomment %}
+{% include workshop_program_table.html date="June 30" day="sat" %}
+-->

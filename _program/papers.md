@@ -2,26 +2,24 @@
 layout: page
 title: Accepted Papers
 description: Accepted papers.
+invisible: false
 ---
 
-{% comment %}
 <ul>
 {% for paper in site.data.papers %}
-<li>
-  <a href="{{ site.baseurl }}/program/papers/{{ paper.external_id }}/">
-    {{ paper.title }}
-  </a>
-  <br/>
+  <details>
+    <summary>
+	<b> {{ paper.title }} </b>
+    </summary>
+    {{ paper.abstract }}
+    <br>
+    [<b><a href="{{ site.papers }}/{{ paper.external_id }}_FI.pdf">Full Paper</a></b>]
+    {% if paper.has_video == "1" %}
+        [<b><a href="{{ site.videos }}/{{ paper.external_id }}_VI_fi.mp4">Video</a></b>]
+    {% endif %}
+  </details>
   {{ paper.authors }}
-  {% for award in site.data.award_finalists %}
-  {% if award.internal_id == paper.internal_id %}
-  <br/>
-  <b>{{ award.type }} Award {{ award.status }}</b>
-  {% endif %}
-  {% endfor %}
-</li>
-<br/>
+<br>
+<br>
 {% endfor %}
 </ul>
-
-{% endcomment %}

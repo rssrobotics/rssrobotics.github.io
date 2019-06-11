@@ -1,0 +1,280 @@
+workshops:
+  ws11:
+    external_id: WS1-1
+    status: Active
+    internal_id: SAT1
+    title: "2nd Workshop on Informative Path Planning and Adaptive Sampling"
+    organizers: "Jen Jen Chung, Nicholas Lawrance, Graeme Best, Alberto Quattrini Li, Stephanie Kemna"
+    date: June 22
+    building: 101
+    room: 02 016/ 018
+    url: https://n.ethz.ch/~chungj/WIPPAS2019/
+    abstract: "Data-derived models form a core component of robotics, both as input, i.e. internal representations of robots and the environment, and output, i.e. scientific data gathering. Robots offer unique capabilities for collecting data that was previously too time consuming, dangerous or infeasible for humans, and on a larger scale than was previously possible. However, not all data is created equal, and how well a data-derived model represents the true underlying phenomenon is directly dependent on the quality of the samples. In applications with constraints on the amount of data that can be collected, it is therefore important to maximize the quality of collected data. This is the underlying problem in informative path planning and adaptive sampling. Despite the prevalence of adaptive sampling methods in state-of-the-art applications, e.g. environmental modeling or reinforcement learning, there are still many open problems. For example: How can we best handle modeling inaccuracies, incorporate expert knowledge, or design multi-robot information sharing protocols to reason over joint sampling spaces?<br><br> The theme of informative path planning and adaptive sampling spans all robotic domains and we aim to assemble researchers from many fields—e.g. marine, ground, and aerial robotics, multi-agent, and learning communities—to improve cross-domain awareness. We will look at various aspects of informative path planning, including its theoretical foundations, active sampling, multi-robot planning, and its application to real-world problems. This workshop will build on its successful predecessor WIPPAS’18, held at ICRA 2018."
+
+  ws12:
+    external_id: WS1-2
+    status: Active
+    internal_id: SAT2
+    title: "Scalable Learning for Integrated Perception and Planning"
+    organizers: "Maximilian Durner, Martin Sundermeyer, Zoltan Marton, En Yen Puang, Rudolph Triebel"
+    date: June 22
+    building: 82
+    room: 00 006
+    url: https://scalableroboticlearning.github.io
+    abstract: "In recent years, both the computer vision and the machine learning communities have shown an increasing interest in the specific challenges of robotic perception and planning. This field features a high demand for feasible training procedures, strong generalization capabilities, fast runtime, interpretable models and robustness. However, current state-of-the-art approaches can still not meet all these requirements, which is why perception is often seen as the bottleneck for robotic manipulation. <br><br>  This workshop serves as a platform to connect communities and encourage them to find feasible solutions that bridge the gap between stand-alone perception and robotic related tasks such as motion or assembly planning, visual servoing and grasping. A main topic is how sensing, manipulation and planning can be combined to yield mutual benefits. We also search for scalable learning-based approaches that require little supervision and examine them on their benefits and limitations. This can include learning in simulation, transfer and few-shot learning, automatic labeling or reinforcement learning. Are end-to-end learning approaches really the right way to go or are modular pipelines still preferable due to better introspection? Are current subtask metrics suitable indicators for execution success? What is necessary to address the needs of end-user applications in terms of scalability, robustness, runtime, cost, maintainability and fail-safety?"
+
+  ws14:
+    external_id: WS1-3
+    status: Active
+    internal_id: SAT4
+    title: "Numerical Optimization for Online Multi-Contact Motion Planning and Control"
+    organizers: "Romeo Orsolino, Carlos Mastalli, Michele Focchi, Nicolas Mansard"
+    date: June 22
+    building: 101
+    room: 01 009
+    url: https://sites.google.com/view/num-opt-for-legged-locomotion/
+    abstract: "What if legged robots were able to generate dynamic motions in real-time while interacting with a complex environment? Such technology would represent a significant step forward the deployment of legged systems in real world scenarios. This means being able to replace humans in the execution of dangerous tasks and to collaborate with them in industrial applications.<br><br>   Numerical optimization and data-driven algorithms can help us tackle this challenge and enable motion planning and control for legged robotic systems in complex geometry environments (e.g. multi-contact scenarios). Indeed, when the complexity of the terrain increases, or when the execution of the requested task involves highly dynamic motions, numerical optimization and machine learning strategies are needed to automatically find feasible trajectories and control actions that could not otherwise be determined.<br><br>   The presence of obstacles, possible disturbances and/or modeling errors makes it necessary to find those control policies in the order of milliseconds so that the robot can immediately compensate unexpected events and re-plan suitable reactions.<br><br>   This workshop aims to bring together researchers from all the relevant communities in legged locomotion such as: numerical optimization, machine learning (ML), model predictive control (MPC) and computational geometry in order to chart the most promising methods to address the above-mentioned scientific challenges."
+
+  ws15:
+    external_id: WS1-4
+    status: Active
+    internal_id: SAT5
+    title: "Generation  GrowBots:  materials,  mechanisms  and  systems  design  for adaptable and growing robots inspired by plants"
+    organizers: "Barbara Mazzolai, Ian Walker"
+    date: June 22
+    building: 101
+    room: 01 013
+    url: "https://bsr.iit.it/index.php/events/rss-workshop-2019-generation-growbots"
+    abstract: "“Generation GrowBots” will take attendees across the science and technologies of the new field of plant-inspired robotics, and explore the new paradigm for robot mobility inspired by the moving- by-growing ability of plants. <br><br> Plants show unique capabilities of endurance and movement by growth. <br><br> Across sea and land, through air and underground, some species of plants are the oldest and largest organisms that have ever existed. They can resist unpredictable external forces – such as wind, waves, or falling debris - and can adapt and move their structure by growing across a variety of unstructured environments. <br><br> Together with plant biologists and materials scientists, engineers are deeply investigating the biomechanics, materials, energy efficiency mechanisms, and behavior of a variety of plant species, to take inspiration from them for the design of multi- functional and adaptable technologies, and for the development of a new class of low-mass, low-volume robots unique in their movement and growth abilities. <br><br> The proposed workshop will bring together a cross-disciplinary panel of scientists and engineers, including experts in material science, soft robotics, plant biology, and architecture to present new scientific discoveries on plants relevant to continuum, soft, adaptable, and growing robots. <br><br> Two sessions of “plants and artificial relatives showcase” will be organised during the coffee breaks, with an exhibition of latest technologies on the topic. <br><br> Trends, frontiers and potential applications for a variety of high- tech sectors will be also discussed, including future urban and architectural innovation, clean-energy forms and sustainable robotics ecosystems."
+
+  ws16:
+    status: Active
+    external_id: WS1-5
+    internal_id: SAT6
+    title: "Advances in Neuro-Robotics"
+    organizers: "Wolfram Burgard, Tonio Ball, Joschka Boedecker"
+    date: June 22
+    building: 105
+    room: 00 052
+    url: "http://www.brainlinks-braintools.uni-freiburg.de/rss-2019-workshop/"
+    abstract: "In this workshop we will provide an overview about recent developments in the area of Neurorobotics. It will have a particular focus on robots and technical devices that interact with the human and potentially are controlled via brain-machine interfaces. It will cover aspects of shared autonomy, the utilization of developmental processes in the brain for robot learning, the application of machine learning techniques for motor rehabilitation, motion prediction in humans and robots as well as deep (reinforcement) learning methods for brain-machine interfaces and brain-controlled robots."
+
+  ws17:
+    status: Active
+    external_id: WS1-6
+    internal_id: SAT7
+    title: "Combining Learning and Reasoning - Towards Human-Level Robot Intelligence"
+    organizers: Peter Karkus, Alina Kloss, Rico Jonschkowski, Leslie P. Kaelbling
+    date: June 22
+    building: 101
+    room: 01 016/018
+    url: https://sites.google.com/view/rss19-learning-and-reasoning
+    abstract: "Robotics research has developed powerful model-based methods for perception, state estimation, planning, control, etc., which form the building blocks of the vast majority of successful robot systems. At the same time, data-driven, model-free learning has recently brought unprecedented success in various domains, where model-based methods struggle despite decades of research. The aim of this workshop is to bring together researchers from robotics and machine learning, and discuss opportunities and challenges towards building human-level robot intelligence, in particular, combining model-based reasoning and data-driven learning in a scalable and composable manner.<br><br>Some questions we would like to discuss: <ul><li> What is the role of model-based reasoning and model-free learning in an intelligent robot system? </li><li> Can we learn intelligent robot behaviour only from reinforcements? Is expert knowledge essential? </li><li> How do we combine existing knowledge with data-driven learning? What should be built in and what should be learned? </li><li> How do we integrate solutions for small, isolated sub-tasks into a large intelligent system? How do we combine model-based and model-free components? Would we build Shakey differently today? </li><li> Is robot intelligence going to be explainable? Is interpretability unnecessary, good to have, or a must? </li></ul>"
+
+  ws18:
+    status: Active
+    external_id: WS1-7
+    internal_id: SAT8
+    title: Haptic Assistance and Augmented Sensing for Enhancing Autonomy of Visually Impaired People
+    organizers: "Federica Barontini, Giuseppe Averta, Simone Fani"
+    date: June 22
+    building: 101
+    room: 00 010/14
+    url: "https://sites.google.com/ing.unipi.it/h-augmented2019/"
+    abstract: "Visual impairment affects approximately 253 million people worldwide, of which 36 million are blind, and 217 million have moderate to severe vision impairment. Vision loss limits the quality-of-life of the affected individuals and their families, and furthermore represents an economic burden to society. Enhancing the autonomy of Visually Impaired People is mandatory to improve their life conditions but also to reduce social costs. Autonomous walking and navigation represents a crucial component for personal autonomy. Recently, advanced technological solutions in perception and sensory substitution (audio or, more effectively, tactile) have been developed to address this issue. However, the proposed systems have been often met with scarce acceptance by end users. Reasons for this are related to social obtrusiveness of those systems, the lack of compact and discreet solutions as well as insufficient navigational stimuli. This workshop will focus on recent advancements for augmented sensing and assistance to enhance blind people’s autonomy in everyday life actions, with special attention to solutions for autonomous walking in indoor and outdoor environments. This challenge requires a multidisciplinary effort to integrate different aspects of robotics research such as perception, planning, navigation, and haptics, with a thorough investigation of VIP sensory-motor apparatus and technological accessibility."
+
+  ws19:
+    status: Active
+    external_id: WS1-8
+    internal_id: SAT9
+    title: Workshop on Scene and Situation Understanding for Autonomous Driving
+    organizers: Igor Gilitschenski, Juan Nieto, Federico Tombari, Daniela Rus
+    date: June 22
+    building: 101
+    room: 00 026
+    url: https://sites.google.com/view/uad2019/
+    abstract: Enabling robust higher level scene and situation understanding is one of the key challenges to unlock the full potential of autonomous driving. Most autonomous driving research has considered the scientific problems involved in this challenge as a special instance of either the perception or the planning tasks.  This workshop takes a scene and situation centric approach to discussing advances and future directions of autonomous driving research. Our goal is to bridge the gap between perception, planning, and control-based approaches to scene and situation modeling. On the one hand, we want to discuss how higher-level scenery information can be used to improve the entire autonomy stack involving, localization, detection, planning, and control systems. On the other hand, we are interested in the interplay of classical perception, planning, and control approaches for obtaining an improved scenario understanding. In that context, we also discuss the impact on how recent advances in Deep and Reinforcement Learning can be leveraged for impacting basic research and actual deployment of autonomous vehicles.
+
+  ws110:
+    status: Active
+    external_id: WS1-9
+    internal_id: SAT10
+    title: "Task-Informed Grasping (TIG-II): From Perception to Physical Interaction"
+    organizers: Amir Ghalamzan Esfahani, S. Hamidreza Kasaei, Gerhard Neuman
+    date: June 22
+    building: 101
+    room: 00 036
+    url: https://lcas.lincoln.ac.uk/wp/tig-ii
+    abstract: "Robots need to physically interact with their environment to perform the desired manipulative tasks for efficient functioning in our society. Such interactions, e.g. grasping, require complex cognitive processes such as to perceive, plan, predict and to act. In robotic research, each of these sub-problems of grasping is typically considered in isolation. This is in contrast to the finding in cognitive science research on primates. Hence, robots are still far away from primates grasping ability. For instance, current robotic approaches separately detect an object in an image, segment it, synthesis grasp configuration using geometrical features of the perceived point cloud of the object, plan the manipulative movements, and perform the actions to deliver the object at the desired pose. This sequential open-loop pipeline of grasping and manipulative movements is not robust as a task constraint does neither influence the grasping, segmentation nor object detection whereas each of these components directly determines limitation on the solution space of the subsequent ones. In this workshop, we would like to discuss task-informed perception, grasping and manipulation, and the critical role of cognition. Specifically, the robot performs active perception to gain information sufficient for synthesising the grasps that facilitate performing the desired task. In such scenarios, the robot actively perceives the state of the environment and evaluates its actions to guarantee its own success across all the components of the manipulation task. This allows the robot to find a solution to each component of the manipulation pipeline that provides sufficient initial conditions for successfully performing the successive tasks in the pipeline; otherwise, for example, a grasp choice does not allow manipulative movements.<br><br>
+This workshop brings together researchers working in the area of robotic grasping/manipulation, planning, robot learning, and cognitive robotics; and it discusses the possible solution to the corresponding problems.<br>
+Topics of interest include (but not limited to):
+<ul>
+<li>Deep learning for task-informed grasping</li>
+<li>Affordance informed grasping</li>
+<li>Grasping and manipulative movements in cluttered environments</li>
+<li>Task driven robotic perception</li>
+<li>Active perception</li>
+<li>joint planning of grasping pose and manipulative movements</li>
+<li>Benchmarking and dataset for grasping and manipulation</li>
+<li>Challenges of soft manipulation</li>
+</ul>"
+
+
+
+  ws21:
+    status: Active
+    external_id: WS2-1
+    internal_id: SUN1
+    title: Closing the Reality Gap in Sim2real Transfer for Robotic Manipulation
+    organizers: Sebastian Höfer, Ankur Handa, Kamal Kuzhinjedathu, Marc Toussaint, Dieter Fox
+    date: June 23
+    building: 101
+    room: 00 026
+    url: http://sim2real.github.io
+    abstract: "Physical simulation is an important tool for robotic manipulation. Although simulation has been well-established for robotics education and integrated robot software testing, there is an ongoing debate about transferring manipulation capabilities learned in simulation to reality, a concept termed sim2real transfer. <br><br> Simulation draws its appeal from the fact that it is much faster, cheaper, safer and more informative (e.g., auto-generated labels) than real-world experimentation. Recent advances have shown how to take advantage of simulation and address the sim2real transfer for tasks such as object detection, autonomous driving and grasp point detection. However, sim2real transfer for general manipulation skills still raises significant challenges, such as contact simulation, simulation of closed-loop manipulation, and sensor fidelity. <br><br> In this workshop, we invite well-known researchers to share new ideas across this multidisciplinary field. We will shed light on questions such as: What is the potential impact of sim2real transfer for robotic manipulation? What methods exist and work best in the context of manipulation? To what extent can sim2real transfer reduce or avoid training on real robots altogether?"
+
+  ws22:
+    status: Active
+    external_id: WS2-2
+    internal_id: SUN2
+    title: "Emerging paradigms for robotic manipulation: from the lab to the productive world"
+    organizers: "Maria Pozzi, Virginia Ruiz Garate, Maximo Roa"
+    date: June 23
+    building: 101
+    room: 01 016/018
+    url: http://sirslab.dii.unisi.it/RSSWorkshopGrasping/index.html
+    abstract: Novel robotic developments are going hand in hand with the need for innovation in manufacturing and service applications. Large industries need increasingly fast adapting production lines, while SMEs are adopting collaborative robots to gain a competitive edge in global markets. Additionally, an increasing number of companies are producing and using service robots. In this emerging framework, robots should be able to grasp and manipulate different tools, and interact with fast changing or even unstructured environments involving human users or co-workers. Therefore, these new “real-world” scenarios require innovative grasping and manipulation paradigms that can cope with the needs of uncertain environments. Solutions are being proposed to deal with this challenge, including soft manipulation, AI-driven grasp planning, and human-robot collaborative manipulation. This workshop will bring together research experts as well as representatives of companies to discuss how new approaches in the field can efficiently be transferred from the research labs to the productive world.
+
+  ws23:
+    status: Active
+    external_id: WS2-3
+    internal_id: SUN3
+    title: Women in Robotics
+    organizers: Elizabeth Phillips, Kerstin Sophie Haring, Serena Ivaldi, Marwa ElDiwiny, Chinwe Ekenna, Anastasiia Varava
+    date: June 23
+    building: 105
+    room: 00 052
+    url: https://sites.google.com/view/rss2019women/home
+    abstract: "The long term goal of the Women in Robotics workshop series is to increase the number of women in robotics. The workshops are designed for a mixed-gender audience (male audience participants are welcome!) and to highlight the work of successful female roboticists, both established and budding. The fifth Women in Robotics Workshop aims to: (1) raise visibility of women in robotics, (2) strengthen the community of female roboticists and provide an opportunity for networking, and (3) foster mentorship of junior researchers.<br><br>  We plan to meet these goals by: <ul> <li>Presenting invited talks from women leaders in their field, thus demonstrating that women can and do play an important role in the robotics community;</li> <li>Bringing together women from various disciplines and subfields and providing opportunities for networking;</li> <li>Featuring the work of junior researchers (undergraduate, graduate, and postdocs) in two posters sessions; and providing meal and coffee break opportunities for mentor/mentee interactions by pairing junior researchers with senior researchers.</li> </ul> The workshop will also feature two keynote lectures by women who are leaders in their fields, invited talks by early career academics, panel presentations relevant to career development, and poster presentations by junior researchers."
+
+  ws24:
+    status: Active
+    external_id: WS2-4
+    internal_id: SUN4
+    title: Safety in Robot Learning and Control
+    organizers: Scott Niekum, Hadas Kress-Gazit
+    date: June 23
+    building: 101
+    room: 00 010/14
+    url: http://www.cs.utexas.edu/users/sniekum/SafeRoboticsWorkshop.php
+    abstract: "Designing robotic systems and learning algorithms with safety and correctness in mind is an increasingly important area of research.  However, generally accepted definitions of safety -- and means of achieving it -- remain nebulous.  This workshop aims to bring together researchers from diverse backgrounds to better define safety issues in robotics and learning, characterize the space of current approaches, and to identify promising opportunities for future research directions and multidisciplinary collaborations. Toward this goal, we ask that participants be willing to contribute to a position paper, both during and after the workshop, that will outline our conclusions on the topics for the benefit of the larger research community.  We will solicit pecha kucha presentations from areas including, but not limited to: <br> <ul> <li> Theory of safety in robotics and learning </li> <li> Synthesis and verification of safe policies </li> <li> Model-based vs. model-free safety guarantees </li> <li> High-confidence policy evaluation </li> <li> Safety in reinforcement and imitation learning </li> <li> Safe exploration </li> <li> Safety, ethics, and public policy </li> </ul> "
+
+  ws25:
+    status: Active
+    external_id: WS2-5
+    internal_id: SUN5
+    title: Robust Task and Motion Planning
+    organizers: Neil T. Dantam, Ye Zhao, Lydia E. Kavraki
+    date: June 23
+    building: 78
+    room: 00 014
+    url: http://dyalab.mines.edu/2019/rss-workshop/
+    abstract: "This workshop will address a growing need in Task and Motion Planning (TMP) to tackle the uncertainty, non-determinism, and complex dynamics of real-world environments.  TMP is an active research topic with related work proceeding in the robotics, AI, controls, and formal methods communities.  The varying focus and assumptions between different communities has produced a proliferation of approaches addressing different aspects of the problem space.  This workshop will bring together researchers from these different communities to discuss the challenges and contrasting approaches for robust TMP.  We hope to build on past RSS workshops on formal methods and benchmarks for TMP to now identify connections among robust TMP approaches and to better define the scenarios and motivating problems on which the community should focus."
+
+
+  ws26:
+    status: Active
+    external_id: WS2-6
+    internal_id: SUN6
+    title: "Pervasively neural-dynamic robotics: Do insights from neuroscience, cognitive science, and neuromorphic engineering lead to a radically new vision? (0.5d)"
+    organizers: Yulia Sandamirskaya, Gregor Schöner
+    date: June 23
+    building: 82
+    room: 00 006
+    url:  https://www.ini.rub.de/rss2019-workshop/
+    abstract: "While substantial progress is being made in cognitive robotics, many of us feel that systems now on the horizon will still be a far cry from the original vision of AI as general human-like intelligence acting in the real world. The key limitation may be the lack of autonomy, the ability of a system to behave intelligently in a broad set of situations without the need for specific programming for each task or for a specific learning regime for each new setting. The classical roadblock of linking cognitive architectures to the world through perception, motor control, and background knowledge is being shifted by powerful methods of neurally inspired machine learning and probabilistic reasoning. But, at their core, today's cognitive robots are still driven by conventional algorithmic frameworks that integrate diverse mathematical methods into what resembles classical cognitive architectures. Is that fact a key obstacle to true autonomy of behavior, cognition, and learning?<br><br>A radical alternative is to abandon the hybrid approach and seek pervasively neural systems that use no conventional forms of information processing. Such systems would instead generate activation patterns linked to sensors, motors, and neural memory systems and may ultimately be implemented directly in neuromorphic hardware. Early success were achieved for low-level robotic systems that were largely input driven. Recent progress in neural dynamics may unlock cognition for such systems by enabling the generation of activation patterns from within the neural networks, not primarily from input. Dynamic instabilities then generate sequences of activation states to perform cognitive operations.<br><br>Our goal in the workshop is to critically discuss roadblocks toward autonomy. We will bring together diverse ideas toward a vision of pervasively neural cognitive processing. We will lay out a road-map for such a radical neural vision of autonomous intelligence.<br><br>We invite submission of 1 page abtracts describing recent work on neuronal and cognitive architectures than emphasize autonomy of behavior generation. The selected abstracts will be invited to be presented as <ul><li> Demo showing autonomous generation of behavior and/or </li><li> Poster showing a recent example of a neuronal cognitive architecture </li></ul>Submit your abstract by email to <a href='mailto:ysandamirskaya@ini.uzh.ch'>ysandamirskaya@ini.uzh.ch</a>.<br><br>Please make sure your submission contains your institutional address. If you like, you can attach a photo, which we will upload on this webpage.<br><br>Deadline for submission: 1 June 2019!"
+
+  ws27:
+    status: Active
+    external_id: WS2-7
+    internal_id: SUN7
+    title: Cloud and Fog Robotics in the Age of Deep Robot Learning
+    organizers: Sandeep P. Chinchali, Ajay Tanwani, Marco Pavone
+    date: June 23
+    building: 101
+    room: 01 009
+    url: https://sites.google.com/view/cafr-rss/home
+    abstract: "Cloud and fog robotics enables resource-constrained robots to utilize both on-robot and cloud resources for compute and storage. Recent progress in deep learning, cloud computing, and the advent of cloud robotics platforms from the likes of Google and Amazon make today an exciting time to consider cloud robotics. <br><br>  However, cloud robotics comes with an often understated cost: offloading images, videos or high data-rate sensor measurements such as LIDAR can severely congest wireless networks, add to latency, and place a large burden on cloud compute resources. In this workshop,  we aim to bridge advances in the computer systems and robotics communities to address how to best distribute networking, storage, and communication resources between robots and the cloud.<br><br>  Accordingly, the objectives of this workshop are: <br> <ol> <li> To convene together researchers and industry experts from computer science, systems, robotics and deep learning to jointly discuss the challenges and define a roadmap for technology development. </li> <li> To identify promising applications of cloud robotics, such as offloading object detection, grasp planning, motion planning, mapping and localization for robots to enhance dexterous manipulation. </li> <li> To inform roboticists about algorithms for network-enabled services and introduce new cloud robotics platforms from Amazon, Google, and other university partners. </li> </ol> "
+
+  ws28:
+    status: Active
+    external_id: WS2-8
+    internal_id: SUN8
+    title: "Workshop: Aerial Interaction and Manipulation: Unsolved Challenges and Perspectives"
+    organizers: "Markus Ryll, Guillermo Heredia, Mina Kamel, Juan Nieto"
+    date:  June 23
+    building: 101
+    room: 01 013
+    url: "https://aerialinteraction.wordpress.com"
+    abstract: "Aerial manipulation combines many robotic disciplines like perception, state estimation, planning, manipulation and multi-robot collaboration. Novel results in one discipline often allowed for great groundbreaking contributions in aerial robotics. These contributions have generated visibility far beyond the field of aerial robotics and found entrance in many industrial applications. Yet we are still far away from having single or even fleets of autonomous aerial robots capable of performing fully autonomously and cooperatively, active interaction and manipulation tasks. What is missing to allow further achievements and greater autonomy? Aerial manipulation is challenging due to the decreased perception capabilities, a difficult interplay between the floating base and active manipulators, challenging aerodynamic effects and a limited computational power on board of the aerial system, all demanding for novel solutions to problems unsolved by classical approaches. The goal of the workshop is bringing together researchers from the three fields to push the boundaries of aerial robotics: <ul> <li> Aerial Robotics and Control </li><li> Grasping and Object Manipulation </li><li> Machine Learning for Robotics </li></ul> By bringing these fields closer together we will shed light on potentials and limits of classical approaches in perception, control and manipulation and where to benefit from machine learning based techniques. The invited speakers and members of the panel are world experts in aerial robotics, machine learning or robotic manipulation. The workshop is complemented by contributed research papers that will be presented with lightning talks and in a poster session and by a presentation of current state of the art hardware for aerial robotics and aerial robotics applicable deep learning hardware."
+
+  ws29:
+    status: Active
+    external_id: WS2-9
+    internal_id: SUN9
+    title: "Robots in the Wild: Challenges in Deploying Robust Autonomy for Robotic Exploration"
+    organizers: Pratap Tokekar, Yoonchang Sung, Jnaneshwar Das
+    date: June 23
+    building: 101
+    room: 02 016/018
+    url: https://robots-wild-rss.github.io/rss2019-workshop/
+    abstract:  "New advances in robust autonomy have increased our ability to adopt robotic systems for exploration of unstructured and uncertain environments. Particularly, successful field tests have demonstrated the tremendous potential of deploying robots for exploration and data collection tasks in extreme environments. However, various challenges exist, originating from algorithmic limitations, as well as environmental modeling, sensing, mobility, and communication constraints. A relevant selection of robotic systems, methods, and sensing devices can overcome these challenges. The goal of this workshop is to bring together researchers to discuss the following themes:  <ol> <li>What challenges exist at the frontiers of robotic exploration of unstructured and extreme environments?</li> <li>How can we tie together the categories of systems, methods, and devices to address relevant scientific questions in such environments?</li> <li>How can we deal with the algorithmic challenges from the perspective of planning, learning, and decision-making for long-term autonomy of robots in extreme environments?</li> </ol>"
+
+  ws210:
+    status: Active
+    external_id: WS2-10
+    internal_id: SUN10
+    title: "Robust autonomy: tools for safety in real-world uncertain environments"
+    organizers: Ransalu Senanayak, Sylvia Herbert, Andrea Bajcsy, David Fridovich-Keil, Somil Bansal, Jaime Fernández Fisac
+    date: June 23
+    building: 101
+    room: 00 36
+    url: https://sites.google.com/view/rss19safe/home
+    abstract:  "When autonomous systems such as self-driving cars and robotic manipulators are deployed in real-world environments, it is of the utmost importance to consider---and ideally to guarantee---safe runtime operation. Since these systems often operate in highly uncertain and dynamic environments, it is crucial for them to model and quantify environmental uncertainty, understand its impact on system dynamics, predict the motion of other agents, and make safe, risk-aware decisions. Safety and robustness have been studied extensively from a theoretical perspective, and there are several prominent success stories in application, e.g. in aviation. However, techniques with strong theoretical safety properties have yet to penetrate many new and exciting robotic application areas, such as autonomous driving, in which uncertainty in environmental perception and prediction overwhelm traditional safety analysis. This workshop aims to: <ul> <li>raise open questions on safety issues when robots operate autonomously in uncertain, real-world environments</li>  <li>discuss meaningful theoretical relaxations of strict safety guarantees which could be more easily used in practice</li>  <li>encourage conversation between perception and control communities on handling uncertainty from the sensors, down to actuation, and  </li>  <li>provide a forum for discussion among researchers, industry, andregulators as to the core challenges, promising solution strategies, fundamental limitations, and regulatory realities involved in deploying safety-critical systems </li> </ul>  Areas of interest include modeling uncertainty, safe motion planning, collision avoidance, decision-making in dynamic environments, intent prediction, safe exploration, safety and risk analysis. "
+
+  ws211:
+    status: Active
+    external_id: WS2-11
+    internal_id: SUN11
+    title: Space Robotics
+    organizers: Riccardo Bonalli
+    date: June 23
+    building: 106
+    room: 00 007
+    url: http://www.spacerobotics.xyz//
+    abstract: Recently, there has been a surge of interest in achieving ambitious space missions, within both microgravity and extraterrestrial surface environments. However, the harsh environments and stringent constraints of space operation demand robust integration of many advanced capabilities and associated technologies. In particular, many mission concepts require decisive, real-time autonomous systems which must account for environmental uncertainties and disturbances, and in some cases human-robot interaction. To this end, a key requirement is that such autonomy must remain sufficiently trustworthy, accessible, and comprehensible to human stakeholders (mission scientists, engineers, astronauts, etc.) to add value in achieving mission objectives. There have been significant advances autonomy applied to terrestrial applications, including in the domains of environmental perception, optimal differential planning/manipulation, and machine learning, resulting in rich theoretical and algorithmic tools. However, integration into the space domain is occurring at a more gradual pace, despite this context being one of the ultimate tests of robot autonomy. Thus, this workshop aims to highlight new developments in the field of autonomous space robots. Last year’s workshop identified several grand challenges facing the adoption of autonomy in space, namely complex multi-agent collaborative frameworks, failure detection/recovery and reliability/predictability guarantees. This workshop builds on last year’s successes and will bring together top researchers, engineers, scientists, and practitioners from the space exploration, space robotics, autonomous robotics, and machine learning communities to identify technologies and techniques that are ready for space deployment.
+
+
+  ws212:
+    status: Active
+    external_id: WS2-12
+    internal_id: SUN12
+    title: Perception and Control for Fast and Agile Super-vehicles
+    organizers: Varun Murali, Keith Lynn, Chelsea Sabo, Sertac Karaman
+    date:  June 23
+    building: 51
+    room: 00 006
+    url: "https://mit-fast.github.io/WorkshopRSS19SuperVehicles/"
+    abstract: "Remotely-piloted racing vehicles buzzing through complex racing courses have inspired many roboticists to build autonomy algorithms that can do the same. As advances in algorithmic perception and control for fast and agile robotic vehicles materialize, autonomous racing vehicles are quickly approaching the ability to defeat human remote pilots in head to head races. Most recently, Lockheed Martin, NVIDIA and the Drone Racing League (DRL) challenged the robotics community with the AlphaPilot program (<a href=\"https://www.herox.com/alphapilot\">https://www.herox.com/alphapilot</a>), where contestants will design and implement the algorithms for fully-autonomous drone racing. These advances may ultimately lead to autonomous super-vehicles, i.e., next-generation autonomous robots that are capable of achieving super-human maneuvering and racing capabilities. The resulting algorithms may become invaluable components of high-throughput autonomy software, e.g., to maneuver cars out of traffic accidents. However, the development of these super-vehicles brings significant challenges. The purpose of this workshop is to identify, highlight and discuss possible solutions to the open research questions in high-throughput computing for autonomous racing vehicles. The goal of the workshop is to also identify gaps in current techniques addressing these problems, and open the conversation about real time onboard high throughput computing to address these technical gaps. Is end to end deep learning a viable option to solve these high speed interactions? What are the challenges for model based solutions? What can we model and what do we have to simulate? What are the gaps of transferring experiments from photorealistic exteroceptive sensor simulation (<a href=\"http://flightgoggles.mit.edu\">http://flightgoggles.mit.edu</a>) to real world systems?"
+
+  ws213:
+    status: Active
+    external_id: WS2-13
+    internal_id: SUN13
+    title: AI and Its Alternatives for Shared Autonomy in Assistive and Collaborative Robotics
+    organizers: Aleksandra Kalinowska, Alexander Broad, Brenna Argall, Todd Murphey, Adam Zoss
+    date:  June 23
+    building: 51
+    room: 00 033/034
+    url: https://sites.google.com/view/rss-19-ai-acr-workshop/home
+    abstract: Shared autonomy is a critical component of human-robot interaction (HRI) that allows robots to collaborate with and provide intuitive assistance to human partners. It is an interdisciplinary domain that brings together the science of human behaviors with state-of-the-art methods in engineering, such as artificial intelligence (AI). Unfortunately, there is often a disconnect between researchers that explore the human side of these interactions and those that propose new engineering solutions. In the former, researchers study human psychology, neuroscience, and biomechanics to better understand how the human partner thinks and functions. In the latter, researchers develop autonomous technologies to improve the capabilities of the human-in-the-loop, often ignoring important facets like perceived utility and acceptance. In this workshop, we bring together experts from both perspectives to define and address challenges in designing and implementing shared autonomy solutions. We will ask questions like — is it possible to create a reliable model of human intent? Can we design interpretable AI to better facilitate HRI? How do we incorporate formal notions of safety with data-driven methods? And finally, how do we take learnings from psychology, neuroscience, and self-driving cars to create better assistive technologies? This workshop will foster multidisciplinary discussion and friendly debate as well as consolidate perspectives, methodologies, and assessment tools to grow research efforts in human-centered robotics.

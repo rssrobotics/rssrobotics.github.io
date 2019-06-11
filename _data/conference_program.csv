@@ -1,47 +1,49 @@
-session_id,title,date,time,location,chair,papers
+session_id,video_url,title,date,time,location,chair,papers
 
-0,Registration and Coffee/Light Refreshments,July 12,08:30 AM - 09:30 AM,Kresge Lobby,none,0
-01,Spotlight Talks: Group 1,July 12,09:30 AM - 10:00 AM,Kresge Auditorium,Matt Walter,63 13 57 70
-02,Spotlight Talks: Group 2,July 12,10:00 AM - 10:30 AM,Kresge Auditorium,Nick Roy,75 06 23
-0,Refreshment Break,July 12,10:30 AM - 11:00 AM,Kresge Lobby,none,0
-0,Keynote Presentation,July 12,11:00 AM - 12:00 PM,Kresge Auditorium,Siddhartha Srinivasa,0
-0,Lunch Break,July 12,12:00 PM - 02:00 PM,none,none,0
-03,Spotlight Talks: Group 3,July 12,02:00 PM - 02:30 PM,Kresge Auditorium,Todd Murphey,01 25 29 19
-04,Spotlight Talks: Group 4,July 12,02:30 PM - 03:00 PM,Kresge Auditorium,Matei Ciocarlie,72 18 54 59
-0,Refreshment Break,July 12,03:00 PM - 03:30 PM,Kresge Lobby,none,0
-05,Spotlight Talks: Group 5,July 12,03:30 PM - 04:00 PM,Kresge Auditorium,Kostas Bekris,17 15 20 28
-06,Spotlight Talks: Group 6,July 12,04:00 PM - 04:30 PM,Kresge Auditorium,Hanna Kurniawati,52 27 43 04
-07,Spotlight Talks: Group 7,July 12,04:30 PM - 05:00 PM,Kresge Auditorium,Brenna Argall,03 60 37 66
-08,Spotlight Talks: Group 8,July 12,05:00 PM - 05:30 PM,Kresge Auditorium,Stefanie Tellex,64 36 10 67
-0,Break to walk to poster session,July 12,05:30 - 06:00 PM,none,none,0
-0,Amazon Robotics Poster Session,July 12,06:00 - 09:00 PM,Student Street at the Stata Center,none,0
+session_id,video_url,title,date,time,location,chair,papers
+01,none,Spotlight Talks: Group 1,June 24,09:00 - 09:30,"none","none",0076 0208 0060 0108 0082
+"02",none,"Spotlight Talks: Group 2",June 24,"09:30 - 10:00","none","none",0091 0219 0114 0006 0217
+0,none,Refreshment Break,June 24,10:00 - 10:30,none,none,0
+"03",none,"Spotlight Talks: Group 3",June 24,"10:30 - 11:00","none","none",0178 0032 0149 0169 0102
+0,none,Keynote Presentation,June 24,11:00 - 12:00,none,none,0
+0,none,Lunch Break,June 24,12:00 - 13:30,none,none,0
 
-0,Registration and Coffee/Light Refreshments,July 13,08:30 AM - 09:30 AM,Kresge Lobby,none,0
-09,Spotlight Talks: Group 9,July 13,09:30 AM - 10:00 AM,Kresge Auditorium,Anca Dragan,21 07 50 12
-10,Spotlight Talks: Group 10,July 13,10:00 AM - 10:30 AM,Kresge Auditorium,Hadas Kress-Gazit,42 40 31
-0,Refreshment Break,July 13,10:30 AM - 11:00 AM,Kresge Lobby,none,0
-0,Keynote Presentation,July 13,11:00 AM - 12:00 PM,Kresge Auditorium,Siddhartha Srinivasa,0
-0,Lunch Break,July 13,12:00 PM - 02:00 PM,none,none,0
-11,Spotlight Talks: Group 11,July 13,02:00 PM - 02:30 PM,Kresge Auditorium,Angela Schoellig,73 62 47 49
-12,Spotlight Talks: Group 12,July 13,02:30 PM - 03:00 PM,Kresge Auditorium,Dieter Fox,05 55 61 16
-0,Refreshment Break,July 13,03:00 PM - 03:30 PM,Kresge Lobby,none,0
-0,Early Career Spotlight,July 13,03:30 PM - 04:30 PM,Kresge Auditorium,Siddhartha Srinivasa,0
-13,Spotlight Talks: Group 13,July 13,04:30 PM - 05:00 PM,Kresge Auditorium,Scott Kuindersma,09 22 34 68
-14,Spotlight Talks: Group 14,July 13,05:00 PM - 05:30 PM,Kresge Auditorium,Koushil Sreenath,39 41 48 56
-0,Break to walk to poster session,July 13,05:30 - 06:00 PM,none,none,0
-0,Toyota Research Institute Poster Session,July 13,06:00 - 09:00 PM,Student Street at the Stata Center,none,0
+"04",none,"Spotlight Talks: Group 4",June 24,"13:30 - 14:00","none","none",0154 0193 0110 0135 0111
+"05",none,"Spotlight Talks: Group 5",June 24,"14:00 - 14:30","none","none",0100 0125 0209 0077 0105
+0,none,Refreshment Break,June 24,14:30 - 15:00,none,none,0
+0,none,Early Career 1,June 24,15:00 - 15:30,none,none,0
+0,none,Poster Session,June 24,15:30 - 17:00,none,none,0
+"BSP",none,"Best System Paper Award Nominees",June 24,"17:00 – 17:30","none","none",0190 0030 0128 0179 0118
+"BPA",none,"Best paper Award Nominees",June 24,"17:30-18:00","none","none",0121 0233 0120 0069 0291
+0,none,Industry Reception,June 24,18:00 - 21:00,Messe Freiburg,none,0
 
-0,Registration and Coffee/Light Refreshments,July 14,08:30 AM - 09:30 AM,Kresge Lobby,none,0
-15,Spotlight Talks: Group 15,July 14,09:30 AM - 10:00 AM,Kresge Auditorium,Jonathan Kelly,44 33 11 69
-16,Spotlight Talks: Group 16,July 14,10:00 AM - 10:30 AM,Kresge Auditorium,Nancy Amato,51 46 08
-0,Refreshment Break,July 14,10:30 AM - 11:00 AM,Kresge Lobby,none,0
-0,Keynote Presentation,July 14,11:00 AM - 12:00 PM,Kresge Auditorium,Siddhartha Srinivasa,0
-0,Lunch Break,July 14,12:00 PM - 02:00 PM,none,none,0
-17,Spotlight Talks: Group 17,July 14,02:00 PM - 02:30 PM,Kresge Auditorium,Han-Lim Choi,14 24 26 38
-18,Spotlight Talks: Group 18,July 14,02:30 PM - 03:00 PM,Kresge Auditorium,Sergey Levine,45 35 58
-0,Refreshment Break,July 14,03:00 PM - 03:30 PM,Kresge Lobby,none,0
-19,Spotlight Talks: Group 19,July 14,03:30 PM - 04:00 PM,Kresge Auditorium,Marco Pavone,65 30 32 53
-20,Spotlight Talks: Group 20,July 14,04:00 PM - 04:30 PM,Kresge Auditorium,Nathan Michael,02 74 71
-0,Awards,July 14,04:30 PM - 05:30 PM,Kresge Auditorium,none,0
-0,Transportation to Banquet,July 14,05:30 PM - 06:30 PM,none,none,0
-0,Northrop Grumman Aerospace Systems Banquet,July 14,07:00 PM - 11:00 PM,"Bates Hall, Boston Public Library",TBD,0
+
+"06",none,"Spotlight Talks: Group 6",June 25,"09:00 - 09:30","none","none",0079 0088 0181 0196 0123
+"07",none,"Spotlight Talks: Group 7",June 25,"09:30 - 10:00","none","none",0238 0033 0109 0230 0160
+0,none,Refreshment Break,June 25,10:00 - 10:30,none,none,0
+"08",none,"Spotlight Talks: Group 8",June 25,"10:30 - 11:00","none","none",0248 0045 0229 0150 0137
+0,none,Keynote Presentation,June 25,11:00 - 12:00,none,none,0
+0,none,Lunch Break,June 25,12:00 - 13:30,none,none,0
+
+"09",none,"Spotlight Talks: Group 9",June 25,"13:30 - 14:00","none","none",0197 0158 0007 0151 0186
+"10",none,"Spotlight Talks: Group 10",June 25,"14:00 - 14:30","none","none",0104 0206 0173 0211 0204
+0,none,Refreshment Break,June 25,14:30 - 15:00,none,none,0
+0,none,Keynote Presentation,June 25,15:00 - 16:00,none,none,0
+0,none,Poster Session,June 25,16:00 - 17:30,none,none,0
+0,none,Break,June 25,17:30 - 19:00,none,none,0
+0,none,Banquet,June 25,19:00 - ,Konzerthaus Freiburg,none,0
+
+
+"11",none,"Spotlight Talks: Group 11",June 26,"09:00 - 09:30","none","none",0117 0093 0166 0096 0279
+"12",none,"Spotlight Talks: Group 12",June 26,"09:30 - 10:00","none","none",0146 0152 0172 0059 0031
+0,none,Refreshment Break,June 26,10:00 - 10:30,none,none,0
+"13",none,"Spotlight Talks: Group 13",June 26,"10:30 - 11:00","none","none",0013 0141 0175 0281 0285
+0,none,Keynote Presentation,June 26,11:00 - 12:00,none,none,0
+0,none,Lunch Break,June 26,12:00 - 13:30,none,none,0
+
+"14",none,"Spotlight Talks: Group 14",June 26,"13:30 - 14:00","none","none",0145 0205 0235 0174 0251
+"15",none,"Spotlight Talks: Group 15",June 26,"14:00 - 14:30","none","none",0140 0080 0119 0063 0047
+0,none,Refreshment Break,June 26,14:30 - 15:00,none,none,0
+0,none,Early Career 2,June 26,15:00 - 15:30,none,none,0
+0,none,Poster Session,June 26,15:30 - 17:00,none,none,0
+0,none,Awards/Closing,June 26,17:00 - 17:30,none,none,0

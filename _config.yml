@@ -9,17 +9,18 @@ permalink:        pretty
 # Setup
 title:            "Robotics: Science and Systems"
 tagline:          'A Robotics Conference'
-description:      'June 26-30 2018. Pittsburgh, USA.'
-url:
-baseurl:
+description:      'June 22-26 2019. Freiburg, Germany.'
+port:             81
+host:             132.230.105.186
 include:          ['_pages']
-exclude:          ['README.md', 'LICENSE.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor', 'GRTAGS', 'GPATH', 'GTAGS', 'deploy.sh']
+exclude:          ['README.md', 'LICENSE.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor']
+encoding:         utf-8
 
 author:
   name:           'Wennie Tabib'
   url:            www.wtabib.com
 
-gems:             [jekyll-paginate]
+plugins:             [jekyll-paginate]
 paginate:         5
 paginate_path:    "blog/page:num"
 
@@ -37,8 +38,8 @@ collections:
         output: true
         permalink: /attending/:path/
     program:
-        output: true
-        permalink: /program/:path/
+         output: true
+         permalink: /program/:path/
     information:
         output: true
         permalink: /information/:path/
@@ -49,3 +50,6 @@ defaults:
       path: ""
     values:
       priority: 0
+
+papers: http://rss2019.informatik.uni-freiburg.de/papers
+videos: http://rss2019.informatik.uni-freiburg.de/videos

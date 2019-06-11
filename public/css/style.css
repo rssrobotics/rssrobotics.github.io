@@ -1,5 +1,5 @@
 :root {
-    --cmu-red: #bb0000;
+    --cmu-red: #004A99;
     --cmu-gray: #f4f4f4;
     --cmu-dark-gray: #666666;
     --cmu-black: #000000;
@@ -37,7 +37,7 @@ html { overflow-y: scroll;}
   font-size: 0.75em;
 }
 
-.grayout { color: lightgray; }
+.grayout { color: gray; }
 
 .two-col {
     -webkit-columns: 100px 2; /* Chrome, Safari, Opera */
@@ -153,8 +153,8 @@ a.social-media:active {color:#333333}
 /* Sponsorships */
 
 #ss-square img {
-  max-width:  8%;
-  max-height: 8%;
+  max-width:  20%;
+  max-height: 20%;
   margin: 5px;
 }
 
@@ -179,5 +179,11 @@ a.social-media:active {color:#333333}
 #ss-sponsor img {
   max-width: 30%;
   max-height: 120px;
+  margin: 5px;
+}
+
+#rss-media img {
+  max-width: 45%;
+  max-height: 240px;
   margin: 5px;
 }

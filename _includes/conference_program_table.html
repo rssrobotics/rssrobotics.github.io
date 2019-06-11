@@ -1,14 +1,29 @@
-{% comment %}
 <table class="table table-striped table-program">
   {% for event in site.data.conference_program %}
+
   {% if event.date == include.date %}
+  
   <tr>
     <td width="160px">{{ event.time }}</td>
     <td>
-      <b>{{ event.title }}</b>
+        {% if event.title contains 'Banquet' %}
+        <b>
+	  <!--<a href="{{ site.baseurl }}/program/banquet"> -->Banquet<!--</a>--></b>
+        {% else %}
+          {% if event.video_url != 'none' %}
+            <b>{{ event.title }} <a href="{{ event.video_url }}"> [Video]</a></b>
+          {% else %}
+            <b>{{ event.title }}</b>
+          {% endif %}
+        {% endif %}
       {% if event.location != 'none' %}
+      {% if event.title == 'Banquet' %}
+      <br/>
+        <i>Location: <a href="https://www.konzerthaus.freiburg.de/startseite/7/en/konzerthaus-freiburg.html">{{ event.location }}</a></i>
+      {% else %}
       <br/>
       <i>Location: {{ event.location }}</i>
+      {% endif %}
       {% endif %}
       {% if event.chair != 'TBD' and event.chair != 'none' %}
       <br/>
@@ -16,38 +31,52 @@
       {% endif %}
 
       {% comment %} Special events with special information {% endcomment %}
+      {% if event.title == 'Early Career:' %}
+        {% if event.date == 'June 27' and event.time == '14:00 - 14:30'%}
+      <a href="{{ site.baseurl }}/program/earlycareer/#cakmak"><br>Maya Cakmak</a>, Robot Programming for All
+        {% elsif event.date == 'June 27' and event.time == '16:00 - 16:30' %}
+      <a href="{{ site.baseurl }}/program/earlycareer/#tellex"><br>Stefanie Tellex</a>, Learning Models of Language, Action and Perception for Human-Robot Collaboration
+        {% elsif event.date == 'June 28' %}
+      <a href="{{ site.baseurl }}/program/earlycareer/#levine"><br>Sergey Levine</a>, Robots that learn and improve through experience
+        {% endif %}
+      {% endif %}
+
       {% if event.title == 'Keynote Presentation' %}
-      <br/><br/>
-      {%    if event.date == 'July 12' %}
-      <a href="{{ site.basedata }}/program/invitedtalks/park/">Frank Chongwoo Park</a>, "Manifolds, Geometry, and Robotics"
-      {% elsif event.date == 'July 13' %}
-      <a href="{{ site.basedata }}/program/invitedtalks/fox/">Dieter Fox</a>, "Bayes Filters, Models, and Some Learning"
-      {% elsif event.date == 'July 14' %}
-      <a href="{{ site.basedata }}/program/invitedtalks/hebert/">Martial Hebert</a>
+      <br/>
+      {% if event.date == 'June 24' %}
+        <a href="{{ site.baseurl }}/program/keynotespeakers/#deluca">Allessandro De Luca</a>, Control of soft joint robots for safe physical HRI 
+      {% elsif event.date == 'June 25' %}
+	{% if event.time == '11:00 - 12:00' %}
+          <a href="{{ site.baseurl }}/program/keynotespeakers/#suzumori">Koichi Suzumori</a>, Soft Robotics as E-kagen Science
+	{% elsif event.time == '15:00 - 16:00' %}
+	  <a href="{{ site.baseurl }}/program/keynotespeakers/#murphy">Robin Murphy</a>, Robots for Unstructured and Extreme Environments 
+	{% endif %}
+      {% elsif event.date == 'June 26' %}
+        <a href="{{ site.baseurl }}/program/keynotespeakers/#riedmiller">Martin Riedmiller</a>, Robots that learn from scratch
       {% endif %}
       {% endif %}
       {% if event.title == 'Early Career Spotlight' %}
       <br/><br/>
       <a href="{{ site.basedata }}/program/careerspotlight/">Sertac Karaman</a>, "On Algorithm Control and Perception: Compression, Attention, and Coordination"
       {% endif %}
-      {% if event.title == 'Northrop Grumman Aerospace Systems Banquet' %}
+      {% if event.title == 'Amazon Robotics Banquet' %}
       <br/><br/>
-      <a href="http://www.northropgrumman.com/">
-        <img src="{{ site.baseurl }}/images/sponsors/northropgrumman.png"
-             alt="Northrop Grumman" style="max-width: 100%; max-height: 4em;"/>
+      <a href="http://www.amazonrobotics.com/">
+        <img src="{{ site.baseurl }}/images/sponsors/amazonrobotics.jpg"
+             alt="Amazon Robotics" style="max-width: 100%; max-height: 4em;"/>
       </a>
       {% endif %}
       {% if event.title == 'Amazon Robotics Poster Session' %}
       <br/><br/>
       <a href="https://www.amazonrobotics.com/">
-        <img src="{{ site.baseurl }}/images/sponsors/amazonrobotics.png"
+        <img src="{{ site.baseurl }}/images/sponsors/amazonrobotics.jpg"
              alt="Amazon Robotics" style="max-width: 100%; max-height: 4em;"/>
       </a>
       {% endif %}
       {% if event.title == 'Toyota Research Institute Poster Session' %}
       <br/><br/>
       <a href="http://www.tri.global/">
-        <img src="{{ site.baseurl }}/images/sponsors/tri.png"
+        <img src="{{ site.baseurl }}/images/sponsors/tri.jpg"
              alt="Toyota Research Institute" style="max-width: 100%; max-height: 4em;"/>
       </a>
       {% endif %}
@@ -55,9 +84,9 @@
       {% if event.papers != '0' %}
       <br/><br/>
 
-        {% assign paper_ids = event.papers | split: ' ' %}
-        {% for paper_id in paper_ids %}
-        {% for paper in site.data.papers %}
+      {% assign paper_ids = event.papers | split: ' ' %}
+      {% for paper_id in paper_ids %}
+      {% for paper in site.data.papers %}
         {% if paper_id == paper.external_id %}
           <b id="{{ paper.talk_id }}">Talk {{ paper.talk_id }}</b>
           <br/>
@@ -66,21 +95,10 @@
           {{ paper.authors }}
           <div id="group{{ event.session_id }}-paper{{ paper.external_id }}" style="display:none;">
             <br/>
-            [
-            <b>
-              <a href="/static/papers/{{ paper.external_id }}.pdf">Full Paper</a>
-            </b>
-            |
-            <b>
-              <a href="/static/slides/{{ paper.external_id }}.mp4">Slides</a>
-            </b>
-            |
-            <b>
-              <a href="{{ site.baseurl }}/program/papers/{{ paper.external_id }}/">Discussion</a>
-            </b>
-            ]
-            <br/><br/>
             {{ paper.abstract }}
+            <br>
+            <br>
+            <!--[<b><a href="http://www.roboticsproceedings.org/rss14/p{{ paper.external_id }}.pdf">Full Paper</a></b>]-->
           </div>
           <br/><br/>
         {% endif %}
@@ -93,5 +111,3 @@
   {% endif %}
   {% endfor %}
 </table>
-
-{% endcomment %}

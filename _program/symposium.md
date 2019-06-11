@@ -5,129 +5,331 @@ description: Area chair symposium time and details.
 invisible: true
 ---
 
-{% comment %}
-The RSS Area Chair Symposium will be held in 3305 Newell-Simon Hall at Carnegie Mellon University in
-Pittsburgh, Pennsylvania, USA on April 6, 2017.
+<!--
+The RSS Area Chair Symposium will be held in Gates Hall G01 at Cornell University in Ithaca, New York, USA on Thursday, April 5, 2018.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.4386202453593!2d-79.9456134!3d40.443428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8834f2216b3de60b%3A0x9dc3e7773e241828!2sNewell-Simon+Hall!5e0!3m2!1sen!2sus!4v1490145373776" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5888.397471047109!2d-76.4849788063598!3d42.44478745926767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d0818b5e725517%3A0x7098683a6a981542!2sBill+and+Melinda+Gates+Hall!5e0!3m2!1sen!2sus!4v1522680351301" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## Program Summary
 
 <table class="table">
     <tbody class="text-left">
       <tr>
-        <td style="width: 130px">9:00 - 9:20 AM</td>
+        <td style="width: 130px">09:00 - 10:30</td>
         <td>
-          <b>Welcome and Overview</b> <br/>
-          Aaron Johnson, Henny Admoni, and Sidd Srinivasa
+          <b>Design/Software</b> <br/>
+          Andrea Censi, ETH Zürich & nuTonomy, inc., <a href="javascript:void($('#censi').toggle());"><i>The AI Driving Olympics</i></a>
+          <div id="censi" style="display:none;">
+            <br/>
+            I will describe the first AI Driving Olympics (AIDO), organized by
+            ETH Zurich, University of Montreal, Georgia Tech, Tsinghua, NCTU, nuTonomy, and
+            Amazon. The AIDO are a "live competition" at NIPS 2018 which will run in the
+            period October-December 2018. Participants compete on a wide range of
+            driving-related tasks on the Duckietown platform that are meant to understand
+            the potential and limitations of model-based and learning-based approaches.
+            Algorithms are tested on remote Duckietown robotariums built at the
+            participating universities. The finals will happen in Montreal and will be
+            streamed live.
+            <br>
+            <br/>
+            In other words: the Duckies go to NIPS!
+          </div>
+          <br/>
+          Hanna Kurniawati, University of Queensland, <a href="javascript:void($('#kurniawati').toggle());"><i>Software for POMDP-based motion planning</i></a>
+          <div id="kurniawati" style="display:none;">
+            <br/>
+            I will talk about our new software for POMDP-based motion planning.
+            It allows users to provide configuration file to describe problems
+            (rather than programming them inside the solver). It interface to
+            ROS-Gazebo.
+          </div>
+          <br/>
+          Justus Piater, University of Innsbruck, <a href="javascript:void($('#piater').toggle());"><i>High-Level, Skill-Based Robot Programming Using Autonomous Playing and Autonomous Testing</i></a>
+          <div id="piater" style="display:none;">
+            <br/>
+            We introduce a novel paradigm for robot programming with which we
+            aim to make robot programming more accessible for unexperienced
+            users. In order to do so we incorporate two major components in one
+            single framework: autonomous skill acquisition by robotic playing
+            and visual programming. Simple robot program skeletons solving a
+            task for one specific situation, so-called basic behaviours, are
+            provided by the user. The robot then learns how to solve the same
+            task in many different situations by autonomous playing which
+            reduces the barrier for unexperienced robot programmers. Programmers
+            can use a mix of visual programming and kinesthetic teaching in
+            order to provide these simple program skeletons. The robot program
+            can be implemented interactively by programming parts with visual
+            programming and kinesthetic teaching. We further integrate work on
+            experience-based skill-centric robot software testing which enables
+            the user to continuously test implemented skills without having to
+            deal with the details of specific components.
+          </div>
+          <br/>
+          Jason O'Kane, University of South Carolina, <a href="javascript:void($('#okane').toggle());"><i>Toward Automated Design Tools for Minimal Robots</i></a>
+          <div id="okane" style="display:none;">
+            <br/>
+            Designing robot systems (or even just software for robots) is hard! In this
+            talk, I will describe some recent preliminary research on the plausibility of
+            using automated tools to assist human roboticists with that process.
+          </div>
+          <br/>
+          Mateo Bianchi, University of Pisa, <a href="javascript:void($('#bianchi').toggle());"><i>Bio-aware design of robotic systems and haptic-interfaces</i></a>
+          <div id="bianchi" style="display:none;">
+            <br/>
+            The human body is an extraordinarily sophisticated and versatile sensorimotor
+            system. Controlling its large number of elements, such as muscles, bones, and
+            joints, as well as integrating multiple sensory modalities, are complex tasks
+            the Central Nervous System (CNS) must deal with. Trying to replicate such a rich
+            variety of behavior in robotic and haptic systems is a daunting task and merely
+            copy-catting biological observations in an artificial body is clearly
+            unfeasible. On the contrary, bio-aware robotics can represent a successful
+            approach to fully take advantage from nature for a new generation of
+            technological devices. A possible strategy to pursue this objective is the
+            translation of neuroscientific results into a mathematical language, which can
+            be understood by artificial systems and used to inform a more effective device
+            design. In this talk, I will discuss how neuroscience can inspire bio-aware
+            robotics, leveraging on the concept of sensory-motor synergies as a generalized
+            simplification approach humans rely on to cope with the abundancy of body
+            sensors and degrees of freedom. I will discuss how this concept can be
+            successfully applied to inform the development and control of simple, intuitive
+            yet effective robotic systems, with special focus on haptics, tactile sensing
+            and wearability. Applications and perspectives for robotics-enabled human
+            assistance, prosthetics and advanced human-robot interaction will be finally
+            discussed.
+          </div>
+          <br/>
+          Eiichi Yoshida, National Institute of Advanced Industrial Science and Technology, <a href="javascript:void($('#yoshida').toggle());"><i>Unified Motion Synthesis of Digital Human and Humanoid for Product Design and Evaluation</i></a>
+          <div id="yoshida" style="display:none;">
+          We present an integrated approach to motion synthesis for humanoid
+          robotics and human simulation that is useful for product design and
+          evaluation. The first axis is development of a method for humanoid
+          robot control that can reproduce various human behaviors to use a
+          humanoid robot as an evaluator of products such as assistive devices.
+          This allows estimating its mechanical supportive effects in a
+          quantitative manner, which is difficult with human measurement. We
+          also introduce applications of this research to standardization of
+          wearable lumbar-support assistive devices. Another main research
+          direction is to develop a system for human-centered product design
+          through understanding humans' motion principles by using a digital
+          human that can model its shape, musculo-skeletal structure and
+          motions, as well as interactions with devices. We will show some
+          applications of product design and evaluation based on this research.
+          <br/>
+          </div>
         </td>
       </tr>
       <tr>
-        <td>9:20 - 10:40 AM</td>
-        <td>
-          <b>New Sensors and Actuators</b> <br/>
-          Akihiko Yamaguchi, Carnegie Mellon University, <a href="javascript:void($('#yamaguchi').toggle());"><i>Whole-Body Vision</i></a>
-          <div id="yamaguchi" style="display:none;">
-            <br/>
-            We propose using cameras (as well as acceleromters, gyros, ...) to provide tactile and proximity sensing in robot skin. Following the principle that "Sensing Solves Robotics", covering an entire robot with cameras greatly simplifies robot control.
-          </div>
-          <br/>
-          Robert Howe, Harvard University, <a href="javascript:void($('#howe').toggle());"><i>Achieving selective kinematics and stiffness in flexible robotics</i></a>
-          <div id="howe" style="display:none;">
-            <br/>
-            We are working to create a new technology that allows robot structures to transition between soft and hard, based on “laminar jamming.” In its simplest form, thin sheets of a flexible material (e.g. ordinary printer paper) are stacked inside a plastic envelope. When the bag is connected to a vacuum pump, the layers are pressed together by the pressure of the surrounding air, and friction locks them together into a single stiff structure. Because the bending stiffness of a beam is proportional to its thickness to the third power, even a few laminae can produce dramatic increases in stiffness. These “jamming elements” can be integrated into soft robot actuators and structures, allowing controlled transitions between stiff and compliant behavior. This enables a number of useful capabilities. One example is variable kinematics: if a row of jamming actuators is embedded along the length of a soft bending actuator, they can stiffen to form rigid “links” separated by compliant joints, so the robot can switch between a continuously-bending tentacle and a jointed arm. Another example is shape-locking, which would hold the current shape of the actuator after power is removed. These elements can be combined to create a wide range of new robotic capabilities.
-          </div>
-          <br/>
-          Ralph Hollis, Carnegie Mellon University, <a href="javascript:void($('#hollis').toggle());"><i>An Omnidirectional Mobile Robot with Just Two Moving Parts</i></a>
-          <div id="hollis" style="display:none;">
-            <br/>
-            We discuss the design and operation of SIMbot, a ballbot mobile robot powered by a direct drive closed-loop spherical induction motor. Performance results are given, including comparison with a ballbot which employs a more conventional mechanical drive.
-          </div>
-          <br/>
-          Matei Ciocarlie, Columbia University, <a href="javascript:void($('#ciocarlie').toggle());"><i>Senses and sensing ability for dexterous hands</i></a>
-          <div id="ciocarlie" style="display:none;">
-            <br/>
-            I will present new results on sensors and sensing modalities for dexterous hands (including tactile and proprioceptive sensing), and new analysis of grasp quality metrics that make use of such data.
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td>10:40 - 11:00 AM</td>
+        <td>10:30 - 11:00</td>
         <td>
           <b>Coffee Break</b>
         </td>
       </tr>
       <tr>
-        <td>11:00 - 12:20 PM</td>
+        <td>11:00 - 12:30</td>
         <td>
-          <b>Tasks and Autonomy</b> <br/>
-          Todd Murphey, Northwestern University, <a href="javascript:void($('#murphey').toggle());"><i>From Coverage to Robot Art: Specifying Statistically-Defined Tasks</i></a>
-          <div id="murphey" style="display:none;">
+          <b>Manipulation/Wearables/Multi robot</b> <br/>
+          Mehmet Dogar, University of Leeds, <a href="javascript:void($('#dogar').toggle());"><i>Manipulation Planning for Forceful Human-Robot Collaboration</i></a>
+          <div id="dogar" style="display:none;">
             <br/>
-            This talk will focus on ergodicity-based task specification for robotic systems and how merging data-driven analysis and trajectory analysis yields a rich and computable paradigm in which tasks are represented as distributions. Examples include active shape estimation, rehabilitation/assistive technologies, and robotic drawing.
+            Imagine a human and a robot collaborating to cut, drill, and
+            assemble parts to build a table. I will present our work on
+            manipulation planning in such a scenario, where the robot grasps an
+            object on which a human is applying sequential and changing forces,
+            e.g. cutting pieces off the parts, then drilling a few holes, then
+            inserting fasteners to those holes, etc. I will try to answer two
+            questions: (i) Given such a collaboration task, how can the robot
+            plan an efficient sequence of grasps and motions that are stable
+            against these forces? (ii) How can the robot make sure that the
+            forceful tasks are executed comfortably by the human?Imagine a human
+            and a robot collaborating to cut, drill, and assemble parts to build
+            a table. I will present our work on manipulation planning in such a
+            scenario, where the robot grasps an object on which a human is
+            applying sequential and changing forces, e.g. cutting pieces off the
+            parts, then drilling a few holes, then inserting fasteners to those
+            holes, etc. I will try to answer two questions: (i) Given such a
+            collaboration task, how can the robot plan an efficient sequence of
+            grasps and motions that are stable against these forces? (ii) How
+            can the robot make sure that the forceful tasks are executed
+            comfortably by the human?
           </div>
           <br/>
-          Nathan Michael, Carnegie Mellon University, <a href="javascript:void($('#michael').toggle());"><i>Efficient and Robust Autonomous Inspection in Cluttered and Confined Industrial Environments</i></a>
-          <div id="michael" style="display:none;">
+          Sami Haddadin, Technische Universität München, <a href="javascript:void($('#haddadin').toggle());"><i>Learning Dynamics and Manipulation Control</i></a>
+          <div id="haddadin" style="display:none;">
             <br/>
-            Autonomous inspection in confined and cluttered environments requires planning, perception, and control strategies that are amenable to challenging and diverse environment and operation conditions. In this talk, we will present recent theoretic and systems developments to enable robust and precise autonomous inspection.
+            I will talk about first order principle networks for learning
+            accurate and interpretable dynamics as well as learning human-level
+            performance manipulation skills
           </div>
           <br/>
-          Justus Piater, University of Innsbruck, <a href="javascript:void($('#piater').toggle());"><i>Visual Task Outcome Verification Using Deep Learning</i></a>
-          <div id="piater" style="display:none;">
+          David Braun, Singapore University of Technology and Design, <a href="javascript:void($('#braun').toggle());"><i>Analytical Design and Compliant Actuation for Autonomous Human Augmentation</i></a>
+          <div id="braun" style="display:none;">
             <br/>
-            We recently developed a method allowing a robot to assert visually whether a manipulation has achieved the desired effect or not. If the answer is negative, it generates a corrective motion, bringing the manipulation closer to success.  Both outcome assessment and motion generation are done by deep CNNs, using training data automatically generated from very few real-world examples.
+            We present an integrated approach to motion synthesis for humanoid
+            robotics and human simulation that is useful for product design and
+            evaluation. The first axis is development of a method for humanoid
+            robot control that can reproduce various human behaviors to use a
+            humanoid robot as an evaluator of products such as assistive
+            devices. This allows estimating its mechanical supportive effects in
+            a quantitative manner, which is difficult with human measurement. We
+            also introduce applications of this research to standardization of
+            wearable lumbar-support assistive devices. Another main research
+            direction is to develop a system for human-centered product design
+            through understanding humans' motion principles by using a digital
+            human that can model its shape, musculo-skeletal structure and
+            motions, as well as interactions with devices. We will show some
+            applications of product design and evaluation based on this
+            research.
           </div>
           <br/>
-          Matt Walter, Toyota Technological Institute at Chicago, <a href="javascript:void($('#walter').toggle());"><i>Learning to Follow (and Give) Natural Language Instructions in Unknown Environments</i></a>
-          <div id="walter" style="display:none;">
+          Elliott Rouse, University of Michigan, <a href="javascript:void($('#rouse').toggle());"><i>The hidden mechanics of human locomotion</i></a>
+          <div id="rouse" style="display:none;">
             <br/>
-            Natural language promises an efficient and flexible means for humans to communicate with robots, whether they are assisting the physically impaired, or performing disaster mitigation tasks as our surrogates. In this talk, I will describe our recent work developing end-to-end methods that enable robots to interpret free-form instructions in a priori unknown environments, without the need for specialized linguistic resources. If time allows, I will also talk about efforts to essentially invert this model in order to allow robots to generate natural language instructions.
+            Brief overview of the Neurobionics Lab. Our group focuses on
+            estimating the mechanical impedance of the joints of the legs, and
+            incorporating these properties in a new generation of wearable
+            robotic technologies.
+          </div>
+          <br/>
+          Ani Hsieh, University of Pennsylvania, <a href="javascript:void($('#hsieh').toggle());"><i>TBD</i></a>
+          <div id="hsieh" style="display:none;">
+            <br/>
+            Overview of our operating autonomous systems in geophysical flows.
+          </div>
+          <br/>
+          Kirstin Petersen, Cornell University, <a href="javascript:void($('#petersen').toggle());"><i>Designing Robot Collectives</i></a>
+          <div id="petersen" style="display:none;">
+            <br/>
+            Brief overview of the work we do in the Collective Embodied Intelligence Lab
           </div>
         </td>
       </tr>
       <tr>
-        <td>12:20 - 1:40 PM</td>
+        <td>12:30 - 13:15</td>
         <td>
           <b>Lunch</b>
         </td>
       </tr>
       <tr>
-        <td>1:40 - 2:40 PM</td>
+        <td>13:15 - 14:30</td>
         <td>
-          <b>Assisting Humans</b> <br/>
-          Steve Collins, Carnegie Mellon University, <a href="javascript:void($('#collins').toggle());"><i>Human-in-the-loop optimization of exoskeleton control</i></a>
-          <div id="collins" style="display:none;">
+          <b>Lab Tours</b>
+        </td>
+      </tr>
+      <tr>
+        <td>14:45 - 16:00</td>
+        <td>
+          <b>Deep Learning</b> <br/>
+          Jens Kober, Delft University of Technology, <a href="javascript:void($('#kober').toggle());"><i>Efficient Deep RL for Robotics</i></a>
+          <div id="kober" style="display:none;">
             <br/>
-            I would describe our recent big result (now in review at Science) tha automatically customizing exoskeleton assistance during walking and running under various conditions leads to huge improvements in performance. I would also admonish the field to stop doing crappy prosthetics and exoskeleton research, for example in which no human participants are involved.
+            Deep reinforcement learning has been extremely successful. However,
+            when applying it to real robot control tasks, there a a lot of
+            stumbling blocks. This talk will present some ideas on rendering the
+            learning process sample-efficient and capable of dealing with
+            limited replay buffer sizes.
           </div>
           <br/>
-          Guy Hoffman, Cornell University, <a href="javascript:void($('#hoffman').toggle());"><i>A Wearable Robotic Forearm</i></a>
-          <div id="hoffman" style="display:none;">
+          Matthew Johnson-Roberson, University of Michigan, <a href="javascript:void($('#roberson').toggle());"><i>Deep learning for Field Robots: Stop Hand Labeling</i></a>
+          <div id="roberson" style="display:none;">
             <br/>
-            We present the design and implementation of a wearable robotic forearm for close-range human-robot collaboration. We discuss usage scenarios, kinematics, bio-mechanical load analysis, and insights from three studies of people interacting with the robot.
+            A discussion of techniques to limit the amount of data labeling required to deploy machine learning on field robotic systems.
           </div>
           <br/>
-          Henny Admoni, Carnegie Mellon University, <a href="javascript:void($('#admoni').toggle());"><i>Assistive Robotics Using Natural Human Behavior</i></a>
-          <div id="admoni" style="display:none;">
+          Tucker Hermans, University of Utah, <a href="javascript:void($('#hermans').toggle());"><i>Planning Multi-Fingered Grasps as Probabilistic Inference in a Learned Deep Network</i></a>
+          <div id="hermans" style="display:none;">
             <br/>
-            Assistive robots must recognize human mental states---such as what people intend to do or where they need help---in order to provide effective assistance. People naturally express their mental states through their behavior, like eye gaze. Robots that detect, interpret, and respond to human behavior can provide better assistance.
+            Learning complex cost functions for use in optimization-based motion
+            planning.
+          </div>
+          <br/>
+          Jonathan Kelly, University of Toronto Institute for Aerospace Studies, <a href="javascript:void($('#kelly').toggle());"><i>Sunny Days: Improving Visual Odometry Using Deep Visual Illumination Estimation</i></a>
+          <div id="kelly" style="display:none;">
+            <br/>
+            Visual navigation is essential for many successful robotics
+            applications. Visual odometry (VO), an incremental dead reckoning
+            technique, in particular, has been widely employed on many
+            platforms, including the Mars Exploration Rovers and the Mars
+            Science Laboratory. However, a drawback of this visual motion
+            estimation approach is that it exhibits superlinear growth in
+            positioning error with time, due in large part to orientation drift.
+            In this talk, I will describe recent work in our group on a method
+            to incorporate global orientation information from the sun into a
+            visual odometry (VO) pipeline, using data from the existing image
+            stream only. This is challenging in part because the sun is
+            typically not visible in the input images. Our work leverages recent
+            advances in Bayesian Convolutional Neural Networks (BCNNs) to train
+            and implement a sun detection model (dubbed Sun-BCNN) that infers a
+            three-dimensional sun direction vector from a single RGB image.
+            Crucially, the technique also computes a principled uncertainty
+            associated with each prediction, using a Monte Carlo dropout scheme.
+            We incorporate this uncertainty into a sliding window stereo VO
+            pipeline where accurate uncertainty estimates are critical for
+            optimal data fusion.
+          </div>
+          <br/>
+          Matthew Walter, Toyota Technological Institute at Chicago, <a href="javascript:void($('#walter').toggle());"><i>Jointly Learning to Construct and Control Agents using Deep Reinforcement Learning</i></a>
+          <div id="walter" style="display:none;">
+            <br/>
+            Describe a method that jointly optimizes over a robot's physical
+            design and the corresponding control policy in a model-free fashion,
+            without the need for expert supervision.
           </div>
         </td>
       </tr>
       <tr>
-        <td>2:40 - 3:00 PM</td>
+        <td>16:00 - 16:30</td>
         <td>
           <b>Coffee Break</b>
         </td>
       </tr>
       <tr>
-        <td>3:00 - 5:00 PM</td>
+        <td>16:30 - 17:15</td>
         <td>
-          <b>Discussion / Meetings / Free time / Run with Sidd</b>
-        </td>
+          <b>HRI</b> <br/>
+          Laurel Riek, University of California, San Diego, <a href="javascript:void($('#riek').toggle());"><i>Fluent Human Robot Teaming in Safety Critical Environments</i></a>
+          <div id="riek" style="display:none;">
+            <br/>
+            To operate proximately with people, robots need the ability to
+            dynamically and quickly interpret human activities, understand
+            context, and take appropriate (and safe) actions. They also need to
+            learn from and adapt to people long term. Our research focuses on
+            building robots that autonomously solve problems in human
+            environments, particularly those that are safety critical (e.g.,
+            hospitals, homes, and factories). Recent contributions include new
+            methods to model stochastic environments and circumvent sensor noise
+            and occlusion, new techniques to enable robots to robustly solve
+            problems under limited computational resources, and methods for
+            robots to perceive and learn from people long term. Our primary
+            application focus is healthcare, with recent work in emergency
+            medicine and neurorehabilitation. This talk will describe several
+            recent projects in this space.
+          </div>
+          <br/>
+          Dana Kulic, University of Waterloo, <a href="javascript:void($('#kulic').toggle());"><i>Human Supervision of Autonomy</i></a>
+          <div id="kulic" style="display:none;">
+            <br/>
+            As robot capabilities increase, many robots are becoming capable of
+            autonomous behaviour in a broad range of environments, but rely on
+            human supervision and direction. In particular, human operators
+            should specify goals, constraints and other guidelines for robot
+            behaviour. Novice human operators, who may not be familiar with
+            robot capabilities and behaviours, may find it difficult to specify
+            tasks appropriately, and may not appreciate the impact of the
+            specifications on task performance. In this talk, I will review
+            recent work on interactive task specification and learning user
+            preferences through interaction.
+          </div>
+          <br/>
+          Maya Cakmak, University of Washington, <a href="javascript:void($('#cakmak').toggle());"><i>TBD</i></a>
+          <div id="cakmak" style="display:none;">
+            <br/>
+            TBD
+          </div>
+          </td>
       </tr>
+      <td>
+      </td>
+      <td></td>
     </tbody>
 </table>
-
-{% endcomment %}
+-->

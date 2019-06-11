@@ -6,11 +6,17 @@ priority: 6
 
 awards: ['Best Paper', 'Best Student Paper', 'Best Systems Paper']
 status: ['Winner', 'Finalist']
+invisible: true
 ---
 
-{% comment %}
-Winners are selected from a group of finalists by an awards committee.
-Here is a list of past [finalists and winners](http://www.roboticsfoundation.org/index.php/awards).
+<!--
+During the awards ceremony, we will be presenting the conference best paper
+awards in addition to the [International Journal of Robotics
+Research](http://journals.sagepub.com/home/ijr) best paper award.
+
+The best conference papers are selected from a group of finalists by an awards
+committee. Here is a list of past [finalists and
+winners](http://www.roboticsfoundation.org/index.php/awards).
 
 {% for award_name in page.awards %}
 {% if award_name == 'Best Paper' %}
@@ -19,7 +25,7 @@ Here is a list of past [finalists and winners](http://www.roboticsfoundation.org
 This award is given to the best paper of the conference.
 
 {% elsif award_name == 'Best Student Paper' %}
-### Best Student Paper Award
+### Best Student Paper Award sponsored by [Springer](https://www.springer.com/us) on behalf of [Autonomous Robots](https://www.springer.com/engineering/control/journal/10514)
 
 This award is given to the best paper of the conference whose first author is a
 student.
@@ -43,13 +49,15 @@ award was given for the first time in 2015
 **Finalists:**
 {% endif %}
 
-{% for paper in site.data.papers %}
 {% for award in site.data.award_finalists %}
+{% for paper in site.data.papers %}
 {% if award.type == award_name and award.status == award_status and award.internal_id == paper.internal_id %}
-<a href="{{ site.baseurl }}/program/papers/{{ paper.external_id }}/">
-  {{ paper.title }}
-</a>
-<br/>
+<details>
+<summary><b>{{ paper.title }}</b></summary>
+{{ paper.abstract }}
+<br>
+  [<b><a href="http://www.roboticsproceedings.org/rss14/p{{ paper.external_id }}.pdf">Full Paper</a></b>]
+</details>
   {{ paper.authors }}
 <br/>
 {% endif %}
@@ -58,20 +66,5 @@ award was given for the first time in 2015
 {% endfor %}
 {% endfor %}
 
-### Outstanding Reviewer Acknowledgement
-
-Reviewers are the life blood of a conference. Although not an award, this
-acknowledgement provides an opportunity to highlight and thank our most
-outstanding reviewers nominated by the Area Chairs.
-
-- Jerom Le Ny
-- Nikolaus Correll
-- Francesco Amigoni
-- Dylan Shell
-- Antonis Argyros
-- David Held
-- Maurice Fallon
-- Leslie Kaelbling
-
 <br/><br/><br/><br/>
-{% endcomment %}
+-->

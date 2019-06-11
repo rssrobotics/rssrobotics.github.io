@@ -1,10 +1,10 @@
 internal_id,type,status
-100,Best Paper,Winner
-64,Best Paper,Finalist
-47,Best Paper,Finalist
-148,Best Student Paper,Winner
-171,Best Student Paper,Finalist
-128,Best Student Paper,Finalist
-51,Best Systems Paper,Winner
-121,Best Systems Paper,Finalist
-228,Best Systems Paper,Finalist
+117,Best Paper,Finalist
+131,Best Paper,Finalist
+148,Best Paper,Winner
+120,Best Student Paper,Finalist
+193,Best Student Paper,Winner
+218,Best Student Paper,Finalist
+127,Best Systems Paper,Winner
+244,Best Systems Paper,Finalist
+184,Best Systems Paper,Finalist

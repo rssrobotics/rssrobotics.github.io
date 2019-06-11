@@ -1,0 +1,156 @@
+Review Form
+
+1. Title of Proposed Event
+--------------------------------------------------------------------
+
+Please summarize: the topic of the workshop; its key strengths and
+contributions to RSS; and any primary weaknesses or concerns: 
+
+
+
+
+2. How important is this topic to the robotics community?
+-------------------------------------------------------------
+
+[] excellent
+[] quite important
+[] not so much
+[] unimportant
+
+3. How interesting will this workshop be to RSS participants?
+-------------------------------------------------------------
+
+[] excellent
+[] quite interesting
+[] not so much
+[] uninteresting
+
+Any comments regarding relevance or interest:
+
+
+
+4. What is the status of the workshop website?
+----------------------------------------------
+
+[] excellent
+[] quite good
+[] not so good
+[] poor
+
+Any comments regarding the submitted web page:
+
+
+
+5. Is the suggested duration of the workshop appropriate?
+---------------------------------------------------------
+
+[] Yes
+[] No, too long
+[] No, too short
+
+
+6. Do the organizers have a good plan for soliciting participation?
+-----------------------------------------------------------
+
+[] excellent
+[] quite good
+[] not so good
+[] poor
+
+Any comments regarding the plan for soliciting participation:
+
+
+
+7. Have the organizers proposed a format that will encourage
+discussion and interactions during their proposed event? 
+-----------------------------------------------------------
+
+[] excellent
+[] quite good
+[] not so good
+[] poor
+
+Any comments regarding the expected interactivity of the proposed
+event: 
+
+
+
+8. Are there an appropriate number of speakers/participants involved?
+Are they relevant to the scope of the project? 
+----------------------------------------------------------
+
+[] excellent
+[] quite good
+[] not so good
+[] poor
+
+Any comments regarding the submitted list of speakers:
+
+
+
+9. Have the organizers outlined how they might encourage speakers to
+focus on the topic and tailor their talks to the workshop? 
+-----------------------------------------------------------
+
+[] excellent
+[] quite good
+[] not so good
+[] poor
+
+Any comments regarding the organizer’s plan to encourage focus on the
+workshop topic? 
+
+
+
+10. Have the organizers outlined how they will ensure diversity in
+ideas and participation? 
+-----------------------------------------------------------
+
+[] excellent
+[] quite good
+[] not so good
+[] poor
+
+Please explain:
+
+
+
+11. If outlier track: how well does the proposal push the boundaries
+of traditional academic workshops by examining ideas that are (i)
+important for the field; (ii) poorly treated by the formal peer-review
+process? 
+-----------------------------------------------------------
+
+[] excellent
+[] quite good
+[] not so good
+[] poor
+[] not outlier track
+
+Please provide a statement regarding how and how well the proposal
+pushes the boundaries of traditional academic workshops: 
+
+
+
+12. Main Strength/Weakness of Workshop Proposal
+----------------------------------------------
+
++:
+ 
+-:
+
+
+
+Please provide feedback to the organizers on how they could improve
+their event and its impact:
+
+
+
+13. Overall Recommendation
+--------------------------
+
+[] Strong accept
+[] Weak accept
+[] Weak reject
+[] Strong reject
+

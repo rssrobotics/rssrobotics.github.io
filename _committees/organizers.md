@@ -6,61 +6,56 @@ description: Organizing team.
 <div>
     <div class="row text-center">
             <b>Program Chair</b><br>
-            <a href="http://verifiablerobotics.com/">Hadas Kress-Gazit</a><br>
-            <i>Cornell</i><br>
+            <a href="http://www.centropiaggio.unipi.it/~bicchi/">Antonio Bicchi</a><br>
+            <i>University of Pisa</i><br>
             <br>
             <b>General Chair</b><br>
-            <a href="http://www.cs.cmu.edu/~siddh/">Siddhartha Srinivasa</a><br>
-            <i>University of Washington</i><br>
+            <a href="http://verifiablerobotics.com/">Hadas Kress-Gazit</a><br>
+            <i>Cornell University</i><br>
             <br>
             <b>Local Arrangements Chair</b><br>
-            <a href="http://nmichael.frc.ri.cmu.edu/" >Nathan Michael</a><br>
-            <i>CMU</i><br>
+            <a href="http://www2.informatik.uni-freiburg.de/~burgard/" >Wolfram Burgard</a><br>
+            <i>University of Freiburg</i><br>
             <br>
             <b>Publicity Chair</b><br>
-            <a href="http://www.robots.ox.ac.uk/~mfallon/" >Maurice Fallon</a><br>
-            <i>Oxford</i><br>
+            <a href="https://ori.ox.ac.uk/ori-people/ioannis-havoutis/" >Ioannis Havoutis</a><br>
+            <i>University of Oxford</i><br>
             <br>
             <b>Workshop Chairs</b><br>
-            <a href="https://am.is.tuebingen.mpg.de/person/jbohg">Jeannette Bohg</a><br>
-            <i>Stanford</i><br>
-            <a href="https://www.csee.umbc.edu/~cmat/">Cynthia Matuszek</a><br>
-            <i>University of Maryland Baltimore County</i><br>
+            <a href="https://www.hrl.uni-bonn.de/Members/maren">Maren Bennewitz</a><br>
+            <i>University of Bonn</i><br>
+            <a href="http://www.centropiaggio.unipi.it/~pallottino">Lucia Pallotino</a><br>
+            <i>University of Pisa</i><br>
             <br>
-            <b>Presentation Chairs</b><br>
-            <a href="http://prorok.me/">Amanda Prorok</a><br>
-            <i>Cambridge</i><br>
-            <a href="http://people.csail.mit.edu/camato/">Christopher Amato</a><br>
-            <i>Northeastern</i><br>
-            <br>
-            <b>Publication Chairs</b><br>
-            <a href="http://www.ece.rochester.edu/people/faculty/howard_tom/">Tom Howard</a><br>
-            <i>University of Rochester</i><br>
-            <a href="http://jacobsschool.ucsd.edu/faculty/faculty_bios/index.sfe?fmp_recid=409">Nikolay Atanasov</a><br>
-            <i>UCSD</i><br>
+            <b>Presentation Chair</b><br>
+	    <a href="http://www2.informatik.uni-freiburg.de/~henkolk/" >Henrich Kolkhorst</a><br>
+            <i>University of Freiburg</i><br>
+	    <br>
+            <b>Publication Chair</b><br>
+            <a href="http://www.cc.gatech.edu/~seth/">Seth Hutchinson</a><br>
+            <i>Georgia Institute of Technology</i><br>
+	    <br>
+            <b>Inclusion Chairs</b><br>
+	    <a href="http://www.cs.utah.edu/~thermans/">Tucker Hermans</a><br>
+            <i>University of Utah</i><br>
+	    <a href="http://www.jenskober.de">Jens Kober</a><br>
+            <i>Delft University of Technology</i><br>
+	    <br>
+            <b>RSS Pioneers Chairs</b><br>
+            <a href="http://www.tescafitzgerald.com/">Tesca Fitzgerald</a><br>
+            <i>Georgia Institute of Technology</i><br>
+            <a href="http://www2.informatik.uni-freiburg.de/~valada/">Abhinav Valada</a><br>
+            <i>University of Freiburg</i><br>
             <br>
             <b>Web Chairs</b><br>
-            <a href="http://wtabib.com/">Wennie Tabib</a><br>
-            <i>CMU</i><br>
+            <a href="http://www2.informatik.uni-freiburg.de/~winterhw/" >Wera Winterhalter</a><br>
+            <i>University of Freiburg</i><br>
+            <a href="http://www2.informatik.uni-freiburg.de/~fleckenf/">Freya Fleckenstein</a><br>
+            <i>University of Freiburg</i><br>
+            <br>
+            <b>Families@RSS Chair</b><br>
+	    a professional child care agency <br>
+	    will be in charge of families@rss
             <br>
     </div>
-
-    <div id="area-chairs" class="row text-center">
-        <b>Area Chairs</b><br>
-
-    {% for member in site.data.areachairs %}
-    {% capture modulo %}{{ forloop.index0 | modulo:3 }}{% endcapture %}
-
-    {% if modulo == '0' %}<div class="row text-center">{% endif %}
-        <div class="col-sm-4">
-            <a href="{{ member.url }}">{{ member.name }}</a><br>
-            <i>{{ member.affiliation }}</i><br>
-            <br>
-        </div>
-    {% if modulo == '2' or forloop.last %}</div>{% endif %}
-
-    {% endfor %}
-
-    </div>
-
 </div>
