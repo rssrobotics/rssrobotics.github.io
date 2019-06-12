@@ -31,14 +31,10 @@
       {% endif %}
 
       {% comment %} Special events with special information {% endcomment %}
-      {% if event.title == 'Early Career:' %}
-        {% if event.date == 'June 27' and event.time == '14:00 - 14:30'%}
-      <a href="{{ site.baseurl }}/program/earlycareer/#cakmak"><br>Maya Cakmak</a>, Robot Programming for All
-        {% elsif event.date == 'June 27' and event.time == '16:00 - 16:30' %}
-      <a href="{{ site.baseurl }}/program/earlycareer/#tellex"><br>Stefanie Tellex</a>, Learning Models of Language, Action and Perception for Human-Robot Collaboration
-        {% elsif event.date == 'June 28' %}
-      <a href="{{ site.baseurl }}/program/earlycareer/#levine"><br>Sergey Levine</a>, Robots that learn and improve through experience
-        {% endif %}
+      {% if event.title == 'Early Career 1' %}
+      <a href="{{ site.baseurl }}/program/earlycareer/#schoellig"><br>Angela Schöllig</a>, Machine Learning in the Closed Loop: Safety and Performance Guarantees for Robot Learning
+      {% elsif event.title == 'Early Career 2' %}
+      <a href="{{ site.baseurl }}/program/earlycareer/#pavone"><br>Marco Pavone</a>, On safe and efficient human-robot interactions via multimodal intent modeling and reachability-based safety assurance
       {% endif %}
 
       {% if event.title == 'Keynote Presentation' %}

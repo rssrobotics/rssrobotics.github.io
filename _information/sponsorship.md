@@ -2,6 +2,7 @@
 layout: page
 title: Sponsors
 description: Sponsorship information
+image_space: "5"
 ---
 
 We are currently planning the events and budget for RSS 2019. Sponsorship of our
@@ -15,79 +16,30 @@ papers. In addition to the technical aspects of the conference, a series of
 social and industry events will provide opportunities for networking and
 recruiting.
 
-If you would like to show your presence at RSS 2019 by becoming a sponsor, please refer to our <a href="{{ site.baseurl }}/docs/RSS2019_Sponsorship.pdf">sponsorship options</a>.
+If you would like to show your presence at RSS 2019 by becoming a
+sponsor, please refer to our <a href="{{ site.baseurl
+}}/docs/RSS2019_Sponsorship.pdf">sponsorship options</a>.
 
 <h2>RSS Banquet Sponsor</h2>
-<div class="text-center" id="ss-banquet">
-    {% for sponsor in site.data.sponsors %}
-      {% if sponsor.support_level == "banquet" %}
-      <a href="{{ sponsor.url }}">
-        <img src="{{ site.baseurl }}/images/sponsors/{{ sponsor.image }}"
-	width="{{ sponsor.width }}"
-        alt="{{ site.sponsor_name }}"/>
-      </a>
-      {% endif %}
-    {% endfor %}
+<div class="text-center">
+{% include sponsors.html support_level="banquet" width="340" height="170" space=page.image_space %}
 </div>
-
 <br/>
 
 <h2>RSS Patrons</h2>
-<div class="text-center" id="ss-patron">
-    {% for sponsor in site.data.sponsors %}
-      {% if sponsor.support_level == "patron" %}
-      <a href="{{ sponsor.url }}">
-        <img src="{{ site.baseurl }}/images/sponsors/{{ sponsor.image }}"
-	width="{{ sponsor.width }}"	
-        alt="{{ site.sponsor_name }}"/>
-      </a>
-      {% endif %}
-    {% endfor %}
+<div class="text-center">
+{% include sponsors.html support_level="patron" width="240" height="120" space=page.image_space %}
 </div>
-
 <br/>
 
 <h2>RSS Benefactors</h2>
-<div class="text-center" id="ss-major">
-    {% for sponsor in site.data.sponsors %}
-      {% if sponsor.support_level == "benefactor" %}
-      <a href="{{ sponsor.url }}">
-        <img src="{{ site.baseurl }}/images/sponsors/{{ sponsor.image }}"
-	width="{{ sponsor.width }}"
-        alt="{{ site.sponsor_name }}"/>
-      </a>
-      {% endif %}
-    {% endfor %}
+<div class="text-center">
+{% include sponsors.html support_level="benefactor" width="160" height="80" space=page.image_space %}
 </div>
 <br/>
 
 <h2>RSS Sponsors</h2>
-<div class="text-center" id="ss-major">
-    {% for sponsor in site.data.sponsors %}
-      {% if sponsor.support_level == "sponsor" %}
-      <a href="{{ sponsor.url }}">
-        <img src="{{ site.baseurl }}/images/sponsors/{{ sponsor.image }}"
-	width="{{ sponsor.width }}"	
-        alt="{{ site.sponsor_name }}"/>
-      </a>
-      {% endif %}
-    {% endfor %}
+<div class="text-center">
+{% include sponsors.html support_level="sponsor" width="160" height="80" space=page.image_space %}
 </div>
-
 <br/>
-
-<!--
-<div class="text-center" id="ss-sponsor">
-<h2>RSS Small Business Sponsors</h2>
-    {% for sponsor in site.data.sponsors %}
-      {% if sponsor.support_level == "small" %}
-      <a href="{{ sponsor.url }}">
-        <img src="{{ site.baseurl }}/images/sponsors/{{ sponsor.image }}"
-	width="{{ sponsor.width }}"	
-        alt="{{ site.sponsor_name }}"/>
-      </a>
-      {% endif %}
-    {% endfor %}
-</div>
-<br/><br/>
--->

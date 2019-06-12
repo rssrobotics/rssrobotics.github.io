@@ -1,0 +1,11 @@
+{% for sponsor in site.data.sponsors %}
+{% if sponsor[1].support_level == include.support_level %}
+<a href="{{ sponsor[1].url }}" style="text-decoration:none">
+  <img src="{{ site.baseurl }}/images/sponsors/{{ sponsor[1].image }}"
+       style="width:{{ include.width }};height:{{ include.height }}"
+       width="{{ include.width }}" height="{{ include.height }}"
+       hspace="{{ include.space }}" vspace="{{ include.space }}"
+       alt="{{ sponsor[1].name }}"/>
+</a>
+{% endif %}
+{% endfor %}

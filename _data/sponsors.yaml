@@ -1,0 +1,85 @@
+-bosch:
+    name: Bosch
+    image: bosch.png
+    support_level: banquet
+    url: "https://www.bosch.com/research/"
+-tri:
+    name: TRI
+    image: tri.png
+    support_level: patron
+    url: "http://www.tri.global/"
+-lyft:
+    name: Lyft
+    image: lyft.png
+    support_level: benefactor
+    url: "https://www.lyft.com"
+-merl:
+    name: MERL
+    image: merl.jpg
+    support_level: benefactor
+    url: "http://www.merl.com"
+-ouster:
+    name: ouster
+    image: ouster.png
+    support_level: benefactor
+    url: "http://www.ouster.io/"
+-deepmind:
+    name: DeepMind
+    image: deepmind.png
+    support_level: sponsor
+    url: "https://deepmind.com/"
+-lockheed:
+    name: Lockheed
+    image: lockheed.jpg
+    support_level: benefactor
+    url: "https://www.lockheedmartin.com/en-us/index.html"
+-sick:
+    name: SICK
+    image: sick.png
+    support_level: benefactor
+    url: "https://www.sick.com/de/en/"
+-irobot:
+    name: iRobot
+    image: irobot.png
+    support_level: benefactor
+    url: "https://www.irobot.com"
+-samsung:
+    name: Samsung
+    image: samsung.png
+    support_level: sponsor
+    url: "https://www.samsung.com"
+-springer:
+    name: Springer
+    image: springer.jpg
+    support_level: sponsor
+    url: "https://www.springer.com"
+-nuro:
+    name: Nuro
+    image: nuro.png
+    support_level: sponsor
+    url: "https://nuro.ai/"
+-kaercher:
+    name: "K&auml;rcher"
+    image: kaercher.png
+    support_level: sponsor
+    url: "https://www.kaercher.com"
+-siemens:
+    name: Siemens
+    image: siemens_large.png
+    support_level: patron
+    url: "https://new.siemens.com/"
+-waymo:
+    name: Waymo
+    image: waymo.png
+    support_level: benefactor
+    url: "https://waymo.com/"
+-kuka:
+    name: KUKA
+    image: kuka.png
+    support_level: benefactor
+    url: "https://kuka.com/"
+-amazonrobotics:
+    name: amazonrobotics
+    image: amazon.png
+    support_level: sponsor
+    url: "https://www.amazonrobotics.com/#/"

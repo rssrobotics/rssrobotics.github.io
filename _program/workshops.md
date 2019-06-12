@@ -35,7 +35,7 @@ slots for all workshops and their Poster sessions [here](/docs/workshops.pdf).
 <table class="table table-striped table-workshop">
   <thead>
     <tr>
-      <th width="10%" align="center">WS</th>
+      <th width="10%" align="center">Workshop</th>
       <th width="30%">Title</th>
       <th width="30%">Organizers</th>
       <!--<th width="10%">Date</th>-->
@@ -48,18 +48,22 @@ slots for all workshops and their Poster sessions [here](/docs/workshops.pdf).
     {% if item[1].date == day %}
     <tr>
       <td>{{ item[1].external_id }}</td>
-      <td>
       {% if item[1].status contains 'Canceled' %}
-        <strike><a href="{{ site.baseurl }}/program/workshops/{{ item[0] }}/">
-          {{ item[1].title }}
-        </a></strike>
-        <br>
-        <br>
-        {% else %}
-	  <a href="{{ site.baseurl }}/program/workshops/{{ item[0] }}/">
-          {{ item[1].title }}
-	  </a>
+        <td colspan="4">
+      	   <i> {{ item[1].canceled_description }} </i>
+           <!--<strike><a href="{{ site.baseurl }}/program/workshops/{{ item[0] }}/">
+             {{ item[1].title }}
+           </a></strike>
+           <br>
+           <br>-->
+	</td>
+	</tr>
+	{% continue %}
       {% endif %}
+      <td>
+      <a href="{{ site.baseurl }}/program/workshops/{{ item[0] }}/">
+          {{ item[1].title }}
+      </a>
       </td>
       <td>
         {{ item[1].organizers | replace: ',', '<br/>' }}

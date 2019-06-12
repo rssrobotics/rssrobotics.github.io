@@ -158,7 +158,8 @@ Topics of interest include (but not limited to):
     abstract: "The long term goal of the Women in Robotics workshop series is to increase the number of women in robotics. The workshops are designed for a mixed-gender audience (male audience participants are welcome!) and to highlight the work of successful female roboticists, both established and budding. The fifth Women in Robotics Workshop aims to: (1) raise visibility of women in robotics, (2) strengthen the community of female roboticists and provide an opportunity for networking, and (3) foster mentorship of junior researchers.<br><br>  We plan to meet these goals by: <ul> <li>Presenting invited talks from women leaders in their field, thus demonstrating that women can and do play an important role in the robotics community;</li> <li>Bringing together women from various disciplines and subfields and providing opportunities for networking;</li> <li>Featuring the work of junior researchers (undergraduate, graduate, and postdocs) in two posters sessions; and providing meal and coffee break opportunities for mentor/mentee interactions by pairing junior researchers with senior researchers.</li> </ul> The workshop will also feature two keynote lectures by women who are leaders in their fields, invited talks by early career academics, panel presentations relevant to career development, and poster presentations by junior researchers."
 
   ws24:
-    status: Active
+    status: Canceled
+    canceled_description: "Please note: WS2-4 is merged with WS2-10"
     external_id: WS2-4
     internal_id: SUN4
     title: Safety in Robot Learning and Control
@@ -234,7 +235,7 @@ Topics of interest include (but not limited to):
     status: Active
     external_id: WS2-10
     internal_id: SUN10
-    title: "Robust autonomy: tools for safety in real-world uncertain environments"
+    title: "Robust Autonomy: safe robot learning and control in uncertain real-world environments"
     organizers: Ransalu Senanayak, Sylvia Herbert, Andrea Bajcsy, David Fridovich-Keil, Somil Bansal, Jaime Fernández Fisac
     date: June 23
     building: 101

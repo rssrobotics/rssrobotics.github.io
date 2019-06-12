@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Home
+sponsor_width: "120"
+sponsor_height: "60"
+sponsor_space: "5"
 ---
 
 <h1 class="page-title">{{ site.title }}<br>
@@ -88,13 +91,11 @@ Freiburg, Freiburg im Breisgau, Germany.
 
   [2018 RSS Conference Website](https://rislab.github.io/rss2018website/)
 
-<div id="ss-square" class="text-center">
-{% for sponsor in site.data.sponsors_footer %}
-    <a href="{{ sponsor.url }}">
-      <img src="{{ site.baseurl }}/images/sponsors/{{ sponsor.image }}" 
-      alt="{{ site.sponsor_name }}"/>
-    </a>
-  {% endfor %}
+<div class="text-center">
+{% include sponsors.html support_level="banquet" width=page.sponsor_width height=page.sponsor_height space=page.sponsor_space %}
+{% include sponsors.html support_level="patron" width=page.sponsor_width height=page.sponsor_height space=page.sponsor_space %}
+{% include sponsors.html support_level="benefactor" width=page.sponsor_width height=page.sponsor_height space=page.sponsor_space %}
+{% include sponsors.html support_level="sponsor" width=page.sponsor_width height=page.sponsor_height space=page.sponsor_space %}
 </div>
 
 <br/><br/>
